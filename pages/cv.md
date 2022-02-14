@@ -1,8 +1,9 @@
----
+﻿---
 
 # My Curriculum Vitae
 
 ---
+
 Update: 2022/01/19
 
 > ## Brief Biography
@@ -47,3 +48,9 @@ NTBF.
 **Dai, Y.**, Cai, X., Zhong, J. and MacKenzie, A.R., 2021. Modelling chemistry and transport in urban street canyons: Comparing offline multi-box models with large-eddy simulation. Atmospheric Environment, 264, p.118709. <https://doi.org/10.1016/j.atmosenv.2021.118709> **[[pdf](/static/papers/2021_model_cnt_AE.pdf)]**
 
 Xie, Q., Su, S., Chen, J., **Dai, Y.**, Yue, S., Su, H., Tong, H., Zhao, W., Ren, L., Xu, Y. and Cao, D., 2021. Increase of nitrooxy organosulfates in firework-related urban aerosols during Chinese New Year's Eve. Atmospheric Chemistry and Physics, 21(14), pp.11453-11465. <https://doi.org/10.5194/acp-21-11453-2021> **[[pdf](/static/papers/2021_nos_CNY_acp.pdf)]**
+
+
+
+
+---
+[◄◄ BACK](https://yuqingdai.xyz/#/README)
