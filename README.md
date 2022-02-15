@@ -42,7 +42,10 @@ via email with any comments and suggestions.
 # **Posts**
 
 ---
-[**2022-02-14:** How to fix your scientific coding errors](https://www.nature.com/articles/d41586-022-00217-0)
+
+> [**2022-02-14:** How to construct a Nature summary paragraph?](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
+
+> [**2022-02-14:** How to fix your scientific coding errors?](https://www.nature.com/articles/d41586-022-00217-0)
 
 
 
@@ -156,6 +159,7 @@ via email with any comments and suggestions.
 
 > Writing Guidelines
  - [Phrasebank](https://www.phrasebank.manchester.ac.uk/)
+ - [Thesiswhisper](https://thesiswhisperer.com/)
 
 ### **编程学习网**
 
