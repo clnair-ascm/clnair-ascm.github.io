@@ -26,14 +26,16 @@
 # **About**
 ---
 
-本仓库取名 **r2coding**，即 **Road To Coding**，意为「编程自学之路」，是自学编程以来所用资源和分享内容的大聚合。
+Once again, welcome to my personal website. This webpage has been built with the intention of capturing bits and pieces of my research journey and 
+life milestones. It also provides self-learners with a collection of resources and information: 
 
-旨在为编程自学者提供一系列：
->  - **清晰的编程自学路线**
->  - **各编程岗位方向的知识点梳理**
->  - **靠谱的资源**
->  - **高效的工具**
->  - **务实的技术文章**
+> - Fundenmetnal knowledge about air pollution
+> - Effective academic writing & editing tools
+> - Technical articles
+> - Other resources
+
+More information will be added, and some sections will be revised. Please Feel free to contact me through the chatbar on the bottom right or 
+via email with any comments and suggestions.
 
 ---
 
@@ -72,9 +74,9 @@
    practical scenarios,  expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes 
    has been developed for air pollution simulations in street canyons.
 
- > - [**A two-dimentional multi-box air quality model for street canyon modelling**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
- > - [**Street canyon NO2 hotspot and regulatory wiggle room**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
- > - [**The shading effects on reactive species within street canyons**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
+ > - [**A two-dimentional multi-box air quality model for street canyon modelling**]
+ > - [**Street canyon NO2 hotspot and regulatory wiggle room**]
+ > - [**The shading effects on reactive species within street canyons**]
  > - [**Modelling air quality within a deep canyon in Naples**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
 
  ---
