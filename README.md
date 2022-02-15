@@ -36,48 +36,149 @@
 >  - **务实的技术文章**
 
 ---
-# **Roadmap**
----
 
-![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/contentmap.3sdmma4od740.png)
+# **Posts**
 
 ---
-# **编程自学路线+知识大梳理**
+[**2022-02-14:** How to fix your scientific coding errors](https://www.nature.com/articles/d41586-022-00217-0)
+
+
 
 ---
+
+# **Modules**
+
+---
+
+## Atmospheric Chemistry ##
+
+## Air Quality Modelling ##
+
+## R Project ##
+
+
+## Linux ##
+  
+---
+
+# **Projects**
+
+ ---
+ 
+ ## Street canyon Studies (2019-2022): doctoral research
+
+   Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side,
+   leading to persistent higher exposure risk for pedestrians near the roadside. Using CFD approaches is, in general, very computational expensive for the study of 
+   practical scenarios,  expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes 
+   has been developed for air pollution simulations in street canyons.
+
+ > - [**A two-dimentional multi-box air quality model for street canyon modelling**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
+ > - [**Street canyon NO2 hotspot and regulatory wiggle room**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
+ > - [**The shading effects on reactive species within street canyons**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
+ > - [**Modelling air quality within a deep canyon in Naples**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
+
+ ---
+
+# **Publications**
+
+ ---
+ Recent publications are listed below. For more information about Yuqing, please see the [Curriculum Vitae](pages/cv.md) page.
+
+ **Published papers (<sup>#</sup> co-first author, <sup></sup> corresponding author)** <span id="badgeCont131"><script type="text/javascript" src="https://publons.com/mashlets/?el=badgeCont131&rid=AAC-1565-2022&size=small"></script></span>
+
+ **2022**
+
+
+ **2021**
+
+  **Dai, Y.**, Cai, X., Zhong, J. and MacKenzie, A.R., 2021. Modelling chemistry and transport in urban street canyons: Comparing offline multi-box models with large-eddy simulation. Atmospheric Environment, 264, p.118709. <https://doi.org/10.1016/j.atmosenv.2021.118709> **[[pdf](/static/papers/2021_model_cnt_AE.pdf)]**
+
+  Xie, Q., Su, S., Chen, J., **Dai, Y.**, Yue, S., Su, H., Tong, H., Zhao, W., Ren, L., Xu, Y. and Cao, D., 2021. Increase of nitrooxy organosulfates in firework-related urban aerosols during Chinese New Year's Eve. Atmospheric Chemistry and Physics, 21(14), pp.11453-11465. <https://doi.org/10.5194/acp-21-11453-2021> **[[pdf](/static/papers/2021_nos_CNY_acp.pdf)]**
+
+  ---
+
+# **Contact Information**
+
+ ---
+
+  > Name: Yuqing Dai / 代宇晴, Title: Mr.
+
+  <img align="left" src="/pics/bio.jpg" width="300" height="350">
+  <br clear="left"/>
+
+  > Address
+
+   School of Geography Earth and Environment Sciences\
+   University of Birmingham, Edgbaston\
+   Birmingham, UK\
+   B15 2TT
+
+
+   > Email
+
+   <yxd598@bham.ac.uk>.
+
+   > Website
+
+   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57254448300);   [ResearchGate](https://www.researchgate.net/profile/Yuqing-Dai);  [ORCID](https://orcid.org/0000-0002-8850-9527);  [ResearcherID](https://publons.com/researcher/4928690/yuqing-dai/).
+
+---
+
+# **Resources**
+
+ ---
+
+## **Scholar Tool Kits**
+
 本仓库目前整理收录了6个大方向（岗位）的学习路线+知识点大梳理，分别为：
 
-- **大数据开发**
+### **Notebook**
+
+ ***The palest ink is better than the best memory.*** Writing notes is essential in doing acadamic research. There are, 
+ of course, a plethora of excellent documentation tools and note-taking software to replace the traditional way of taking notes.
+ Each of these tools has its own set of qualities, and which one you choose will rely on your particular preferences and requirements.
+ 
+ - [Evernote](https://www.yinxiang.com/)
+ - [OneNote](https://www.onenote.com/)
+ - [Simplenote](https://simplenote.com/)
+ - [Yuque](https://www.yuque.com/)
+ - [Youdaonote](https://note.youdao.com/)
+ - [ticktick-Todolist](https://ticktick.com/?language=en_US)
+
+### **Academic Writing**
+> Toolkit
+ - [Phrasebank](https://www.phrasebank.manchester.ac.uk/)
+ - [DeepL](https://www.deepl.com/translator)
+ - [Quillbot](https://quillbot.com/)
+ - [Grammarly](https://www.grammarly.com/)
+
+> Writing Guidelines
+ - [Phrasebank](https://www.phrasebank.manchester.ac.uk/)
+
+### **编程学习网**
+
+- [bilibili](https://www.bilibili.com/)
+- [Cppot](https://www.dotcpp.com/)
+- [cppreference](http://zh.cppreference.com/)
+- [MOOC](https://www.icourse163.org/)
+- [nowcoder](https://www.nowcoder.com)
+- [163open](https://open.163.com/)
+- [CodeGym](https://codegym.cc/)
+- [BeginnersBook](https://beginnersbook.com/)
+- [JavaSED](http://www.javased.com/)
+- [codecademy](https://www.codecademy.com/)
+- [Coursera](https://www.coursera.org/)
+- [StackOverFlow](https://stackoverflow.com/)
+- [LeetCode](https://leetcode-cn.com/)
+- [LintCode](https://www.lintcode.com/)
+- [fCode](http://v.fcode.cn/)
 
 ---
 
-<!-- tabs:start -->
-
-### **Java后端开发**
-
-详情链接 **→** [《Java后端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/rAoamIey7cARMES7kfIaLw)
-
-![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/jawa.391vqmg83lc0.png)
-
-> 注：图片上传后可能被压缩，如需无损版高清大图，可去微信公众号「**CodeSheep**」后台回复「**后端开发**」四个字获取即可
-
-详情链接 **→** [《Java后端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/rAoamIey7cARMES7kfIaLw)
-
-### **大数据开发**
-
-详情链接 **→** [《大数据开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/dm2Qm4zZhHxEvcFgNS_mrA)
-
-![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/bigdata.21roso2lxdsw.png)
-
-> 注：图片上传后可能被压缩，如需无损版高清大图，可去微信公众号「**CodeSheep**」后台回复「**大数据**」三个字获取即可
-
-详情链接 **→** [《大数据开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/dm2Qm4zZhHxEvcFgNS_mrA)
-
-<!-- tabs:end -->
+ ## **Other Resources**
 
 ---
-# **常用编程软件和工具**
----
+
 > [!NOTE]
 >  - [**【置顶笔记下载1】熬10天夜，我肝出了这个PDF版「服务器软件安装手册」**](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
 >  
@@ -85,17 +186,9 @@
 
 > **工欲善其事，必先利其器！**
 
-接下来我们一项一项详细盘点。
-
 ---
 ## 常用在线工具集
 ---
-
-> [!NOTE]
->  - [**【本章节置顶资源下载】自学编程一路走来，这些私藏工具和网站我全贡献出来了！（附我的浏览器书签下载）**]
----
-
-<!-- tabs:start -->
 
 #### **在线画图工具**
 
@@ -201,34 +294,7 @@
 - [在线文字识别工具](https://ocr.wdku.net/)
 - [在线文件压缩工具](https://docsmall.com/)
 
-#### **文档笔记工具**
 
-好记性不如烂笔头，作为一个学习者，我觉得记笔记是必不可少的步骤。当然现在基本都做电子笔记和电子文档比较多。
-
-现如今各式各样优秀的文档工具和笔记软件鳞次栉比，好用的也有很多，整理成如下列表，这东西各有长处，使用哪个最合意还得看个人习惯和需求了。
-
-- [Evernote](https://www.yinxiang.com/)
-- [OneNote](https://www.onenote.com/)
-- [Simplenote](https://simplenote.com/)
-- [Yuque](https://www.yuque.com/)
-- [Youdaonote](https://note.youdao.com/)
-
-#### **编程学习网**
-
-- [哔哩哔哩](https://www.bilibili.com/)
-- [C语言网](https://www.dotcpp.com/)
-- [cppreference](http://zh.cppreference.com/)
-- [MOOC](https://www.icourse163.org/)
-- [牛客网](www.nowcoder.com)
-- [网易公开课](https://open.163.com/)
-- [CodeGym](https://codegym.cc/)
-- [BeginnersBook](https://beginnersbook.com/)
-- [JavaSED](http://www.javased.com/)
-- [codecademy](https://www.codecademy.com/)
-- [Coursera](https://www.coursera.org/)
-- [StackOverFlow](https://stackoverflow.com/)
-- [LeetCode](https://leetcode-cn.com/)
-- [LintCode](https://www.lintcode.com/)
 
 #### **在线教程和文档**
 
@@ -588,7 +654,8 @@
 所以该板块会持续甄选和更新互联网上那些优秀的、值得反复观看的技术视频教程。
 
 ---
-
+[**本章节置顶资源1：《Linux命令速查备忘手册.pdf》下载**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
+[**本章节置顶资源2：《Linux命令行大全.pdf》下载**](https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g)
 - [数据结构和算法：《郝斌 数据结构入门》](https://www.bilibili.com/video/BV11s41167h6)
 - [数据结构和算法：《数据结构-浙江大学》](https://www.bilibili.com/video/BV1JW411i731)
 - [数据结构和算法：《数据结构与算法基础（青岛大学-王卓）》](https://www.bilibili.com/video/BV1nJ411V7bd)
@@ -602,7 +669,6 @@
 - [计算机组成原理：《计算机组成原理（哈工大刘宏伟）》](https://www.bilibili.com/video/BV1t4411e7LH)
 - [编译原理：《编译原理（哈工大）》](https://www.bilibili.com/video/BV1zW411t7YE)
 - 更多的视频教程资源会持续更新，敬请期待…
-
 
 ---
 
@@ -634,9 +700,10 @@
 - [下载 → 豆瓣9.1分的Pro Git学习手册YYDS！](https://mp.weixin.qq.com/s/xDYSG4uDz9rgNCuk0RxLjg)
 - [下载 → 《Linux命令行大全》.pdf手册](https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g)
 
----
 
-# **编码之外**
+ 
+
+# **Apart From Academic (AFA)**
 
 ---
 
@@ -717,41 +784,6 @@
   - [0x0000000f](https://zzkia.noddl.me/)
   - [0x00000010](https://www.dgtle.com/)
   - [0x00000011](https://sspai.com/)
-
- ---
-
-# Publications
-
- ---
- 
- For more information about Yuqing, please see the [Curriculum Vitae](pages/cv.md) page.
-
-  ---
-
-# Contact Information
-
- ---
-
-  > Name: Yuqing Dai / 代宇晴, Title: Mr.
-
-  <img align="left" src="/pics/bio.jpg" width="300" height="350">
-  <br clear="left"/>
-
-  > Address
-
-   School of Geography Earth and Environment Sciences\
-   University of Birmingham, Edgbaston\
-   Birmingham, UK\
-   B15 2TT
-
-
-   > Email
-
-   <yxd598@bham.ac.uk>.
-
-   > Website
-
-   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57254448300);   [ResearchGate](https://www.researchgate.net/profile/Yuqing-Dai);  [ORCID](https://orcid.org/0000-0002-8850-9527);  [ResearcherID](https://publons.com/researcher/4928690/yuqing-dai/).
 
 ---
 

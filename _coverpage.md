@@ -7,9 +7,9 @@ This site was built with the assistance of **CodeSheep**, a really kind and know
 **The content of the website will continue to be updated, please feel free to contact me!**
 
 <img src="https://img.shields.io/badge/version-v1.0.0-green.svg" data-origin="https://img.shields.io/badge/version-v1.0.0-green.svg" alt=""> 
-<img src="https://img.shields.io/github/stars/ddyyqq112233/NoteBook" data-origin="https://img.shields.io/github/stars/ddyyqq112233/NoteBook" alt=""> 
-<img src="https://img.shields.io/github/forks/ddyyqq112233/NoteBook" data-origin="https://img.shields.io/github/forks/ddyyqq112233/NoteBook" alt="">
-<img src="https://img.shields.io/github/license/ddyyqq112233/NoteBook" data-origin="https://img.shields.io/github/license/ddyyqq112233/NoteBook" alt="">
+<img src="https://img.shields.io/github/stars/ddyyqq112233/yuqingd.github.io" data-origin="https://img.shields.io/github/stars/ddyyqq112233/yuqingd.github.io" alt=""> 
+<img src="https://img.shields.io/github/forks/ddyyqq112233/yuqingd.github.io" data-origin="https://img.shields.io/github/forks/ddyyqq112233/yuqingd.github.io" alt="">
+<img src="https://img.shields.io/github/license/ddyyqq112233/yuqingd.github.io" data-origin="https://img.shields.io/github/license/ddyyqq112233/yuqingd.github.io" alt="">
 
 ## Whisper, "Control-F" Is Your Best Friend!
 
