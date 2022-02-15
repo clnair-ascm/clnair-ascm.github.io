@@ -44,6 +44,13 @@ via email with any comments and suggestions.
 ---
 
 > [**2022-02-14:** How to construct a Nature summary paragraph?](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
+  - Using one or two sentences providing a basic background to the field, comprehensible to a scientist in any displine;
+  - Two or three sentences of more detailed background, comprehensible to scientists in related displine;
+  - Using one or two sentences claiming the general problem being addressed by your research;
+  - Summarising the main results/conclusion of your research using one sentence; 
+  - Two or three sentences explaining the results, or how your study adds to the current knowledge;
+  - One or two sentences to put results into a more general context;
+  - Two to three sentences to offer a boarder perspective of your work!
 
 > [**2022-02-14:** How to fix your scientific coding errors?](https://www.nature.com/articles/d41586-022-00217-0)
 
