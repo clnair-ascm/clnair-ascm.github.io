@@ -3,7 +3,7 @@
 <p align="center" style="color:blue">
   <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
     <h2 align="center">
-        Per Ardua Ad Alta...
+        AP Smith
     </h2>
   </a>
 </p>
@@ -34,8 +34,7 @@ life milestones. It also provides self-learners with a collection of resources a
 > - Technical articles
 > - Other resources
 
-More information will be added, and some sections will be revised. Please Feel free to contact me through the chatbar on the bottom right or 
-via email with any comments and suggestions.
+More information will be added smoothly, and some sections will be revised. Please feel free to contact through the chatbar on the page bottom right or via email with any comments and suggestions.
 
 ---
 
@@ -61,7 +60,7 @@ via email with any comments and suggestions.
 # **Modules**
 
 ---
-
+ Click picture to view.
 ## Atmospheric Chemistry ##
 
 ## Air Quality Modelling ##
@@ -73,7 +72,7 @@ via email with any comments and suggestions.
 ## Linux ##
 <p align="left">
     <a href="https://linuxjourney.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/hello-world.png" width="500"/>
+        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/hello-world.png" width="400"/>
     </a>
 </p>
 
@@ -92,6 +91,11 @@ via email with any comments and suggestions.
    has been developed for air pollution simulations in street canyons.
 
  > - [**A two-dimentional multi-box air quality model for street canyon modelling**]
+  <p align="left">
+    <a href="https://linuxjourney.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/hello-world.png" width="400"/>
+    </a>
+  </p>
  > - [**Street canyon NO2 hotspot and regulatory wiggle room**]
  > - [**The shading effects on reactive species within street canyons**]
  > - [**Modelling air quality within a deep canyon in Naples**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
@@ -162,7 +166,7 @@ via email with any comments and suggestions.
  - [Simplenote](https://simplenote.com/)
  - [Yuque](https://www.yuque.com/)
  - [Youdaonote](https://note.youdao.com/)
- - [ticktick-Todolist](https://ticktick.com/?language=en_US)
+ - [Ticktock-Todolist](https://ticktick.com/?language=en_US)
 
 ### **Academic Writing**
 > Toolkit
