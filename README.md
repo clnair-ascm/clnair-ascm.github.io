@@ -71,9 +71,9 @@ via email with any comments and suggestions.
 
 
 ## Linux ##
-<p align="center">
+<p align="left">
     <a href="https://linuxjourney.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/hello-world.png" width="200"/>
+        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/hello-world.png" width="500"/>
     </a>
 </p>
 
