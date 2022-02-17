@@ -91,11 +91,12 @@ More information will be added smoothly, and some sections will be revised. Plea
    has been developed for air pollution simulations in street canyons.
 
  > - [**A two-dimentional multi-box air quality model for street canyon modelling**]
-  <p align="left">
-    <a href="https://linuxjourney.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/hello-world.png" width="400"/>
-    </a>
-  </p>
+ <p align="left">
+  <a href="https://linuxjourney.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/StreetCanyon_v1.gif" width="600"/>
+  </a>
+ </p>
+
  > - [**Street canyon NO2 hotspot and regulatory wiggle room**]
  > - [**The shading effects on reactive species within street canyons**]
  > - [**Modelling air quality within a deep canyon in Naples**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
