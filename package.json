@@ -2,6 +2,7 @@
   "dependencies": {
     "docsify-darklight-theme": "^3.2.0",
     "docsify-example-panels": "^1.1.0",
-    "docsify-themeable": "^0.8.6"
+    "docsify-themeable": "^0.8.6",
+    "markdown-include": "^0.4.3"
   }
 }

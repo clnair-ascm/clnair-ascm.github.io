@@ -53,21 +53,19 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 > [**2022-02-14:** How to fix your scientific coding errors?](https://www.nature.com/articles/d41586-022-00217-0)
 
-
-
 ---
 
 # **Modules**
 
 ---
 
-> ## Atmospheric Chemistry ##
+> ## ATMOSPHERIC CHEMISTRY ##
 
-> ## Air Quality Modelling ##
+> ## AIR QUALITY MODELLING ##
 
-> ## R Project ##
+> ## R PROJECT ##
 
-> ## Linux ##
+> ## LINUX ##
 
 
 <!-- panels:end -->
@@ -85,9 +83,7 @@ More information will be added smoothly, and some sections will be revised. Plea
  > - #### ****2D MBM-FleX****
 
  <p align="left">
-  <a href="https://linuxjourney.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/StreetCanyon_v1.gif" width="600"/>
-  </a>
  </p>
 
    Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side,
@@ -101,7 +97,7 @@ More information will be added smoothly, and some sections will be revised. Plea
 
   <p align="left">
   <a href="https://linuxjourney.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/StreetCanyon_v1.gif" width="600"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/shading.png" width="600"/>
   </a>
  </p>
 
@@ -370,7 +366,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [Jenkins中文文档](https://www.jenkins.io/zh/doc/)
 
 <!-- panels:end -->
-
 
 <p align="left">
     <a href="https://linuxjourney.com/" target="_blank">
