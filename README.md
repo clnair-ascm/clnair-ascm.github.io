@@ -60,46 +60,48 @@ More information will be added smoothly, and some sections will be revised. Plea
 # **Modules**
 
 ---
- Click picture to view.
-## Atmospheric Chemistry ##
 
-## Air Quality Modelling ##
+> ## Atmospheric Chemistry ##
+
+> ## Air Quality Modelling ##
+
+> ## R Project ##
+
+> ## Linux ##
 
 
-## R Project ##
-
-
-## Linux ##
-<p align="left">
-    <a href="https://linuxjourney.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/hello-world.png" width="400"/>
-    </a>
-</p>
-
+<!-- panels:end -->
   
 ---
 
 # **Projects**
 
  ---
- 
+
  ## Street canyon Studies (2019-2022): doctoral research
 
-   Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side,
-   leading to persistent higher exposure risk for pedestrians near the roadside. Using CFD approaches is, in general, very computational expensive for the study of 
-   practical scenarios,  expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes 
-   has been developed for air pollution simulations in street canyons.
+<!-- tabs:start -->
 
- > - [**A two-dimentional multi-box air quality model for street canyon modelling**]
+ > - #### ****2D MBM-FleX****
+
  <p align="left">
   <a href="https://linuxjourney.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/StreetCanyon_v1.gif" width="600"/>
   </a>
  </p>
 
- > - [**Street canyon NO2 hotspot and regulatory wiggle room**]
- > - [**The shading effects on reactive species within street canyons**]
- > - [**Modelling air quality within a deep canyon in Naples**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
+   Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side,
+   leading to persistent higher exposure risk for pedestrians near the roadside. Using CFD approaches is, in general, very computational expensive for the study of 
+   practical scenarios,  expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes 
+   has been developed for air pollution simulations in street canyons. [More Information](https://www.nature.com/articles/d41586-022-00217-0)
+
+ > - #### ****NO2 Hotspot and Regulatory Wiggle Room****
+
+ > - #### ****The Shading Effects****
+
+ > - #### ****A Case Study in Naples****
+
+<!-- tabs:end -->
 
  ---
 
@@ -318,6 +320,7 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [在线多媒体转换器合集](https://cn.office-converter.com/)
 - [在线文字识别工具](https://ocr.wdku.net/)
 - [在线文件压缩工具](https://docsmall.com/)
+- [Compress Figure](https://www.iloveimg.com/compress-image)
 
 
 
@@ -362,8 +365,12 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 <!-- panels:end -->
 
-<!-- tabs:end -->
 
+<p align="left">
+    <a href="https://linuxjourney.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/hello-world.png" width="400"/>
+    </a>
+</p>
 ---
 ## 常用本地软件
 ---

@@ -358,6 +358,13 @@
             relativePath: true,
             topMargin: 60,//top
             //executeScript: true,/
+            tabs: {
+                persist: true,      // default
+                sync: true,      // default
+                theme: 'Classic', // default
+                tabComments: true,      // default
+                tabHeadings: true       // default
+            },
             //
             search: {
                 maxAge: 86400000, // 过期时间，单位毫秒，默认一天
@@ -437,10 +444,19 @@
             ],
         }
     </script>
-    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2/dist/docsify-copy-code.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+    <script src="http://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-example-panels"></script>
+
 
     <!-- 支持 DOT 语言 -->
     <script src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/plugin/viz.js"></script>
@@ -452,9 +468,6 @@
     <script src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/plugin/pdfobject.min.js"></script>
     <!-- This is the source code of the pdf embed plugin -->
     <script src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/plugin/docsify-pdf-embed.js"></script>
-
-    <!-- copy the code -->
-    <script src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/plugin/docsify-copy-code.min.js"></script>
 
     <!-- Bk2Top -->
     <script src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/plugin/plugin/jquery.js"></script>
