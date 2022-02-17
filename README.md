@@ -99,6 +99,12 @@ More information will be added smoothly, and some sections will be revised. Plea
 
  > - #### ****The Shading Effects****
 
+  <p align="left">
+  <a href="https://linuxjourney.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/StreetCanyon_v1.gif" width="600"/>
+  </a>
+ </p>
+
  > - #### ****A Case Study in Naples****
 
 <!-- tabs:end -->
