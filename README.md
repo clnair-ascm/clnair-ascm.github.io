@@ -1,8 +1,4 @@
 ﻿
-<!-- <p>
-  <br>
-</p> -->
-
 ## **ABOUT**
 
 Once again, welcome to my personal website. This webpage has been built with the intention of capturing bits and pieces of my research journey and 
@@ -22,8 +18,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 ## **POSTS**
 
----
-
 > [**2022-02-15:** How to construct a Nature summary paragraph?](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
   - Using one or two sentences providing a basic background to the field, comprehensible to a scientist in any displine;
   - Two or three sentences of more detailed background, comprehensible to scientists in related displine;
@@ -38,8 +32,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 ---
 
 ## **MODULES**
-
----
 
 > ### Atmospheric Chemistry ###
 
@@ -96,7 +88,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 ## **PUBLICATIONS**
 
- ---
  Recent publications are listed below. For more information about Yuqing, please see the [Curriculum Vitae](pages/cv.md) page.
 
  **Published papers (<sup>#</sup> co-first author, <sup></sup> corresponding author)** <span id="badgeCont131"><script type="text/javascript" src="https://publons.com/mashlets/?el=badgeCont131&rid=AAC-1565-2022&size=small"></script></span>
@@ -113,8 +104,6 @@ More information will be added smoothly, and some sections will be revised. Plea
   ---
 
 ## **CONTACT INFORMATION**
-
- ---
 
   > Name: Yuqing Dai / 代宇晴, Title: Mr.
 
@@ -140,8 +129,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 ---
 
 ## **RESOURCES**
-
- ---
 
 ## **Scholar Tool Kits**
 
