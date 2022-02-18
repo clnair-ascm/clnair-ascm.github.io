@@ -47,8 +47,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 ## **PROJECTS**
 
- ---
-
  ### Street Canyon Studies (2019-2022): Doctoral Research
 
 <!-- tabs:start -->

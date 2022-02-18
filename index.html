@@ -4,14 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <title>Yuqing's Blog</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="description" content="Description">
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="icon" href="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/favicon.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="google-site-verification" content="ks-x63sFEQSGfvTu0s1qRu5u4Y120n1TROFn17CJNLo" />
     <meta name="keywords" content="doc,docs,documentation,gitbook,creator,generator,github,jekyll,github-pages">
-    <meta name="description" content="A magical documentation generator.">
+    <meta name="description" content="For magical documentation generator with dark and light mode switch.">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
     <link rel="stylesheet"
-          href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+          href="http://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
           title="docsify-darklight-theme"
           type="text/css" />
     <!-- Support LaTex -->
@@ -23,7 +24,7 @@
     <!-- style -->
     <style>
 
-        /*Strong*/
+        /*加重描述strong*/
         .markdown-section strong {
             color: rgb(239, 112, 96);
         }
@@ -32,18 +33,18 @@
             position: fixed;
             margin: 0;
             /*padding: 10px 50px 10px 0;*/
-            padding: 0 70px 0 0; /*上、右、下、左*/
+            padding: 0px 70px 0px 0; /*上、右、下、左*/
             width: calc(100% - 325px);
             background-color: #fff;
             height: 0px;
-            border-bottom: 1px solid #eee;
+            border-bottom: 0px solid #eee;
         }
 
         /*.github-corner{
-          position: absolute;
-          z-index: 999999;
-          top: 0;
-        }*/
+      position: absolute;
+      z-index: 999999;
+      top: 0;
+    }*/
 
         .markdown-section code {
             border-radius: 2px;
@@ -64,7 +65,7 @@
             text-decoration: none;
         }
 
-        /*sidebar*/
+        /*侧边栏*/
         .sidebar {
             padding-top: 6px;
         }
@@ -107,7 +108,7 @@
                     box-shadow: 0 0 0 3px rgba(254, 210, 74, 0.4) !important;
                 }
 
-        /*sidebar adjustment*/
+        /*以上调侧边栏*/
 
         h1 span {
             display: inline-block;
@@ -118,7 +119,7 @@
             box-shadow: 1px 1px 3px black;
         }
 
-        /*code background*/
+        /*代码块背景*/
         p code {
             background-color: rgb(255, 255, 255) !important;
         }
@@ -141,7 +142,7 @@
             border-radius: 5px;
         }
 
-        /*sidebar cp ps*/
+        /*添加代码块复制按钮样式*/
         .docsify-copy-code-button {
             background: #00a1d6 !important;
             color: #FFFFFF !important;
@@ -158,7 +159,7 @@
         }
 
 
-        /* start*/
+        /*代码块头部图标 start*/
         .markdown-section pre:before {
             content: '';
             display: block;
@@ -169,14 +170,16 @@
             background-color: #1C1C1C;
             background-position: 10px 10px;
         }
-        /* end*/
+        /*代码块头部图标 end*/
 
         .markdown-section pre > code {
             color: #c0c3c1 !important;
             font-family: 'Inconsolata', consolas,"PingFang SC", "Microsoft YaHei", monospace !important;
             background-color: #212121 !important;
+            //#accfff #282c34 font-size: 15px !important;
             white-space: pre !important;
             line-height: 1.5 !important;
+            -moz-tab-size: 4 !important;
             -o-tab-size: 4 !important;
             tab-size: 4 !important;
             /*border-radius: .3em;*/
@@ -231,11 +234,10 @@
                 box-shadow: 0px 0px 20px 0px #f7f7f7 !important;
             }
 
-            /*#*/
+            /*代码块复制按钮默认隐藏*/
             .docsify-copy-code-button {
                 display: none;
             }
-        }
 
         .markdown-section pre {
             padding-left: 0 !important;
@@ -294,7 +296,6 @@
         a.section-link {
             font-size: .9rem !important;
         }
-
         /* start*/
         /*  */
         ::-webkit-scrollbar {
@@ -426,7 +427,7 @@
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-example-panels"></script>
 
-    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
+    <script src="http://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
             type="text/javascript">
     </script>
 
@@ -490,18 +491,18 @@
             },
             "display": {
                 "position": "right", //
-                "width": 80,  //
-                "height": 100, //
-                "hOffset": 30,
-                "vOffset": 30
+                "width":180,  //
+                "height": 180, //
+                "hOffset": 80,
+                "vOffset": 50
             },
             "mobile": {
                 "show": true,
-                "scale": 0.5
+                "scale": 0.1
             },
             "react": {
-                "opacityDefault": 0.7,
-                "opacityOnHover": 0.2
+                "opacityDefault": 0.8,
+                "opacityOnHover": 0.8
             }
         });
     </script>
