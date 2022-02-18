@@ -535,14 +535,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [实践应用：常见的SQL错误（不当）写法例析](https://mp.weixin.qq.com/s/caBYeVtZvNzbSs4q-6710Q)
 - [实践应用：SQL优化的几个角度](https://mp.weixin.qq.com/s/hl11JYMwl30FsDVZ40CLVQ)
 
-<!-- panels:end -->
-
-<!-- panels:start -->
-
-<!-- div:left-panel -->
-
-<!-- panels:end -->
-
 ---
 ---
 
@@ -637,10 +629,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 ## 面试题集合
 
-<!-- panels:start -->
-
-<!-- div:left-panel -->
-
 - [Java：浮点数精度问题面试例析](https://mp.weixin.qq.com/s/VXRRMabz_fvwnZeLWT-ybg)
 - [计网：2w+字的计算机网络常见面试题整理](https://mp.weixin.qq.com/s/C82YpO0gwC8LHcJSHbR81A)
 - [计网：面试最爱问的三次握手和四次挥手问题](https://mp.weixin.qq.com/s/lFnyBaaP3f0eNcKGW5RtCg)
@@ -648,7 +636,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [操作系统：操作系统面试题大分享](https://mp.weixin.qq.com/s/oTEMOQY1xcG8uVceW-kLDA)
 - [操作系统：面试常问的20个Linux命令](https://mp.weixin.qq.com/s/3NI4FWuOfYMJBiKqqnpqMA)
 
-<!-- div:right-panel -->
 
 - [数据库：MySQL面试硬核25问（附答案）](https://mp.weixin.qq.com/s/vdOOVQtZhrJXsvRUjq0HqQ)
 - [数据库：先更新数据库还是先更新缓存？](https://mp.weixin.qq.com/s/SPgtpfgv6bz2AfPa1CYYeQ)
