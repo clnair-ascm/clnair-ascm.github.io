@@ -62,9 +62,8 @@ More information will be added smoothly, and some sections will be revised. Plea
    practical scenarios, expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes 
    has been developed for air pollution simulations in street canyons. Click [here](https://www.nature.com/articles/d41586-022-00217-0) for more information.
 
-   城市街道峡谷通常指由街道和其两侧连续建筑所形成的相对密闭的环境。一般来讲，街道峡谷的通风性较差，大气污染物容易在其中累积，导致行人的暴露风险升高。流体力学模型虽然能够提供相对精确的污染物扩散信息，
-   但当纳入化学方案时，此类模型需要的计算资源较高，VOC自由基化学反应在之前模拟研究中考虑较少。因此，我们设计了分辨率可控的二维多箱模型用来模拟街道峡谷中大气污染物的物理化学过程。与大涡模拟结果的对比一致性较好。
-   因此，该模型可以反映主要气态污染物如NO2和O3在常规和深街道峡谷中的时间演化和空间变化规律，点击[更多信息](https://www.nature.com/articles/d41586-022-00217-0)了解详情。
+   城市街道峡谷通常指由街道和其两侧连续建筑所形成的相对密闭的环境。一般来讲，街道峡谷的通风性较差，大气污染物容易在其中累积，导致行人的暴露风险升高。流体力学（CFD）模型能够提供相对精确的污染物扩散信息，
+   但当纳入化学方案时，此类模型需要的计算资源较高。因此，VOC自由基化学反应在之前CFD研究中考虑较少。我们设计了分辨率可控的二维多箱模型用来模拟街道峡谷中大气污染物的物理化学过程，其性能与大涡模拟结果的对比一致性较好。该模型可以反映主要气态污染物如NO2和O3在常规和深街道峡谷中的时间演化和空间变化规律，点击[更多信息](https://www.nature.com/articles/d41586-022-00217-0)了解详情。
 
  > - #### ****NO2 Hotspot and Regulatory Wiggle Room****
 
