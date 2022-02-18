@@ -1,33 +1,12 @@
-﻿﻿
-
-<p align="center" style="color:blue">
-  <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-    <h2 align="center">
-        AP Smith
-    </h2>
-  </a>
-</p>
-
+﻿
 <!-- <p>
   <br>
 </p> -->
 
-<p align="center">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/r2coding_logo_index.15y992dieibg.png" width=""/>
-    </a>
-</p>
-
-**Please note!** +++ This website is currently in development. Please come visit [CodeSheep](https://r2coding.com/#/) for original resources! +++
-
-这个网站仍在开发中，请访问原作者[网站](https://r2coding.com/#/) 获取原分享资料.
-
----
-# **About**
----
+## **ABOUT**
 
 Once again, welcome to my personal website. This webpage has been built with the intention of capturing bits and pieces of my research journey and 
-life milestones. It also provides self-learners with a collection of resources and information: 
+life milestones. It also provides self-learners with a collection of resources and information:
 
 > - Fundenmetnal knowledge about air pollution
 > - Effective academic writing & editing tools
@@ -35,10 +14,13 @@ life milestones. It also provides self-learners with a collection of resources a
 > - Other resources
 
 More information will be added smoothly, and some sections will be revised. Please feel free to contact through the chatbar on the page bottom right or via email with any comments and suggestions.
+**Please note!** +++ This website is currently in development. Please come visit [CodeSheep](https://r2coding.com/#/) for original resources! +++
+
+这个网站仍在开发中，请访问原作者[网站](https://r2coding.com/#/) 获取原分享资料.
 
 ---
 
-# **Posts**
+## **POSTS**
 
 ---
 
@@ -55,28 +37,27 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 ---
 
-# **Modules**
+## **MODULES**
 
 ---
 
-> ## ATMOSPHERIC CHEMISTRY ##
+> ### Atmospheric Chemistry ###
 
-> ## AIR QUALITY MODELLING ##
+> ### Atmospheric Physics ###
 
-> ## R PROJECT ##
+> ### Air Quality Modelling ###
 
-> ## LINUX ##
+> ### R Project ###
 
-
-<!-- panels:end -->
+> ### Linux ###
   
 ---
 
-# **Projects**
+## **PROJECTS**
 
  ---
 
- ## Street canyon Studies (2019-2022): doctoral research
+ ### Street Canyon Studies (2019-2022): Doctoral Research
 
 <!-- tabs:start -->
 
@@ -88,17 +69,23 @@ More information will be added smoothly, and some sections will be revised. Plea
 
    Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side,
    leading to persistent higher exposure risk for pedestrians near the roadside. Using CFD approaches is, in general, very computational expensive for the study of 
-   practical scenarios,  expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes 
-   has been developed for air pollution simulations in street canyons. [More Information](https://www.nature.com/articles/d41586-022-00217-0)
+   practical scenarios, expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes 
+   has been developed for air pollution simulations in street canyons. Click [here](https://www.nature.com/articles/d41586-022-00217-0) for more information.
+
+   城市街道峡谷通常指由街道和其两侧连续建筑所形成的相对密闭的环境。一般来讲，街道峡谷的通风性较差，大气污染物容易在其中累积，导致行人的暴露风险升高。流体力学模型虽然能够提供相对精确的污染物扩散信息，
+   但当纳入化学方案时，此类模型需要的计算资源较高，VOC自由基化学反应在之前模拟研究中考虑较少。因此，我们设计了分辨率可控的二维多箱模型用来模拟街道峡谷中大气污染物的物理化学过程。与大涡模拟结果的对比一致性较好。
+   因此，该模型可以反映主要气态污染物如NO2和O3在常规和深街道峡谷中的时间演化和空间变化规律，点击[更多信息](https://www.nature.com/articles/d41586-022-00217-0)了解详情。
 
  > - #### ****NO2 Hotspot and Regulatory Wiggle Room****
+
+   <p align="left">
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/wiggleroom.png" width="600"/>
+ </p>
 
  > - #### ****The Shading Effects****
 
   <p align="left">
-  <a href="https://linuxjourney.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/shading.png" width="600"/>
-  </a>
  </p>
 
  > - #### ****A Case Study in Naples****
@@ -107,7 +94,7 @@ More information will be added smoothly, and some sections will be revised. Plea
 
  ---
 
-# **Publications**
+## **PUBLICATIONS**
 
  ---
  Recent publications are listed below. For more information about Yuqing, please see the [Curriculum Vitae](pages/cv.md) page.
@@ -125,7 +112,7 @@ More information will be added smoothly, and some sections will be revised. Plea
 
   ---
 
-# **Contact Information**
+## **CONTACT INFORMATION**
 
  ---
 
@@ -152,13 +139,15 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 ---
 
-# **Resources**
+## **RESOURCES**
 
  ---
 
 ## **Scholar Tool Kits**
 
 本仓库目前整理收录了6个大方向（岗位）的学习路线+知识点大梳理，分别为：
+
+<!-- tabs:start -->
 
 ### **Notebook**
 
@@ -174,15 +163,29 @@ More information will be added smoothly, and some sections will be revised. Plea
  - [Ticktock-Todolist](https://ticktick.com/?language=en_US)
 
 ### **Academic Writing**
-> Toolkit
+> Language
  - [Phrasebank](https://www.phrasebank.manchester.ac.uk/)
  - [DeepL](https://www.deepl.com/translator)
  - [Quillbot](https://quillbot.com/)
  - [Grammarly](https://www.grammarly.com/)
+ - [AcademicWord](https://www.wgtn.ac.nz/lals/resources/academicwordlist/most-frequent/sublist-1-most-frequent-words)
 
-> Writing Guidelines
- - [Phrasebank](https://www.phrasebank.manchester.ac.uk/)
+> Writing Guideline
+ 
  - [Thesiswhisper](https://thesiswhisperer.com/)
+ - [SciWritingMadeEasy](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258)
+
+### ** Online Editing Tools**
+
+这部分在线工具主要用来处理一些和文档以及文稿相关的事情，经常用到的比如：在线的全套pdf处理和转换工具、各种各样多媒体文件间的相互转换工具、在线识别工具、在线压缩工具等等。
+
+- [pdf_editing01](https://smallpdf.com/cn/pdf-tools)
+- [pdf_editing02](https://tools.pdf24.org/zh/)
+- [pdf2word](https://www.pdftoword.com/)
+- [compresfig](https://www.iloveimg.com/compress-image)
+- [compresfiles_chinese](https://docsmall.com/)
+- [在线多媒体转换器合集](https://cn.office-converter.com/)
+- [在线文字识别工具](https://ocr.wdku.net/)
 
 ### **编程学习网**
 
@@ -215,9 +218,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 > **工欲善其事，必先利其器！**
 
----
-## 常用在线工具集
----
 
 #### **在线画图工具**
 
@@ -312,21 +312,9 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [在线短链接工具](https://urlify.cn/)
 - [在线文本替换](http://www.fly63.com/tool/textreplace/)
 
-#### **Free web online tools**
+<!-- tabs:end -->
 
-这部分在线工具主要用来处理一些和文档以及文稿相关的事情，经常用到的比如：在线的全套pdf处理和转换工具、各种各样多媒体文件间的相互转换工具、在线识别工具、在线压缩工具等等。
-
-- [pdf在线处理工具套装1](https://smallpdf.com/cn/pdf-tools)
-- [pdf在线处理工具套装2](https://tools.pdf24.org/zh/)
-- [pdf转word在线工具](https://www.pdftoword.com/)
-- [在线多媒体转换器合集](https://cn.office-converter.com/)
-- [在线文字识别工具](https://ocr.wdku.net/)
-- [在线文件压缩工具](https://docsmall.com/)
-- [Compress Figure](https://www.iloveimg.com/compress-image)
-
-
-
-#### **在线教程和文档**
+###### **在线教程和文档**
 
 这部分主要集中了我在做开发过程中随手参考所要用到的几乎所有在线教程和官方文档，有中文版文档的我基本都优先列出来了，但更多时候是英文的官方文档。
 
