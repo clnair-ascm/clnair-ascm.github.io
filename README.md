@@ -70,6 +70,10 @@ More information will be added smoothly, and some sections will be revised. Plea
  </p>
 
  > - #### ****A Case Study in Naples****
+ 
+  <p align="left">
+      <img src=" https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/dcinital.png" width="600"/>
+ </p>
 
 <!-- tabs:end -->
 
