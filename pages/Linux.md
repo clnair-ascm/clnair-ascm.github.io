@@ -3,8 +3,8 @@
 ---
 
 <p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/linuxos.qciprfz30dc.png" width=""/>
+    <a href="https://linuxjourney.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/hello-world.png" width="400"/>
     </a>
 </p>
 

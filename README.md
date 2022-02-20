@@ -106,16 +106,16 @@ More information will be added smoothly, and some sections will be revised. Plea
  > ### [R 4 Data Analysis](pages/R4data.md) ###
    ***"It's wondrous, with treasures to satiate desires both subtle and gross, but it's not for timid." - Q.***
 
-> ### Linux ###
+> ### [Linux](pages/Linux.md) ###
   ***"My name is Linus, and I am your God." - Linus Torvalds.***
 
  ---
 
 ## **RESOURCES**
 
-## **Tool Kits**
+Craftmen must first sharpen their tools before they can do a good job, and fishermen must first repair their nets before they can catch any fish.
 
-本仓库目前整理收录了6个大方向（岗位）的学习路线+知识点大梳理，分别为：
+## **Tool Kits**
 
 <!-- tabs:start -->
 
@@ -147,33 +147,33 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 ### ** Online_Office_Editing**
 
-- [pdf_editing01](https://smallpdf.com/cn/pdf-tools)
-- [pdf_editing02](https://tools.pdf24.org/zh/)
-- [pdf2word](https://www.pdftoword.com/)
-- [compresfig](https://www.iloveimg.com/compress-image)
-- [compresfiles_CN](https://docsmall.com/)
-- [office-converter](https://www.office-converter.com/)
+- [Pdf_editing01](https://smallpdf.com/cn/pdf-tools)
+- [Pdf_editing02](https://tools.pdf24.org/zh/)
+- [Pdf2word](https://www.pdftoword.com/)
+- [Compresfig](https://www.iloveimg.com/compress-image)
+- [Compresfiles_CN](https://docsmall.com/)
+- [Office-converter](https://www.office-converter.com/)
 - [WordRec](https://ocr.wdku.net/)
 
 ### **Code_Learning_WEB**
 
-- [bilibili](https://www.bilibili.com/)
+- [Bilibili](https://www.bilibili.com/)
 - [Cppot](https://www.dotcpp.com/)
 - [cppreference](http://zh.cppreference.com/)
 - [MOOC](https://www.icourse163.org/)
-- [nowcoder](https://www.nowcoder.com)
+- [Nowcoder](https://www.nowcoder.com)
 - [163open](https://open.163.com/)
 - [CodeGym](https://codegym.cc/)
 - [BeginnersBook](https://beginnersbook.com/)
 - [JavaSED](http://www.javased.com/)
-- [codecademy](https://www.codecademy.com/)
+- [Codecademy](https://www.codecademy.com/)
 - [Coursera](https://www.coursera.org/)
 - [StackOverFlow](https://stackoverflow.com/)
 - [LeetCode](https://leetcode-cn.com/)
 - [LintCode](https://www.lintcode.com/)
 - [fCode](http://v.fcode.cn/)
 
-#### **Online_Visualisation**
+### **Online_Visualisation**
 
 - [ProcessOn](https://www.processon.com/)
 - [Draw.io](https://app.diagrams.net/)
@@ -182,10 +182,10 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [Data_Visualisation02_CN](https://www.zxgj.cn/m/bangong?t=&ob=2)
 - [WordCount](https://www.eteste.com/)
 
-#### **Format**
+### **Format**
 
-- [mdnice markdown](https://mdnice.com/)
-- [md2all markdown](http://md.aclickall.com/)
+- [Mdnice markdown](https://mdnice.com/)
+- [Md2all markdown](http://md.aclickall.com/)
 - [CodeSnapShot](https://carbon.now.sh/)
 - [JSON_Manipulate](http://www.json.cn/)
 - [CSS_Manipulate](https://enjoycss.com/)
@@ -198,35 +198,30 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [ASCII](http://www.fly63.com/tool/ascii/)
 - [CDNforOpenSource](https://www.jsdelivr.com/)
 
-#### **设计制作类工具**
+### **Design_Tools**
 
-对于那些文章创作者和视频创作者而言，设计封面，做海报，设计LOGO，图片美化等等基本也是刚需。
+The stuff listed below are some simple2use online tools for designers, including online P-art, light audio/video editing, 
+logo creation, poster design and production, picture beautifying, and online image conversion or generation. After all, we do not always need such robust local software.
 
-这样大概率日常会用到一些简易好上手的在线设计制作类工具，比如在线P图、音/视频轻量化剪辑、logo制作、海报设计制作、图片美化、在线图片转换或生成等等，毕竟不是每时每刻我们都需要那种重量级的本地软件。
-
-- [在线PS](https://www.uupoop.com/)
-- [在线音频剪辑](https://www.weixinsyt.com/)
-- [在线视频剪辑](https://www.kapwing.com/)
-- [免费logo在线制作](http://www.uugai.com/)
-- [在线表格转换工具](https://tableconvert.com/)
-- [在线海报设计工具](https://www.designcap.com/)
-- [图片智能放大工具](https://bigjpg.com/)
-- [二维码美化器](https://mh.cli.im/)
-- [在线代码截图工具](https://carbon.now.sh/)
-- [在线抠图工具](https://www.remove.bg/zh)
-- [ICO generator](http://www.fly63.com/php/ico/)
+- [Screen2Gif](https://www.screentogif.com/)
+- [OnlinePS_CN](https://www.uupoop.com/)
+- [OnlinePS_EN](https://www.photopea.com/)
+- [TableConvert](https://tableconvert.com/)
+- [PosterDesign](https://www.designcap.com/)
+- [RemoveBG](https://www.remove.bg/zh)
+- [ICOgenerator](http://www.fly63.com/php/ico/)
 - [SVG2PNG](http://www.fly63.com/tool/svg2img/)
-- [Video2GIF工具](http://www.fly63.com/tool/giftxt/)
-- [二维码在线生成器](http://www.fly63.com/tool/ewm/)
-- [二维码在线解码](http://www.fly63.com/php/decoder/)
+- [Video2GIF](http://www.fly63.com/tool/giftxt/)
+- [CodeGenerator](http://www.fly63.com/tool/ewm/)
+- [Decoder](http://www.fly63.com/php/decoder/)
 
-<!-- tabs:end -->
-
-###### **OnlineDocumentory**
+### **Online_Documentory**
 
 <!-- panels:start -->
 
 <!-- div:left-panel -->
+
+General
 
 - [Git](https://git-scm.com/book/en/v2)
 - [SVN](http://svnbook.red-bean.com/nightly/en/index.html)
@@ -245,18 +240,20 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 <!-- div:right-panel -->
 
+Scholar
+
 - [Facimile](https://www.mcpa-software.com/facsimile)
 - [CMAQ](https://www.epa.gov/cmaq/cmaq-models-0)
 - [WRF](https://www.mmm.ucar.edu/weather-research-and-forecasting-model)
 
 <!-- panels:end -->
 
-<p align="left">
-    <a href="https://linuxjourney.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/hello-world.png" width="400"/>
-    </a>
-</p>
+<!-- tabs:end -->
+
 ---
+
+## **PEST**
+
 #### **List of Commonly Used Software**
 
 - [资源下载 → 豆瓣9.1分的Pro Git学习手册YYDS！](https://mp.weixin.qq.com/s/xDYSG4uDz9rgNCuk0RxLjg)
@@ -270,10 +267,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [实践篇：如何使用GitHub Flow给开源项目贡献代码](https://mp.weixin.qq.com/s/JMNQi3BSTmKpF9vXMEdKHw)
 - [技巧篇：一招搞定GitHub下载加速！](https://mp.weixin.qq.com/s/SYR4zvjhAH1mX9fxdp8cbA)
 - [技巧篇：如何在同一台电脑上同时使用多个Git账号](https://mp.weixin.qq.com/s/Qt4bqReZU3ydIsMtCVC0eA)
-
----
-
-学好操作系统有利于我们深入理解计算机底层，这样平时在遇到疑难杂症时，能够更容易看到问题的本质，并高效解决；另外操作系统里的很多优秀的设计思想、经典的架构、算法、思路也值得我们反复理解和思考，很多思想在平时的工作中也可以借鉴和运用。
 
 - [知识总结：学编程要懂的操作系统基础](https://mp.weixin.qq.com/s/ttncekujB82g88GRx3a6lQ)
 - [知识总结：程序员必知的89个操作系统核心概念](https://mp.weixin.qq.com/s/VsQ7IpP-jnXSjJhOAzl-ew)
@@ -303,9 +296,7 @@ More information will be added smoothly, and some sections will be revised. Plea
 ---
 
 毫无疑问的是，对于上文提到的 **「编程基础」** 部分，有大量经典的书籍值得阅读，每一本都是大师们若干年经验的汇聚，所以学好编程基础，对于我们普通人来说，看书是一个非常直接有效的方式。
-
 很多经典书看一遍可能远远不够，正所谓 **「初看懵、再看迷、三看发现有点小意思」** 讲的就是这个道理，这事急不得，而且有些东西的确需要一个反反复复的过程，有些甚至是在工作后的实践中才会遇到，所以珍惜每一次回炉重造的过程吧。
-
 
 <!-- panels:start -->
 
@@ -326,7 +317,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 ## 简历相关
 
 - [资源下载 → 简历模板下载（word版）](https://mp.weixin.qq.com/s/-qlU2-a-vvXWOHXzKHRm6A)
-- [程序员写简历时必须注意的技术词汇拼写](https://mp.weixin.qq.com/s/q5gPSIiJqVvbI6Xa4dMXwA)
 - [国内程序员最容易发音错误的单词集合](https://mp.weixin.qq.com/s/VJsp5SzGuOCGl-mWdbtCxQ)
 
 ## 工作岗位科普
@@ -337,14 +327,13 @@ More information will be added smoothly, and some sections will be revised. Plea
 ---
 
 <a name="视频教程"></a>
+## **视频教程**
 
 --- 
 
 ## **Apart From Academic**
 
 Science is a marathon, not a sprint. A workaholoic behavior is not glorified. Stay still, feeling more of what's going on around...
-
----
 
 ## 码农生活
 
@@ -353,7 +342,7 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 - [程序员猪队友行为大赏，你遇到过哪些？](https://mp.weixin.qq.com/s/1dJO8VJ6GaZykv33IUslkw)
 - [如何玩rom的？](https://mp.weixin.qq.com/s/vI7EGqo7YbljRdZn2nUSMQ)
 - [程序员专属GIF动图批发](https://mp.weixin.qq.com/s/Gy-Qs80rHKDJwapCmYGGEg)
-- [521坦白帖](https://mp.weixin.qq.com/s/9DxslnAKgBHG85iZ8m6yYQ)
+- [5211](https://mp.weixin.qq.com/s/9DxslnAKgBHG85iZ8m6yYQ)
 - [程序员界的孔乙己](https://mp.weixin.qq.com/s/dW81quoXMRA2ObwTzIv74g)
 - [我的大学四年收获及工作感悟](https://mp.weixin.qq.com/s/x9EEDlGNIOPOL3v_qZiiAQ)
 - [垃圾领导把我的功劳全抢走了！](https://mp.weixin.qq.com/s/gknm-6k1zLY-1Cey12whSw)
@@ -376,7 +365,6 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 
 ## 读书写作
 
----
 
 ## 游记见闻
 
@@ -392,7 +380,7 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 
 ## 摸鱼时间
 
-咳咳。。。
+。。。
 
   - [0x00000001](https://www.bilibili.com/)
   - [0x00000002](https://mo.fish/)
@@ -411,6 +399,8 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
   - [0x0000000f](https://zzkia.noddl.me/)
   - [0x00000010](https://www.dgtle.com/)
   - [0x00000011](https://sspai.com/)
+
+... 
 
 ---
 
@@ -441,5 +431,3 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 
 Continue to be updated...
 <a href="https://www.revolvermaps.com/livestats/5f1iej06diq/"><img src="//rf.revolvermaps.com/w/3/s/a/0/40/2/baff00/007eff/aa0000/5f1iej06diq.png" alt="Stats" style="border:0;"></a>
-
----
