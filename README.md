@@ -113,7 +113,7 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 ## **RESOURCES**
 
-## **Scholar Tool Kits**
+## **Tool Kits**
 
 本仓库目前整理收录了6个大方向（岗位）的学习路线+知识点大梳理，分别为：
 
@@ -132,7 +132,7 @@ More information will be added smoothly, and some sections will be revised. Plea
  - [Youdaonote](https://note.youdao.com/)
  - [Ticktock-Todolist](https://ticktick.com/?language=en_US)
 
-### **Academic Writing**
+### **Academic_Writing**
 > Language
  - [Phrasebank](https://www.phrasebank.manchester.ac.uk/)
  - [DeepL](https://www.deepl.com/translator)
@@ -140,24 +140,22 @@ More information will be added smoothly, and some sections will be revised. Plea
  - [Grammarly](https://www.grammarly.com/)
  - [AcademicWord](https://www.wgtn.ac.nz/lals/resources/academicwordlist/most-frequent/sublist-1-most-frequent-words)
 
-> Writing Guideline
+> Writing Guide
  
  - [Thesiswhisper](https://thesiswhisperer.com/)
  - [SciWritingMadeEasy](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258)
 
-### ** Online Editing Tools**
-
-这部分在线工具主要用来处理一些和文档以及文稿相关的事情，经常用到的比如：在线的全套pdf处理和转换工具、各种各样多媒体文件间的相互转换工具、在线识别工具、在线压缩工具等等。
+### ** Online_Office_Editing**
 
 - [pdf_editing01](https://smallpdf.com/cn/pdf-tools)
 - [pdf_editing02](https://tools.pdf24.org/zh/)
 - [pdf2word](https://www.pdftoword.com/)
 - [compresfig](https://www.iloveimg.com/compress-image)
-- [compresfiles_chinese](https://docsmall.com/)
-- [在线多媒体转换器合集](https://cn.office-converter.com/)
-- [在线文字识别工具](https://ocr.wdku.net/)
+- [compresfiles_CN](https://docsmall.com/)
+- [office-converter](https://www.office-converter.com/)
+- [WordRec](https://ocr.wdku.net/)
 
-### **编程学习网**
+### **Code_Learning_WEB**
 
 - [bilibili](https://www.bilibili.com/)
 - [Cppot](https://www.dotcpp.com/)
@@ -175,82 +173,30 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [LintCode](https://www.lintcode.com/)
 - [fCode](http://v.fcode.cn/)
 
----
+#### **Online_Visualisation**
 
- ## **Other Resources**
-
----
-
-> [!NOTE]
->  - [**【置顶笔记下载1】熬10天夜，我肝出了这个PDF版「服务器软件安装手册」**](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
->  
->  - [**【置顶笔记下载2】再肝两夜，写了个「服务器项目部署」实战PDF手册**](https://mp.weixin.qq.com/s/JUJ6qu_ec3s1JmTxQt_V3g)
-
-> **工欲善其事，必先利其器！**
-
-
-#### **在线画图工具**
-
-程序员经常接触的无非也就是流程图、思维导图、原型图、UML图、网络拓扑图、组织结构图等等这些。
-
-- [在线画图工具ProcessOn](https://www.processon.com/)
-- [在线画图工具Draw.io](https://app.diagrams.net/)
+- [ProcessOn](https://www.processon.com/)
+- [Draw.io](https://app.diagrams.net/)
 - [MindLine](http://www.mindline.cn/webapp)
+- [Data_Visualisation01_EN](https://flourish.studio/)
+- [Data_Visualisation02_CN](https://www.zxgj.cn/m/bangong?t=&ob=2)
+- [WordCount](https://www.eteste.com/)
 
-- [在线字数统计工具](https://www.eteste.com/)
-- [mdnice markdown排版工具](https://mdnice.com/)
-- [md2all markdown排版工具](http://md.aclickall.com/)
-- [在线代码截图工具](https://carbon.now.sh/)
+#### **Format**
 
-#### **在线编解码工具**
-
-- [BASE64编解码工具](https://base64.supfree.net/)
-- [MD5编码工具](https://www.zxgj.cn/g/md5)
-- [AES/DES加解密](http://www.fly63.com/tool/cipher/)
-- [JWT解码工具](http://jwt.calebb.net/)
-- [ASCII编解码工具](https://www.matools.com/code-convert-ascii)
-- [Unicode编解码工具](https://www.zxgj.cn/g/unicode)
-- [UTF-8编解码工具](https://www.zxgj.cn/g/utf8)
-- [字符串编解码工具](https://www.zxgj.cn/g/enstring)
-- [URL编解码工具](http://tool.chinaz.com/tools/urlencode.aspx?jdfwkey=lbixz1)
-
-#### **在线转换工具**
-
-- [在线ASCII码对照表](http://www.fly63.com/tool/ascii/)
-- [通用进制转换工具](https://www.zxgj.cn/g/jinzhi)
-- [在线浮点数十进制转换](http://www.binaryconvert.com/)
-- [RGB颜色转换](https://www.zxgj.cn/g/yansezhi)
-- [时间戳转换工具](https://www.zxgj.cn/g/unix)
-- [计量单位换算工具](http://www.fly63.com/tool/unitable/)
-- [在线JSON解析](http://www.json.cn/)
-- [在线JS代码格式化工具](https://prettier.io/playground/)
-- [SQL压缩/格式化工具](https://www.zxgj.cn/g/sqlformat)
-- [JSON和XML在线转换](https://www.zxgj.cn/g/jsonxml)
-- [JSON/YAML在线转换](http://www.fly63.com/tool/jsonyaml/)
-- [人民币大小写转换工具](http://www.fly63.com/tool/renmingbi/)
-
-#### **在线编译运行工具**
-
-- [C#在线编译运行](https://rextester.com/)
-- [C/C++在线编译调试](https://www.onlinegdb.com/)
-- [在线编译工具套装](https://c.runoob.com/)
-
-#### **可视化/格式化工具**
-
-- [在线数据可视化](https://flourish.studio/)
-- [在线JSON解析](http://www.json.cn/)
-- [在线CSS代码可视化工具](https://enjoycss.com/)
-- [XML格式化工具](https://www.zxgj.cn/g/xmlformat)
-- [在线JS代码格式化工具](https://prettier.io/playground/)
-- [SQL压缩/格式化工具](https://www.zxgj.cn/g/sqlformat)
-- [JSON和XML在线转换](https://www.zxgj.cn/g/jsonxml)
-- [JSON/YAML在线转换](http://www.fly63.com/tool/jsonyaml/)
-
-
-#### **其他常用在线开发相关工具**
-
-- [在线Nginx配置工具](https://nginxconfig.io/)
-- [在线文本代码比对工具](http://www.fly63.com/tool/textdiff/)
+- [mdnice markdown](https://mdnice.com/)
+- [md2all markdown](http://md.aclickall.com/)
+- [CodeSnapShot](https://carbon.now.sh/)
+- [JSON_Manipulate](http://www.json.cn/)
+- [CSS_Manipulate](https://enjoycss.com/)
+- [XMLformate](https://www.zxgj.cn/g/xmlformat)
+- [SQLcompress/format](https://www.zxgj.cn/g/sqlformat)
+- [JSON2CSV](https://csvjson.com/json2csv)
+- [JSON2YAML](https://www.json2yaml.com/convert-yaml-to-json)
+- [BinaryConvert](http://www.binaryconvert.com/)
+- [RGBconvert](https://www.zxgj.cn/g/yansezhi)
+- [ASCII](http://www.fly63.com/tool/ascii/)
+- [CDNforOpenSource](https://www.jsdelivr.com/)
 
 #### **设计制作类工具**
 
@@ -274,19 +220,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [二维码在线生成器](http://www.fly63.com/tool/ewm/)
 - [二维码在线解码](http://www.fly63.com/php/decoder/)
 
-#### **写作辅助工具**
-
-在我写文章的过程中经常会用到和写作相关的辅助工具，比方说：字数统计工具、Markdown格式的文章排版工具、图床网站、代码截图工具等等，所以下面这些在线工具就能很好地满足我的需求。
-
-- [mdnice markdown排版工具](https://mdnice.com/)
-- [md2all markdown排版工具](http://md.aclickall.com/)
-- [在线图床神器](https://picx.xpoet.cn/)
-- [在线免费图床](https://sm.ms/)
-- [图壳图床](https://imgkr.com/)
-- [在线代码截图工具](https://carbon.now.sh/)
-- [在线短链接工具](https://urlify.cn/)
-- [在线文本替换](http://www.fly63.com/tool/textreplace/)
-
 <!-- tabs:end -->
 
 ###### **OnlineDocumentory**
@@ -300,7 +233,7 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - [RabbitMQ](https://www.rabbitmq.com/documentation.html)
 - [RocketMQ](http://rocketmq.apache.org/docs/quick-start/)
-- [Dubbo中文文档](https://dubbo.apache.org/en/docs/)
+- [Dubbo](https://dubbo.apache.org/en/docs/)
 - [Netty](https://netty.io/wiki/index.html)
 - [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 - [Spring Cloud](https://spring.io/projects/spring-cloud)
@@ -325,48 +258,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 </p>
 ---
 #### **List of Commonly Used Software**
----
-
-这里将常用软件分为了5大类，包括：
-
-> - 社交/娱乐/上网
-> - 办公软件
-> - 效率和美化软件
-> - UP主必备
-> - 程序员生产力工具
-
-- [点击查看：我的常用软件大公开！](https://mp.weixin.qq.com/s/ONx6wjGjQSvOOIgnEBTNJQ)
-
----
-
-# **Linux操作系统**
-
----
-
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/linuxos.qciprfz30dc.png" width=""/>
-    </a>
-</p>
-
-实际企业级开发和项目部署，大部分情况下基本都是基于Linux环境进行的，所以掌握常用的命令、配置、网络和系统管理、基本的Shell编程等尽量还是要熟练一些，对后续项目实践都大有裨益。
-
-> [!Note]
->  - [**本章节置顶资源1：《Linux命令速查备忘手册.pdf》下载**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
->  - [**本章节置顶资源2：《Linux命令行大全.pdf》下载**](https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g)
-
-- [常用Linux操作系统大盘点](https://mp.weixin.qq.com/s/x8rwsIOzYEPXmEVXmWJ4Tg)
-- [人手一套Linux环境之：macOS版教程](https://mp.weixin.qq.com/s/WeZLtfrMdnISpX3v5WpJfA)
-- [人手一套Linux环境之：Windows版教程](https://mp.weixin.qq.com/s/onVwwEQ1DAwbvK7qS2YNxg)
-- [69张图：详细记录Ubuntu 20.04安装配置过程](https://mp.weixin.qq.com/s/vkLZ_3Jp4HdQ8PDIMYsGEw)
-- [废柴电脑拯救计划：借助Debian搭建个人专属云服务器](https://mp.weixin.qq.com/s/YpWp-b3vcAtb_jBwCM7wtg)
-- [常用Linux命令大整理](https://mp.weixin.qq.com/s/Kog6AfXYINIDwKMpJMkGFQ)
-- [面试常问的20个Linux命令](https://mp.weixin.qq.com/s/3NI4FWuOfYMJBiKqqnpqMA)
-- [Linux 桌面进化史](https://mp.weixin.qq.com/s/jQAJQo28UsY3YIxC5ci1sA)
-- [Linux迎来29岁：从个人爱好到统治世界的操作系统内核！](https://mp.weixin.qq.com/s/6-yb1N-SwHr4EaQ-fvU4Ow)
-- [漫画：Linux 内核到底长啥样？](https://mp.weixin.qq.com/s/4G6re30hxAacxmCLjP8KpQ)
-- [资源下载 → 《Linux命令速查备忘手册.pdf》](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
-- [资源下载 → 《Linux命令行大全.pdf》](https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g)
 
 - [资源下载 → 豆瓣9.1分的Pro Git学习手册YYDS！](https://mp.weixin.qq.com/s/xDYSG4uDz9rgNCuk0RxLjg)
 - [科普篇：Git和SVN对比](https://mp.weixin.qq.com/s/bUYz9JwqAYH_Fn6nHPSmTg)
@@ -460,10 +351,9 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 - [办公室划水？嘿嘿，这事我擅长...](https://mp.weixin.qq.com/s/zRU-n-5VOgrMqG09477RyQ)
 - [戴着耳机敲代码，我都听些啥？](https://mp.weixin.qq.com/s/7_2ibVNVMZLEYl89zT7sGQ)
 - [程序员猪队友行为大赏，你遇到过哪些？](https://mp.weixin.qq.com/s/1dJO8VJ6GaZykv33IUslkw)
-- [这就是架构师一天的生活，还羡慕不？](https://mp.weixin.qq.com/s/rMqSG84kNtLJ5Oiwk-S7Qw)
-- [程序员是如何玩浪漫的？](https://mp.weixin.qq.com/s/vI7EGqo7YbljRdZn2nUSMQ)
-- [周一划水必备：程序员专属GIF动图批发](https://mp.weixin.qq.com/s/Gy-Qs80rHKDJwapCmYGGEg)
-- [521坦白帖：当年念书时是怎么写情书的？](https://mp.weixin.qq.com/s/9DxslnAKgBHG85iZ8m6yYQ)
+- [如何玩rom的？](https://mp.weixin.qq.com/s/vI7EGqo7YbljRdZn2nUSMQ)
+- [程序员专属GIF动图批发](https://mp.weixin.qq.com/s/Gy-Qs80rHKDJwapCmYGGEg)
+- [521坦白帖](https://mp.weixin.qq.com/s/9DxslnAKgBHG85iZ8m6yYQ)
 - [程序员界的孔乙己](https://mp.weixin.qq.com/s/dW81quoXMRA2ObwTzIv74g)
 - [我的大学四年收获及工作感悟](https://mp.weixin.qq.com/s/x9EEDlGNIOPOL3v_qZiiAQ)
 - [垃圾领导把我的功劳全抢走了！](https://mp.weixin.qq.com/s/gknm-6k1zLY-1Cey12whSw)
@@ -485,8 +375,6 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 
 
 ## 读书写作
-
-
 
 ---
 
