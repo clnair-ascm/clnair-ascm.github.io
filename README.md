@@ -79,6 +79,21 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 ---
 
+## **PUBLICATIONS**
+
+ Recent publications are listed below. For more information about Yuqing, please see the [Curriculum Vitae](pages/cv.md) page.
+ 
+ **Published papers (<sup>#</sup> co-first author, <sup></sup> corresponding author)** <span id="badgeCont131"><script type="text/javascript" src="https://publons.com/mashlets/?el=badgeCont131&rid=AAC-1565-2022&size=small"></script></span>
+
+ > **2022**
+
+ > **2021**
+
+  **Dai, Y.**, Cai, X., Zhong, J. and MacKenzie, A.R., 2021. Modelling chemistry and transport in urban street canyons: Comparing offline multi-box models with large-eddy simulation. Atmospheric Environment, 264, p.118709. <https://doi.org/10.1016/j.atmosenv.2021.118709> **[[pdf](/static/papers/2021_model_cnt_AE.pdf)]**
+
+  Xie, Q., Su, S., Chen, J., **Dai, Y.**, Yue, S., Su, H., Tong, H., Zhao, W., Ren, L., Xu, Y. and Cao, D., 2021. Increase of nitrooxy organosulfates in firework-related urban aerosols during Chinese New Year's Eve. Atmospheric Chemistry and Physics, 21(14), pp.11453-11465. <https://doi.org/10.5194/acp-21-11453-2021> **[[pdf](/static/papers/2021_nos_CNY_acp.pdf)]**
+
+---
 ## **MODULES**
  
  > ### Atmospheric Chemistry ###
@@ -95,48 +110,6 @@ More information will be added smoothly, and some sections will be revised. Plea
   ***"My name is Linus, and I am your God." - Linus Torvalds.***
 
  ---
-
-## **PUBLICATIONS**
-
- Recent publications are listed below. For more information about Yuqing, please see the [Curriculum Vitae](pages/cv.md) page.
-
- **Published papers (<sup>#</sup> co-first author, <sup></sup> corresponding author)** <span id="badgeCont131"><script type="text/javascript" src="https://publons.com/mashlets/?el=badgeCont131&rid=AAC-1565-2022&size=small"></script></span>
-
- **2022**
-
-
- **2021**
-
-  **Dai, Y.**, Cai, X., Zhong, J. and MacKenzie, A.R., 2021. Modelling chemistry and transport in urban street canyons: Comparing offline multi-box models with large-eddy simulation. Atmospheric Environment, 264, p.118709. <https://doi.org/10.1016/j.atmosenv.2021.118709> **[[pdf](/static/papers/2021_model_cnt_AE.pdf)]**
-
-  Xie, Q., Su, S., Chen, J., **Dai, Y.**, Yue, S., Su, H., Tong, H., Zhao, W., Ren, L., Xu, Y. and Cao, D., 2021. Increase of nitrooxy organosulfates in firework-related urban aerosols during Chinese New Year's Eve. Atmospheric Chemistry and Physics, 21(14), pp.11453-11465. <https://doi.org/10.5194/acp-21-11453-2021> **[[pdf](/static/papers/2021_nos_CNY_acp.pdf)]**
-
-  ---
-
-## **CONTACT INFORMATION**
-
-  > Name: Yuqing Dai / 代宇晴, Title: Mr.
-
-  <img align="left" src="/pics/bio.jpg" width="300" height="350">
-  <br clear="left"/>
-
-  > Address
-
-   School of Geography Earth and Environment Sciences\
-   University of Birmingham, Edgbaston\
-   Birmingham, UK\
-   B15 2TT
-
-
-   > Email
-
-   <yxd598@bham.ac.uk>.
-
-   > Website
-
-   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57254448300);   [ResearchGate](https://www.researchgate.net/profile/Yuqing-Dai);  [ORCID](https://orcid.org/0000-0002-8850-9527);  [ResearcherID](https://publons.com/researcher/4928690/yuqing-dai/).
-
----
 
 ## **RESOURCES**
 
@@ -223,6 +196,11 @@ More information will be added smoothly, and some sections will be revised. Plea
 - [在线画图工具ProcessOn](https://www.processon.com/)
 - [在线画图工具Draw.io](https://app.diagrams.net/)
 - [MindLine](http://www.mindline.cn/webapp)
+
+- [在线字数统计工具](https://www.eteste.com/)
+- [mdnice markdown排版工具](https://mdnice.com/)
+- [md2all markdown排版工具](http://md.aclickall.com/)
+- [在线代码截图工具](https://carbon.now.sh/)
 
 #### **在线编解码工具**
 
@@ -464,50 +442,14 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 - [科普：物联网行业的岗位、技能](https://mp.weixin.qq.com/s/AtSMfjq0GXQdVxo2o6s3-g)
 - [科普：学Linux的以后能做什么](https://mp.weixin.qq.com/s/EA_iYwpSIMQGgpCrvvVOzA)
-- 持续更新中 ...
 
 ---
 
 <a name="视频教程"></a>
 
-# **视频教程推荐**
-
----
-
-对于学习编程的小伙伴来说，网上有海量现成的宝贵视频学习资源可供食用。
-
-所以该板块会持续甄选和更新互联网上那些优秀的、值得反复观看的技术视频教程。
-
----
-[**本章节置顶资源1：《Linux命令速查备忘手册.pdf》下载**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
-[**本章节置顶资源2：《Linux命令行大全.pdf》下载**](https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g)
-- [数据结构和算法：《郝斌 数据结构入门》](https://www.bilibili.com/video/BV11s41167h6)
-- [数据结构和算法：《数据结构-浙江大学》](https://www.bilibili.com/video/BV1JW411i731)
-- [数据结构和算法：《数据结构与算法基础（青岛大学-王卓）》](https://www.bilibili.com/video/BV1nJ411V7bd)
-- [数据结构和算法：《尚硅谷 Java数据结构与算法）》](https://www.bilibili.com/video/BV1E4411H73v)
-- [计算机网络：《计算机网络微课堂》](https://www.bilibili.com/video/BV1c4411d7jb)
-- [计算机网络：《2019 王道考研 计算机网络》](https://www.bilibili.com/video/BV19E411D78Q)
-- [计算机网络：《韩立刚 计算机网络》](https://www.bilibili.com/video/BV1gV411h7r7)
-- [计算机网络：《计算机网络（谢希仁第七版）》](https://www.bilibili.com/video/BV1H3411y7q6)
-- [操作系统：《2020 南京大学  操作系统：设计与实现 (蒋炎岩) 》](https://www.bilibili.com/video/BV1N741177F5)
-- [操作系统：《操作系统（哈工大李治军老师）》](https://www.bilibili.com/video/BV1d4411v7u7)
-- [计算机组成原理：《计算机组成原理（哈工大刘宏伟）》](https://www.bilibili.com/video/BV1t4411e7LH)
-- [编译原理：《编译原理（哈工大）》](https://www.bilibili.com/video/BV1zW411t7YE)
-- 更多的视频教程资源会持续更新，敬请期待…
-
----
-
-<a name="资源下载"></a>
-
-# **资源汇总和下载**
-
----
-
-该版块会持续更新那些优秀的编程资源，**包括但不限于：** 各种硬核的PDF笔记、软件包、技术手册、自制文档、题解解析、简历模板、面试题文档 等等。
-
 --- 
 
-# **Apart From Academic (AFA)**
+## **Apart From Academic**
 
 Science is a marathon, not a sprint. A workaholoic behavior is not glorified. Stay still, feeling more of what's going on around...
 
@@ -527,13 +469,13 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 - [垃圾领导把我的功劳全抢走了！](https://mp.weixin.qq.com/s/gknm-6k1zLY-1Cey12whSw)
 - [雷军：我的程序人生路](https://mp.weixin.qq.com/s/wxpJKTbivM63izuyHsneUw)
 
-## 读研深造
+## 深造
 
 - [一位博士的自白：毕业时想大哭一场](https://mp.weixin.qq.com/s/h6o5XpA8-M97MWILhdrO5A)
 - [一个农村博士的独白：全家为什么只有我读到了博士](https://mp.weixin.qq.com/s/EhWWnpLuhLM3_lX8Ja3qMQ)
 
 
-## 闲聊唠嗑
+## 闲聊
 
 - [程序员缺乏经验的7种表现](https://mp.weixin.qq.com/s/UT1muuGblZ6hFvLViti6OQ)
 - [程序员的酒后真言，都不容易](https://mp.weixin.qq.com/s/oKFHpaItmlB57gCE0sbzig)
@@ -544,19 +486,19 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 
 ## 读书写作
 
-- [在线画图工具ProcessOn](https://www.processon.com/)
-- [在线画图工具Draw.io](https://app.diagrams.net/)
-- [在线思维导图工具MindLine](http://www.mindline.cn/webapp)
-- [在线字数统计工具](https://www.eteste.com/)
-- [mdnice markdown排版工具](https://mdnice.com/)
-- [md2all markdown排版工具](http://md.aclickall.com/)
-- [在线代码截图工具](https://carbon.now.sh/)
+
 
 ---
+
 ## 游记见闻
 
+ - [test](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
+
 ---
-## 菜单
+
+## Menu 菜单
+
+ - [test](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
 
 ---
 
@@ -581,6 +523,31 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
   - [0x0000000f](https://zzkia.noddl.me/)
   - [0x00000010](https://www.dgtle.com/)
   - [0x00000011](https://sspai.com/)
+
+---
+
+## **CONTACT INFORMATION**
+
+  > Name: Yuqing Dai / 代宇晴, Title: Mr.
+
+  <img align="left" src="/pics/bio.jpg" width="300" height="350">
+  <br clear="left"/>
+
+  > Address
+
+   School of Geography Earth and Environment Sciences\
+   University of Birmingham, Edgbaston\
+   Birmingham, UK\
+   B15 2TT
+
+
+   > Email
+
+   <yxd598@bham.ac.uk>.
+
+   > Website
+
+   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57254448300);   [ResearchGate](https://www.researchgate.net/profile/Yuqing-Dai);  [ORCID](https://orcid.org/0000-0002-8850-9527);  [ResearcherID](https://publons.com/researcher/4928690/yuqing-dai/).
 
 ---
 
