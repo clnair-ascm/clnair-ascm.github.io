@@ -105,17 +105,22 @@ More information will be added smoothly, and some sections will be revised. Plea
 
  > ### [R 4 Data Analysis](pages/R4data.md) ###
    ***"It's wondrous, with treasures to satiate desires both subtle and gross, but it's not for timid." - Q.***
+   ***"Talk is cheap. Show me the code." - Linus Torvalds.***
 
 > ### [Linux](pages/Linux.md) ###
   ***"My name is Linus, and I am your God." - Linus Torvalds.***
 
- ---
+---
+
+## **PEST**
+
+---
 
 ## **RESOURCES**
 
 Craftmen must first sharpen their tools before they can do a good job, and fishermen must first repair their nets before they can catch any fish.
 
-## **Tool Kits**
+> ****Tool Kits_v1****
 
 <!-- tabs:start -->
 
@@ -154,24 +159,6 @@ Craftmen must first sharpen their tools before they can do a good job, and fishe
 - [Compresfiles_CN](https://docsmall.com/)
 - [Office-converter](https://www.office-converter.com/)
 - [WordRec](https://ocr.wdku.net/)
-
-### **Code_Learning_WEB**
-
-- [Bilibili](https://www.bilibili.com/)
-- [Cppot](https://www.dotcpp.com/)
-- [cppreference](http://zh.cppreference.com/)
-- [MOOC](https://www.icourse163.org/)
-- [Nowcoder](https://www.nowcoder.com)
-- [163open](https://open.163.com/)
-- [CodeGym](https://codegym.cc/)
-- [BeginnersBook](https://beginnersbook.com/)
-- [JavaSED](http://www.javased.com/)
-- [Codecademy](https://www.codecademy.com/)
-- [Coursera](https://www.coursera.org/)
-- [StackOverFlow](https://stackoverflow.com/)
-- [LeetCode](https://leetcode-cn.com/)
-- [LintCode](https://www.lintcode.com/)
-- [fCode](http://v.fcode.cn/)
 
 ### **Online_Visualisation**
 
@@ -215,6 +202,12 @@ logo creation, poster design and production, picture beautifying, and online ima
 - [CodeGenerator](http://www.fly63.com/tool/ewm/)
 - [Decoder](http://www.fly63.com/php/decoder/)
 
+<!-- tabs:end -->
+
+> ****Tool Kits_v2****
+
+<!-- tabs:start -->
+
 ### **Online_Documentory**
 
 <!-- panels:start -->
@@ -236,7 +229,7 @@ General
 - [Kubernetes](https://kubernetes.io/en/docs/home/)
 - [Thymeleaf](https://www.thymeleaf.org/documentation.html)
 - [React.js](https://reactjs.org/docs/getting-started.html)
-- [Jenkins中文文档](https://www.jenkins.io/en/doc/)
+- [Jenkins_CN](https://www.jenkins.io/en/doc/)
 
 <!-- div:right-panel -->
 
@@ -248,13 +241,29 @@ Scholar
 
 <!-- panels:end -->
 
+### **Code_Learning_WEB**
+
+- [Bilibili](https://www.bilibili.com/)
+- [Cppot](https://www.dotcpp.com/)
+- [cppreference](http://zh.cppreference.com/)
+- [MOOC](https://www.icourse163.org/)
+- [Nowcoder](https://www.nowcoder.com)
+- [163open](https://open.163.com/)
+- [CodeGym](https://codegym.cc/)
+- [BeginnersBook](https://beginnersbook.com/)
+- [JavaSED](http://www.javased.com/)
+- [Codecademy](https://www.codecademy.com/)
+- [Coursera](https://www.coursera.org/)
+- [StackOverFlow](https://stackoverflow.com/)
+- [LeetCode](https://leetcode-cn.com/)
+- [LintCode](https://www.lintcode.com/)
+- [fCode](http://v.fcode.cn/)
+
 <!-- tabs:end -->
 
 ---
 
-## **PEST**
-
-#### **List of Commonly Used Software**
+## **List of Commonly Used Software**
 
 - [资源下载 → 豆瓣9.1分的Pro Git学习手册YYDS！](https://mp.weixin.qq.com/s/xDYSG4uDz9rgNCuk0RxLjg)
 - [科普篇：Git和SVN对比](https://mp.weixin.qq.com/s/bUYz9JwqAYH_Fn6nHPSmTg)
@@ -314,12 +323,12 @@ Scholar
 
 ---
 
-## 简历相关
+ ### 简历相关
 
 - [资源下载 → 简历模板下载（word版）](https://mp.weixin.qq.com/s/-qlU2-a-vvXWOHXzKHRm6A)
 - [国内程序员最容易发音错误的单词集合](https://mp.weixin.qq.com/s/VJsp5SzGuOCGl-mWdbtCxQ)
 
-## 工作岗位科普
+ ### 工作岗位科普
 
 - [科普：物联网行业的岗位、技能](https://mp.weixin.qq.com/s/AtSMfjq0GXQdVxo2o6s3-g)
 - [科普：学Linux的以后能做什么](https://mp.weixin.qq.com/s/EA_iYwpSIMQGgpCrvvVOzA)
@@ -327,7 +336,7 @@ Scholar
 ---
 
 <a name="视频教程"></a>
-## **视频教程**
+ ### **视频教程**
 
 --- 
 
@@ -335,7 +344,7 @@ Scholar
 
 Science is a marathon, not a sprint. A workaholoic behavior is not glorified. Stay still, feeling more of what's going on around...
 
-## 码农生活
+ ### 码农生活
 
 - [办公室划水？嘿嘿，这事我擅长...](https://mp.weixin.qq.com/s/zRU-n-5VOgrMqG09477RyQ)
 - [戴着耳机敲代码，我都听些啥？](https://mp.weixin.qq.com/s/7_2ibVNVMZLEYl89zT7sGQ)
@@ -348,13 +357,13 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 - [垃圾领导把我的功劳全抢走了！](https://mp.weixin.qq.com/s/gknm-6k1zLY-1Cey12whSw)
 - [雷军：我的程序人生路](https://mp.weixin.qq.com/s/wxpJKTbivM63izuyHsneUw)
 
-## 深造
+ ### 深造
 
 - [一位博士的自白：毕业时想大哭一场](https://mp.weixin.qq.com/s/h6o5XpA8-M97MWILhdrO5A)
 - [一个农村博士的独白：全家为什么只有我读到了博士](https://mp.weixin.qq.com/s/EhWWnpLuhLM3_lX8Ja3qMQ)
 
 
-## 闲聊
+ ### 闲聊
 
 - [程序员缺乏经验的7种表现](https://mp.weixin.qq.com/s/UT1muuGblZ6hFvLViti6OQ)
 - [程序员的酒后真言，都不容易](https://mp.weixin.qq.com/s/oKFHpaItmlB57gCE0sbzig)
@@ -363,22 +372,22 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 - [围观Linus大佬吐槽桌面版Linux](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
 
 
-## 读书写作
+ ### 读书写作
 
 
-## 游记见闻
-
- - [test](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
-
----
-
-## Menu 菜单
+ ### 游记见闻
 
  - [test](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
 
 ---
 
-## 摸鱼时间
+ ### Menu 菜单
+
+ - [test](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
+
+---
+
+ ### 摸鱼时间
 
 。。。
 
