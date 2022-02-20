@@ -27,7 +27,7 @@ More information will be added smoothly, and some sections will be revised. Plea
   - One or two sentences to put results into a more general context;
   - Two to three sentences to offer a boarder perspective of your work!
 
-> [**2022-02-14:** How to fix your scientific coding errors?](https://www.nature.com/articles/d41586-022-00217-0)
+> [**2022-02-01:** How to fix your scientific coding errors?](https://www.nature.com/articles/d41586-022-00217-0)
   - Bugs are inevitable, expecially in academia;  
   - Using simple strategies to minimize extra work due to bugs;
   - A repro-pack archieve, good documentation, version control (e.g., git);
@@ -102,6 +102,8 @@ More information will be added smoothly, and some sections will be revised. Plea
 
  > ### Air Quality Modelling ###
    ***"All models are wrong, but some are useful" - George Box.***
+
+ > ### Statistics ###
 
  > ### [R 4 Data Analysis](pages/R4data.md) ###
    ***"It's wondrous, with treasures to satiate desires both subtle and gross, but it's not for timid." - Q.***
@@ -202,6 +204,11 @@ logo creation, poster design and production, picture beautifying, and online ima
 - [CodeGenerator](http://www.fly63.com/tool/ewm/)
 - [Decoder](http://www.fly63.com/php/decoder/)
 
+### **Data_Transfer**
+
+- [AirBridge](https://www.myairbridge.com/en/#!/)
+
+
 <!-- tabs:end -->
 
 > ****Tool Kits_v2****
@@ -256,6 +263,10 @@ Scholar
 - [Coursera](https://www.coursera.org/)
 - [StackOverFlow](https://stackoverflow.com/)
 - [LeetCode](https://leetcode-cn.com/)
+- [LintCode](https://www.lintcode.com/)
+- [fCode](http://v.fcode.cn/)
+
+### **Academic**
 - [LintCode](https://www.lintcode.com/)
 - [fCode](http://v.fcode.cn/)
 
@@ -342,7 +353,7 @@ Scholar
 
 ## **Apart From Academic**
 
-Science is a marathon, not a sprint. A workaholoic behavior is not glorified. Stay still, feeling more of what's going on around...
+Science is a marathon, not a sprint. A workaholoic behavior is not glorified. Stay still, feeling more of what's going on around.
 
  ### 码农生活
 
@@ -363,17 +374,13 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 - [一个农村博士的独白：全家为什么只有我读到了博士](https://mp.weixin.qq.com/s/EhWWnpLuhLM3_lX8Ja3qMQ)
 
 
- ### 闲聊
+ ### 日常分享
 
 - [程序员缺乏经验的7种表现](https://mp.weixin.qq.com/s/UT1muuGblZ6hFvLViti6OQ)
 - [程序员的酒后真言，都不容易](https://mp.weixin.qq.com/s/oKFHpaItmlB57gCE0sbzig)
 - [如何写出让同事无法维护的代码？](https://mp.weixin.qq.com/s/8zP5DX79-aEuFF17MYnHtg)
 - [六成大学生认为自己毕业10年内会年入百万？](https://mp.weixin.qq.com/s/bj6LG7bq1Og8-fplcLjROA)
 - [围观Linus大佬吐槽桌面版Linux](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
-
-
- ### 读书写作
-
 
  ### 游记见闻
 
@@ -383,33 +390,20 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 
  ### Menu 菜单
 
- - [test](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
+  - [test](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
 
----
+ ### 摸鱼..o0O
 
- ### 摸鱼时间
-
-。。。
-
-  - [0x00000001](https://www.bilibili.com/)
-  - [0x00000002](https://mo.fish/)
-  - [0x00000003](http://www.mazegenerator.net/)
-  - [0x00000004](https://duomoyu.com/)
-  - [0x00000005](http://slither.io/)
-  - [0x00000006](https://www.anyknew.com/#/)
-  - [0x00000007](http://gogoame.sumbioun.com/)
-  - [0x00000008](https://flipanim.com/)
+  - [0x00000001](https://duomoyu.com/)
+  - [0x00000002](http://slither.io/)
+  - [0x00000003](https://www.anyknew.com/#/)
+  - [0x00000004](https://flipanim.com/)
+  - [0x00000005](https://aidn.jp/mikutap/)
+  - [0x00000006](http://zoomquilt.org/)
+  - [0x00000007](https://www.dgtle.com/)
+  - [0x00000008](https://sspai.com/)
   - [0x00000009](https://zty.pe/)
-  - [0x0000000a](https://aidn.jp/mikutap/)
-  - [0x0000000b](http://zoomquilt.org/)
-  - [0x0000000c](https://lab.bangbang93.com/wsyw)
-  - [0x0000000d](https://lmbtfy.cn/)
-  - [0x0000000e](https://suulnnka.github.io/BullshitGenerator/index.html)
-  - [0x0000000f](https://zzkia.noddl.me/)
-  - [0x00000010](https://www.dgtle.com/)
-  - [0x00000011](https://sspai.com/)
-
-... 
+  - [蜂鸟与旅人](static/anime/birdntraveller.md)
 
 ---
 
