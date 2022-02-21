@@ -381,6 +381,10 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 - [如何写出让同事无法维护的代码？](https://mp.weixin.qq.com/s/8zP5DX79-aEuFF17MYnHtg)
 - [六成大学生认为自己毕业10年内会年入百万？](https://mp.weixin.qq.com/s/bj6LG7bq1Og8-fplcLjROA)
 - [围观Linus大佬吐槽桌面版Linux](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
+- [Dotdot]
+  <p align="left">
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/shading.png" width="600"/>
+ </p>
 
  ### 游记见闻
 
