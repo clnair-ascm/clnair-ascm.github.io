@@ -18,6 +18,10 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 ## **POSTS**
 
+<!-- tabs:start -->
+
+  #### ****EN****
+
 > [**2022-02-15:** How to construct a Nature summary paragraph?](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
   - Using one or two sentences providing a basic background to the field, comprehensible to a scientist in any displine;
   - Two or three sentences of more detailed background, comprehensible to scientists in related displine;
@@ -25,7 +29,7 @@ More information will be added smoothly, and some sections will be revised. Plea
   - Summarising the main results/conclusion of your research using one sentence; 
   - Two or three sentences explaining the results, or how your study adds to the current knowledge;
   - One or two sentences to put results into a more general context;
-  - Two to three sentences to offer a boarder perspective of your work!
+  - Two to three sentences to offer a boarder perspective of your work.
 
 > [**2022-02-01:** How to fix your scientific coding errors?](https://www.nature.com/articles/d41586-022-00217-0)
   - Bugs are inevitable, expecially in academia;  
@@ -33,15 +37,22 @@ More information will be added smoothly, and some sections will be revised. Plea
   - A repro-pack archieve, good documentation, version control (e.g., git);
   - Be patient, step by step. 
 
+  #### ****CN****
+
+> [**2022-02-19:** 2022年国家自然基金标书撰写要点的全细节详述](https://mp.weixin.qq.com/s/R_vYKXFZe8Vp7uxwRCEXZw)
+
+
+<!-- tabs:end -->
+
   ---
 
 ## **PROJECTS**
 
- ### Street Canyon Studies (2019-2022): Doctoral Research
+ #### [2019-2022] Doctoral Research: Street Canyon Studies  
 
 <!-- tabs:start -->
 
- > - #### ****2D MBM-FleX****
+  #### ****2D MBM-FleX****
 
  <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/StreetCanyon_v1.gif" width="600"/>
@@ -57,19 +68,19 @@ More information will be added smoothly, and some sections will be revised. Plea
    因此，VOC自由基化学反应在此前的模拟研究中被较少考虑。基于该背景，我们设计了分辨率可控的二维多箱模型用来模拟街道峡谷中气态污染物的物理化学过程。
    该模型性能与大涡模拟的一致性较好，能够反映主要气态污染物如NO2和O3在常规和深街道峡谷中的时间演化和空间变化规律，点击[信息](https://doi.org/10.1016/j.atmosenv.2021.118709)了解详情。
 
- > - #### ****NO2 Hotspot and Regulatory Wiggle Room****
+  #### ****NO2 Hotspot and Regulatory Wiggle Room****
 
    <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/wiggleroom.png" width="600"/>
  </p>
 
- > - #### ****The Shading Effects****
+  #### ****The Shading Effects****
 
   <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/shading.png" width="600"/>
  </p>
 
- > - #### ****A Case Study in Naples****
+  #### ****A Case Study in Naples****
  
   <p align="left">
       <img src=" https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/dcinital.png" width="600"/>
@@ -115,6 +126,7 @@ More information will be added smoothly, and some sections will be revised. Plea
 ---
 
 ## **PEST**
+xxxxx
 
 ---
 
@@ -207,6 +219,8 @@ logo creation, poster design and production, picture beautifying, and online ima
 ### **Data_Transfer**
 
 - [AirBridge](https://www.myairbridge.com/en/#!/)
+- [GoogleDrive](https://drive.google.com/)
+- [Mega](https://mega.io/)
 
 
 <!-- tabs:end -->
@@ -237,6 +251,7 @@ General
 - [Thymeleaf](https://www.thymeleaf.org/documentation.html)
 - [React.js](https://reactjs.org/docs/getting-started.html)
 - [Jenkins_CN](https://www.jenkins.io/en/doc/)
+- [GoogleEarth](https://earth.google.com/web/)
 
 <!-- div:right-panel -->
 
@@ -245,6 +260,7 @@ Scholar
 - [Facimile](https://www.mcpa-software.com/facsimile)
 - [CMAQ](https://www.epa.gov/cmaq/cmaq-models-0)
 - [WRF](https://www.mmm.ucar.edu/weather-research-and-forecasting-model)
+- [ArcGis](https://www.arcgis.com/index.html)
 
 <!-- panels:end -->
 
@@ -317,12 +333,6 @@ Scholar
  - [WangyiMusic](https://music.163.com/)
  - [WeChat](https://www.wechat.com/)
  - [Whatsapp](https://www.whatsapp.com/)
-
----
-
-## 数据库/SQL
-
-
 
 ---
 
@@ -444,6 +454,12 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
    > Website
 
    [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57254448300);   [ResearchGate](https://www.researchgate.net/profile/Yuqing-Dai);  [ORCID](https://orcid.org/0000-0002-8850-9527);  [ResearcherID](https://publons.com/researcher/4928690/yuqing-dai/).
+
+   > Links
+
+   - [CodeSheep](https://r2coding.com/#/)
+   - [TuanVu](https://tuanvvu.github.io/)
+   - [Congbo](https://congbo.site/)
 
 ---
 
