@@ -40,7 +40,9 @@ More information will be added smoothly, and some sections will be revised. Plea
   #### ****CN****
 
 > [**2022-02-19:** 2022年国家自然基金标书撰写要点的全细节详述](https://mp.weixin.qq.com/s/R_vYKXFZe8Vp7uxwRCEXZw)
+
 > [**2022-02-02:** 做好工作18法](https://mp.weixin.qq.com/s/VP2Xflh0hNEOfG9soz2yVg)
+
 > [**2022-01-28:** 施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/LShYD_eMAiAl-IHZ9B5C7g)
 
 
@@ -75,6 +77,11 @@ More information will be added smoothly, and some sections will be revised. Plea
    <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/wiggleroom.png" width="600"/>
  </p>
+
+   城市大气化学和物理传输过程对街道峡谷中二氧化氮（NO2）浓度的影响还不完全清楚。我们采用挥发性有机污染物（VOCs）化学机理和多箱模型模拟街道峡谷“热点区域”的NO2浓度变化。通过改变氮氧化物（NOx）、
+   VOCs的排放强度及一次NO2的占比（fNO2）（共计42,000项敏感性测试），使用“回旋空间”作为参数证明了VOCs化学在城市街道峡谷模拟中的必要性。以伦敦市中心为例，使用VOCs化学机理使得峡谷内1小时NO2浓度
+   由达标转为不达标。因而，忽略挥发性有机物化学可能会低估常规街道峡谷中5.9%-22.1%的NO2，导致空气质量模拟结果出现假达标现象。该影响在深峡谷中较低fNO2的情景下更为显著（-51.3%-30.9%）。“回旋空间”
+   的波动性说明对主要排放参数进行协同管控能够达到更加显著的减排效果。
 
   #### ****The Shading Effects****
 
@@ -165,6 +172,11 @@ Craftmen must first sharpen their tools before they can do a good job, and fishe
  
  - [Thesiswhisper](https://thesiswhisperer.com/)
  - [SciWritingMadeEasy](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258)
+
+> Literature Review
+
+ - [ResearchRabbit](https://www.researchrabbit.ai/)
+ - [ROSESMAP](https://www.roses-reporting.com/flow-diagram)
 
 ### ** Online_Office_Editing**
 
