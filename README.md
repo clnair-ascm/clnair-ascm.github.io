@@ -40,6 +40,8 @@ More information will be added smoothly, and some sections will be revised. Plea
   #### ****CN****
 
 > [**2022-02-19:** 2022年国家自然基金标书撰写要点的全细节详述](https://mp.weixin.qq.com/s/R_vYKXFZe8Vp7uxwRCEXZw)
+> [**2022-02-02:** 做好工作18法](https://mp.weixin.qq.com/s/VP2Xflh0hNEOfG9soz2yVg)
+> [**2022-01-28:** 施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/LShYD_eMAiAl-IHZ9B5C7g)
 
 
 <!-- tabs:end -->
