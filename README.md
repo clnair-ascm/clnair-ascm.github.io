@@ -267,14 +267,6 @@ Scholar
 - [fCode](http://v.fcode.cn/)
 
 ### **Academic**
-- [LintCode](https://www.lintcode.com/)
-- [fCode](http://v.fcode.cn/)
-
-<!-- tabs:end -->
-
----
-
-## **List of Commonly Used Software**
 
 - [资源下载 → 豆瓣9.1分的Pro Git学习手册YYDS！](https://mp.weixin.qq.com/s/xDYSG4uDz9rgNCuk0RxLjg)
 - [科普篇：Git和SVN对比](https://mp.weixin.qq.com/s/bUYz9JwqAYH_Fn6nHPSmTg)
@@ -293,10 +285,6 @@ Scholar
 - [知识总结：操作系统主要概念硬核讲解](https://mp.weixin.qq.com/s/1Rzvu9uCTef5l_8Qw3ff0A)
 - [知识总结：20张图详解操作系统内存管理部分知识点](https://mp.weixin.qq.com/s/m-AmxDVUfko7OTUsCapnPA)
 
----
-
-## 数据库/SQL
-
 - [原理探究：详解一条SQL的执行过程](https://mp.weixin.qq.com/s/OnGaqyUpB58pC2rqqzIzgw)
 - [原理探究：MySQL的数据存在磁盘上到底长什么样](https://mp.weixin.qq.com/s/36Jaj79Y8BxFoDB3Bwe7mg)
 - [原理探究：数据库索引到底是什么](https://mp.weixin.qq.com/s/WMuxdG3ymNMWWDk1XhLwZQ)
@@ -312,6 +300,29 @@ Scholar
 - [原理探究：MySQL主从复制那些事儿](https://mp.weixin.qq.com/s/CCLsmKSsodtkz4iX84Cdig)
 - [实践应用：常见的SQL错误（不当）写法例析](https://mp.weixin.qq.com/s/caBYeVtZvNzbSs4q-6710Q)
 - [实践应用：SQL优化的几个角度](https://mp.weixin.qq.com/s/hl11JYMwl30FsDVZ40CLVQ)
+
+<!-- tabs:end -->
+
+---
+
+## **List of Commonly Used Software**
+
+ - [Rstudio](https://www.rstudio.com/)
+ - [Office](https://www.office.com/)
+ - [Chrome](https://chromeenterprise.google/intl/en_uk/browser/)
+ - [Getdata](https://getdata.com/)
+ - [Gitscm](https://git-scm.com/downloads)
+ - [WinSCP](https://winscp.net/eng/index.php)
+ - [GIMP](https://www.gimp.org/)
+ - [WangyiMusic](https://music.163.com/)
+ - [WeChat](https://www.wechat.com/)
+ - [Whatsapp](https://www.whatsapp.com/)
+
+---
+
+## 数据库/SQL
+
+
 
 ---
 
@@ -381,9 +392,9 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 - [如何写出让同事无法维护的代码？](https://mp.weixin.qq.com/s/8zP5DX79-aEuFF17MYnHtg)
 - [六成大学生认为自己毕业10年内会年入百万？](https://mp.weixin.qq.com/s/bj6LG7bq1Og8-fplcLjROA)
 - [围观Linus大佬吐槽桌面版Linux](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
-- [Dotdot]
+- [Dotdot](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
   <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/shading.png" width="600"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/Mycat.jpg" width="200"/>
  </p>
 
  ### 游记见闻
