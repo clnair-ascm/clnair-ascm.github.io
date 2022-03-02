@@ -21,6 +21,12 @@ More information will be added smoothly, and some sections will be revised. Plea
 <!-- tabs:start -->
 
   #### ****EN****
+  
+> [**2022-03-02:** How to write a successful funding application?](https://www.ytas.org.uk/wp-content/uploads/2018/03/How-to-write-a-successful-funding-application.pdf)
+  - Planning your project - why? what? who? where? when? 
+  - SWOT Analysis, PESTEL Analysis etc. 
+  - Stay focused, providing benefits and evidence.
+  - Monitoring and evaluation. 
 
 > [**2022-02-15:** How to construct a Nature summary paragraph?](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
   - Using one or two sentences providing a basic background to the field, comprehensible to a scientist in any displine;
