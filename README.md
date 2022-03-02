@@ -45,11 +45,19 @@ More information will be added smoothly, and some sections will be revised. Plea
 
   #### ****CN****
 
-> [**2022-02-19:** 2022年国家自然基金标书撰写要点的全细节详述](https://mp.weixin.qq.com/s/R_vYKXFZe8Vp7uxwRCEXZw)
+> [**2022-03-02:** 国自然写作交流](https://www.bilibili.com/video/BV1f34y197kW?from=search&seid=4698504110866153886&spm_id_from=333.337.0.0)
 
-> [sub 2022年国自然九大学部最全申请注意事项整理](https://zhuanlan.zhihu.com/p/460611433)
+> [**2022-03-02:** 国自然青年基金申请三大致命错误](https://www.bilibili.com/video/BV1WP4y1s7uP?from=search&seid=4698504110866153886&spm_id_from=333.337.0.0)
 
-> [**2022-02-02:** 做好工作18法](https://mp.weixin.qq.com/s/VP2Xflh0hNEOfG9soz2yVg)
+> [**2022-03-02:** 技术路线图](https://www.bilibili.com/video/BV1zf4y1J71M?from=search&seid=4698504110866153886&spm_id_from=333.337.0.0)
+
+> [**2022-03-01:** 2022年国自然申请注意三点内容](https://mp.weixin.qq.com/s/R_vYKXFZe8Vp7uxwRCEXZw)
+
+> [**2022-02-25:** 2022年国家自然基金标书撰写要点的全细节详述](https://mp.weixin.qq.com/s/R_vYKXFZe8Vp7uxwRCEXZw)
+
+> [**2022-02-23:** 2022年国自然九大学部最全申请注意事项整理](https://zhuanlan.zhihu.com/p/460611433)
+
+> [**2022-02-02:** 干好工作18法](https://mp.weixin.qq.com/s/VP2Xflh0hNEOfG9soz2yVg)
 
 > [**2022-01-28:** 施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/LShYD_eMAiAl-IHZ9B5C7g)
 
@@ -307,21 +315,17 @@ Scholar
 ### **Academic**
 
 - [资源下载 → 豆瓣9.1分的Pro Git学习手册YYDS！](https://mp.weixin.qq.com/s/xDYSG4uDz9rgNCuk0RxLjg)
-- [科普篇：Git和SVN对比](https://mp.weixin.qq.com/s/bUYz9JwqAYH_Fn6nHPSmTg)
 - [科普篇：5分钟了解Git的前世今生](https://mp.weixin.qq.com/s/VvpjFUXd6jcatACHyFPHfg)
 - [科普篇：Git操作与常用命令集锦](https://mp.weixin.qq.com/s/swnwBiuyVmhs5iPqv3H6BQ)
 - [原理篇：图解Git中的最常用命令](https://mp.weixin.qq.com/s/DRCeDhYiwQQToKukk4RM4g)
 - [原理篇：从原理角度理解记忆Git常见命令](https://mp.weixin.qq.com/s/DQVVYOWdOPuRsy3m0fg6Xg)
 - [实践篇：从实践中彻底上手Git](https://mp.weixin.qq.com/s/sp1YUQ2vnQaIGH4tO3j1Vw)
 - [实践篇：Git分支开发](https://mp.weixin.qq.com/s/touo-rygtz0tG6y8NKw65A)
-- [实践篇：如何使用GitHub Flow给开源项目贡献代码](https://mp.weixin.qq.com/s/JMNQi3BSTmKpF9vXMEdKHw)
 - [技巧篇：一招搞定GitHub下载加速！](https://mp.weixin.qq.com/s/SYR4zvjhAH1mX9fxdp8cbA)
-- [技巧篇：如何在同一台电脑上同时使用多个Git账号](https://mp.weixin.qq.com/s/Qt4bqReZU3ydIsMtCVC0eA)
 
 - [知识总结：学编程要懂的操作系统基础](https://mp.weixin.qq.com/s/ttncekujB82g88GRx3a6lQ)
 - [知识总结：程序员必知的89个操作系统核心概念](https://mp.weixin.qq.com/s/VsQ7IpP-jnXSjJhOAzl-ew)
 - [知识总结：操作系统主要概念硬核讲解](https://mp.weixin.qq.com/s/1Rzvu9uCTef5l_8Qw3ff0A)
-- [知识总结：20张图详解操作系统内存管理部分知识点](https://mp.weixin.qq.com/s/m-AmxDVUfko7OTUsCapnPA)
 
 - [原理探究：详解一条SQL的执行过程](https://mp.weixin.qq.com/s/OnGaqyUpB58pC2rqqzIzgw)
 - [原理探究：MySQL的数据存在磁盘上到底长什么样](https://mp.weixin.qq.com/s/36Jaj79Y8BxFoDB3Bwe7mg)
@@ -330,10 +334,6 @@ Scholar
 - [原理探究：为什么用了索引，SQL查询还是慢](https://mp.weixin.qq.com/s/-mOOchaXx_pKI6qWhohEnA)
 - [原理探究：数据库索引的原理和使用准则](https://mp.weixin.qq.com/s/4K3borSZXt-yc5t5UJnJpQ)
 - [原理探究：为什么你写的SQL那么慢](https://mp.weixin.qq.com/s/iBnav_WPrX5vjR-NbdNeQg)
-- [原理探究：count(1)和count(*)到底哪个效率高](https://mp.weixin.qq.com/s/lyAFcnZIoyhACw78Nf9xQg)
-- [原理探究：为什么阿里规定超过三张表禁止join](https://mp.weixin.qq.com/s/7vN9Nf20NGnvLKALHw_O1Q)
-- [原理研究：什么是MySQL索引下推？](https://mp.weixin.qq.com/s/aPVs9Jrk07KsXcXdPOpx5A)
-- [原理探究：为什么大公司后台数据库都要搞分库分表？](https://mp.weixin.qq.com/s/yflzIQFiNa3tDJm7U9P8ig)
 - [原理探究：MySQL不会丢失数据的奥秘就藏在这里](https://mp.weixin.qq.com/s/QBeyJz2gVq1p7wBxcY1Gfw)
 - [原理探究：MySQL主从复制那些事儿](https://mp.weixin.qq.com/s/CCLsmKSsodtkz4iX84Cdig)
 - [实践应用：常见的SQL错误（不当）写法例析](https://mp.weixin.qq.com/s/caBYeVtZvNzbSs4q-6710Q)
@@ -358,7 +358,7 @@ Scholar
 
 ---
 
-毫无疑问的是，对于上文提到的 **「编程基础」** 部分，有大量经典的书籍值得阅读，每一本都是大师们若干年经验的汇聚，所以学好编程基础，对于我们普通人来说，看书是一个非常直接有效的方式。
+毫无疑问的是，对于上文提到的，有大量经典的书籍值得阅读，每一本都是大师们若干年经验的汇聚，所以学好编程基础，对于我们普通人来说，看书是一个非常直接有效的方式。
 很多经典书看一遍可能远远不够，正所谓 **「初看懵、再看迷、三看发现有点小意思」** 讲的就是这个道理，这事急不得，而且有些东西的确需要一个反反复复的过程，有些甚至是在工作后的实践中才会遇到，所以珍惜每一次回炉重造的过程吧。
 
 <!-- panels:start -->
@@ -367,11 +367,8 @@ Scholar
 
 ## Buliding your own website
 
-- [手把手教你从0开始搭建自己的个人博客之：Hexo版](https://www.bilibili.com/video/BV1Yb411a7ty)
 - [手把手教你从0开始搭建自己的个人博客之：Hugo版](https://www.bilibili.com/video/BV1q4411i7gL)
-- [手把手教你从0开始搭建自己的个人博客之：Wordpress+Docker版](https://www.bilibili.com/video/BV12E41127Uj)
 - [建站神器：Hexo+Kaze+Gitee！](https://mp.weixin.qq.com/s/DrEc8FqycC15hp2X010wxQ)
-- [Win10下Hexo博客搭建教程及阿里云服务器部署实战](https://mp.weixin.qq.com/s/JTTUYJTvtdT6X2fvLUBFZg)
 
 <!-- panels:end -->
 
@@ -414,15 +411,11 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
  ### 深造
 
 - [一位博士的自白：毕业时想大哭一场](https://mp.weixin.qq.com/s/h6o5XpA8-M97MWILhdrO5A)
-- [一个农村博士的独白：全家为什么只有我读到了博士](https://mp.weixin.qq.com/s/EhWWnpLuhLM3_lX8Ja3qMQ)
-
 
  ### 日常分享
 
 - [程序员缺乏经验的7种表现](https://mp.weixin.qq.com/s/UT1muuGblZ6hFvLViti6OQ)
-- [程序员的酒后真言，都不容易](https://mp.weixin.qq.com/s/oKFHpaItmlB57gCE0sbzig)
 - [如何写出让同事无法维护的代码？](https://mp.weixin.qq.com/s/8zP5DX79-aEuFF17MYnHtg)
-- [六成大学生认为自己毕业10年内会年入百万？](https://mp.weixin.qq.com/s/bj6LG7bq1Og8-fplcLjROA)
 - [围观Linus大佬吐槽桌面版Linux](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
 - [Dotdot](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
   <p align="left">
@@ -467,7 +460,6 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
    University of Birmingham, Edgbaston\
    Birmingham, UK\
    B15 2TT
-
 
    > Email
 
