@@ -16,6 +16,55 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 ---
 
+## **PROJECTS**
+
+ ### [2019-2022] Doctoral Research: Street Canyon Studies  
+
+<!-- tabs:start -->
+
+  #### ****2D MBM-FleX****
+
+ <p align="left">
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/StreetCanyon_v1.gif" width="600"/>
+ </p>
+
+   Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side,
+   leading to persistent higher exposure risk for pedestrians near the roadside. Using CFD approaches is, in general, very computational expensive for the study of 
+   practical scenarios, expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes 
+   has been developed for air pollution simulations in street canyons. Click [here](https://doi.org/10.1016/j.atmosenv.2021.118709) for more information.
+
+   城市街道峡谷通常指由街道和其两侧连续建筑所形成的相对密闭、类似自然峡谷的人造都市环境。它是城市表面的基本单元，并随着城市化的发展越来越随处可见。一般来讲，街道峡谷的通风性
+   较差，当背景风向垂直于街道中轴线时，大气污染物容易在其中累积，使得行人的健康风险上升。流体力学模型能够提供相对准确的气流扩散信息，但当需要纳入化学方案时，此类模型需要的计算资源较高。
+   因此，VOC自由基化学反应在此前的模拟研究中被较少考虑。基于该背景，我们设计了分辨率可控的二维多箱模型用来模拟街道峡谷中气态污染物的物理化学过程。
+   该模型性能与大涡模拟的一致性较好，能够反映主要气态污染物如NO2和O3在常规和深街道峡谷中的时间演化和空间变化规律，点击[信息](https://doi.org/10.1016/j.atmosenv.2021.118709)了解详情。
+
+  #### ****NO2 Hotspot and Regulatory Wiggle Room****
+
+   <p align="left">
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/wiggleroom.png" width="600"/>
+ </p>
+
+   城市大气化学和物理传输过程对街道峡谷中二氧化氮（NO2）浓度的影响还不完全清楚。我们采用挥发性有机污染物（VOCs）化学机理和多箱模型模拟街道峡谷“热点区域”的NO2浓度变化。通过改变氮氧化物（NOx）、
+   VOCs的排放强度及一次NO2的占比（fNO2）（共计42,000项敏感性测试），使用“回旋空间”作为参数证明了VOCs化学在城市街道峡谷模拟中的必要性。以伦敦市中心为例，使用VOCs化学机理使得峡谷内1小时NO2浓度
+   由达标转为不达标。因而，忽略挥发性有机物化学可能会低估常规街道峡谷中5.9%-22.1%的NO2，导致空气质量模拟结果出现假达标现象。该影响在深峡谷中较低fNO2的情景下更为显著（-51.3%-30.9%）。“回旋空间”
+   的波动性说明对主要排放参数进行协同管控能够达到更加显著的减排效果。
+
+  #### ****The Shading Effects****
+
+  <p align="left">
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/shading.png" width="600"/>
+ </p>
+
+  #### ****A Case Study in Naples****
+ 
+  <p align="left">
+      <img src=" https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/dcinital.png" width="600"/>
+ </p>
+
+<!-- tabs:end -->
+
+---
+
 ## **POSTS**
 
 <!-- tabs:start -->
@@ -61,55 +110,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 > [**2022-01-28:** 施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/LShYD_eMAiAl-IHZ9B5C7g)
 
-
-<!-- tabs:end -->
-
-  ---
-
-## **PROJECTS**
-
- ### [2019-2022] Doctoral Research: Street Canyon Studies  
-
-<!-- tabs:start -->
-
-  #### ****2D MBM-FleX****
-
- <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/StreetCanyon_v1.gif" width="600"/>
- </p>
-
-   Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side,
-   leading to persistent higher exposure risk for pedestrians near the roadside. Using CFD approaches is, in general, very computational expensive for the study of 
-   practical scenarios, expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes 
-   has been developed for air pollution simulations in street canyons. Click [here](https://doi.org/10.1016/j.atmosenv.2021.118709) for more information.
-
-   城市街道峡谷通常指由街道和其两侧连续建筑所形成的相对密闭、类似自然峡谷的人造都市环境。它是城市表面的基本单元，并随着城市化的发展越来越随处可见。一般来讲，街道峡谷的通风性
-   较差，当背景风向垂直于街道中轴线时，大气污染物容易在其中累积，使得行人的健康风险上升。流体力学模型能够提供相对准确的气流扩散信息，但当需要纳入化学方案时，此类模型需要的计算资源较高。
-   因此，VOC自由基化学反应在此前的模拟研究中被较少考虑。基于该背景，我们设计了分辨率可控的二维多箱模型用来模拟街道峡谷中气态污染物的物理化学过程。
-   该模型性能与大涡模拟的一致性较好，能够反映主要气态污染物如NO2和O3在常规和深街道峡谷中的时间演化和空间变化规律，点击[信息](https://doi.org/10.1016/j.atmosenv.2021.118709)了解详情。
-
-  #### ****NO2 Hotspot and Regulatory Wiggle Room****
-
-   <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/wiggleroom.png" width="600"/>
- </p>
-
-   城市大气化学和物理传输过程对街道峡谷中二氧化氮（NO2）浓度的影响还不完全清楚。我们采用挥发性有机污染物（VOCs）化学机理和多箱模型模拟街道峡谷“热点区域”的NO2浓度变化。通过改变氮氧化物（NOx）、
-   VOCs的排放强度及一次NO2的占比（fNO2）（共计42,000项敏感性测试），使用“回旋空间”作为参数证明了VOCs化学在城市街道峡谷模拟中的必要性。以伦敦市中心为例，使用VOCs化学机理使得峡谷内1小时NO2浓度
-   由达标转为不达标。因而，忽略挥发性有机物化学可能会低估常规街道峡谷中5.9%-22.1%的NO2，导致空气质量模拟结果出现假达标现象。该影响在深峡谷中较低fNO2的情景下更为显著（-51.3%-30.9%）。“回旋空间”
-   的波动性说明对主要排放参数进行协同管控能够达到更加显著的减排效果。
-
-  #### ****The Shading Effects****
-
-  <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/shading.png" width="600"/>
- </p>
-
-  #### ****A Case Study in Naples****
- 
-  <p align="left">
-      <img src=" https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/dcinital.png" width="600"/>
- </p>
 
 <!-- tabs:end -->
 
