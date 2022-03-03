@@ -314,6 +314,7 @@ Scholar
 
 ### **Academic**
 
+- [ResearchProposal](https://www.yorksj.ac.uk/study/postgraduate/research/apply/examples-of-research-proposals/)
 - [资源下载 → 豆瓣9.1分的Pro Git学习手册YYDS！](https://mp.weixin.qq.com/s/xDYSG4uDz9rgNCuk0RxLjg)
 - [科普篇：5分钟了解Git的前世今生](https://mp.weixin.qq.com/s/VvpjFUXd6jcatACHyFPHfg)
 - [科普篇：Git操作与常用命令集锦](https://mp.weixin.qq.com/s/swnwBiuyVmhs5iPqv3H6BQ)
