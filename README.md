@@ -70,6 +70,10 @@ More information will be added smoothly, and some sections will be revised. Plea
 <!-- tabs:start -->
 
   #### ****EN****
+
+> [**2022-03-03:** Ending the use of obsolete Data analysis Methods: e.g., EF and PCA](https://aaqr.org/articles/aaqr-20-01-le-0001.pdf)
+
+> [**2022-03-03:** PCA helps you interpret your data, but it will not always find the important patterns](https://www.nature.com/articles/nmeth.4346#:~:text=PCA%20is%20an%20unsupervised%20learning,groups%20or%20have%20phenotypic%20differences.)
   
 > [**2022-03-02:** How to write a successful funding application?](https://www.ytas.org.uk/wp-content/uploads/2018/03/How-to-write-a-successful-funding-application.pdf)
   - Planning your project - why? what? who? where? when? 
