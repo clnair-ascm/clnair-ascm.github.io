@@ -63,6 +63,30 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 <!-- tabs:end -->
 
+ ### [2022] DY(Discovery)151 SEANA/M-Phase joint cruise
+
+ SEANA project aims to reduce the uncertianties in modelling the response of sources and processes of aerosol, cloud condensation nuclei, and ice nuclei to anthropogenic and natural emission changes, 
+ so that we can better simulate clouds and predict future climate in Arctic. The cruise is atmospheric focused and the main objectives include:
+ •	To understand the sources and processes of aerosol particles (such as black carbon and dust), cloud condensation nuclei and ice nuclei (coarse particles are key)
+ •	To elucidate the formation and growth mechanism of new particles
+ •	To update a global aerosol model based on mechanistic understanding on particle source and processes from the observations.
+ •	To evaluate the new model against pan-Arctic observations
+ •	To predict the potential impact of future shipping emissions along the Northwest Passage (likely to be completely open in the summer by 2050) and changing climate on aerosol, CCN, IN and clouds
+ •	To understand the impact of high latitude dust deposition on ocean nutrient pool and on phytoplankton growth
+** Note that this is an unofficial log of the cruise, for details of the research please visit [Clean-Air](https://clean-air-research.org.uk/projects/seana/)**
+
+
+Please visit the [SEANA](https://seana.io/) website for more information.
+
+ SEANA项目旨在减少模拟气溶胶、云凝结核和冰核的来源和过程对人为和自然排放变化的反应中的不确定性。
+ 这样我们就能更好地模拟云和预测北极的未来气候。这次巡航的重点是大气，主要目标包括
+ - 了解气溶胶颗粒（如黑碳和灰尘）、云凝结核和冰核的来源和过程（粗颗粒是关键）。
+ - 阐明新粒子的形成和生长机制
+ - 根据对观察到的颗粒来源和过程的机理理解，更新全球气溶胶模型。
+ - 根据泛北极地区的观测结果评估新的模型
+ - 预测未来沿西北通道（到2050年夏季可能完全开放）的航运排放和变化的气候对气溶胶、CCN、IN和云的潜在影响。
+ - 了解高纬度尘埃沉积对海洋营养库和浮游植物生长的影响
+
 ---
 
 ## **POSTS**
@@ -126,6 +150,10 @@ More information will be added smoothly, and some sections will be revised. Plea
  **Published papers (<sup>#</sup> co-first author, <sup></sup> corresponding author)** <span id="badgeCont131"><script type="text/javascript" src="https://publons.com/mashlets/?el=badgeCont131&rid=AAC-1565-2022&size=small"></script></span>
 
  > **2022**
+
+  Jia, B., Tian, Y., Dai, Y., Chen, R., Zhao, P., Chu, J., Feng, X. and Feng, Y., 2022. Seasonal variation of dissolved bioaccessibility for potentially toxic elements in size-resolved PM: Impacts of bioaccessibility on inhalable risk and uncertainty. Environmental Pollution, p.119551. <https://doi.org/10.1016/j.envpol.2022.119551>
+
+  Xie, Q., Su, S., Dai, Y., Hu, W., Yue, S., Cao, D., Jiang, G. and Fu, P., 2022. Deciphering 13C and 34S Isotopes of Organosulfates in Urban Aerosols by FT-ICR Mass Spectrometry. Environmental Science & Technology Letters. <https://doi.org/10.1021/acs.estlett.2c00255> **[[pdf](/static/papers/est_qiaorong_2022.pdf)]**
 
  > **2021**
 
@@ -255,7 +283,7 @@ logo creation, poster design and production, picture beautifying, and online ima
 - [AirBridge](https://www.myairbridge.com/en/#!/)
 - [GoogleDrive](https://drive.google.com/)
 - [Mega](https://mega.io/)
-
+- [WeTransfer](http://www.wetransfer.com)
 
 <!-- tabs:end -->
 
@@ -479,7 +507,8 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
    - [CodeSheep](https://r2coding.com/#/)
    - [TuanVu](https://tuanvvu.github.io/)
    - [Congbo](https://congbo.site/)
-
+   - [Anduin2017](https://github.com/Anduin2017/HowToCook)
+   - [SleepyOcean](https://sleepyocean.github.io/)
 ---
 
 Continue to be updated...
