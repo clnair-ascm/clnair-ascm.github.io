@@ -30,12 +30,29 @@ RRS发现号有能力前往偏远和极端的海洋环境，它具有高度的�
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_6.jpg" width="400"/>
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_7.jpg" width="400"/>
 </p>
+Plate 1. An overview of the RRS Discovery, including the ship at sea, scientists before boarding, the steering system and the engine room.
 
 #**虚拟参观 [Virtual Tour!!](https://noc.ac.uk/facilities/ships/rrs-discovery/rrs-discovery-virtual-tour)**
 
-船体结构：
+> ### Preparation 行前准备
+签证
+药物
+etc
 
-> ### Royal Research Ship (RRS) Discovery
+> ### Iceland 冰岛之行（雷克雅未克）5.13-5.16
+
+
+
+> ### 行前准备（船上）5.16-5.20
+
+
+
+> ### 行前准备（船上）5.16-5.20
+
+
+
+> ### Cov-Day！
+
 
 
 
