@@ -25,7 +25,7 @@ More information will be added smoothly, and some sections will be revised. Plea
   #### ****2D MBM-FleX****
 
  <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/StreetCanyon_v1.gif" width="600"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/StreetCanyon_v1.gif" width="500"/>
  </p>
 
    Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side,
@@ -41,7 +41,7 @@ More information will be added smoothly, and some sections will be revised. Plea
   #### ****NO2 Hotspot and Regulatory Wiggle Room****
 
    <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/wiggleroom.png" width="600"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/wiggleroom.png" width="500"/>
  </p>
 
    城市大气化学和物理传输过程对街道峡谷中二氧化氮（NO2）浓度的影响还不完全清楚。我们采用挥发性有机污染物（VOCs）化学机理和多箱模型模拟街道峡谷“热点区域”的NO2浓度变化。通过改变氮氧化物（NOx）、
@@ -52,13 +52,13 @@ More information will be added smoothly, and some sections will be revised. Plea
   #### ****The Shading Effects****
 
   <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/shading.png" width="600"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/shading.png" width="500"/>
  </p>
 
   #### ****A Case Study in Naples****
  
   <p align="left">
-      <img src=" https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/dcinital.png" width="600"/>
+      <img src=" https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/dcinital.png" width="500"/>
  </p>
 
 <!-- tabs:end -->
@@ -66,8 +66,8 @@ More information will be added smoothly, and some sections will be revised. Plea
  ### [2022] DY151 SEANA/M-Phase joint cruise
 
 <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Group1.jpeg" width="450"/>
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Group2.jpeg" width="450"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Group1.jpeg" height="350"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Group2.jpeg" height="350"/>
 </p>
 
  SEANA project aims to reduce the uncertianties in modelling the response of sources and processes of aerosol, cloud condensation nuclei, and ice nuclei to anthropogenic and natural emission changes, 
