@@ -30,7 +30,7 @@ More information will be added smoothly, and some sections will be revised. Plea
 
    Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side,
    leading to persistent higher exposure risk for pedestrians near the roadside. Using CFD approaches is, in general, very computational expensive for the study of 
-   practical scenarios, expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes 
+   practical scenarios, expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes (MBM-FleX)
    has been developed for air pollution simulations in street canyons. Click [here](https://doi.org/10.1016/j.atmosenv.2021.118709) for more information.
 
    城市街道峡谷通常指由街道和其两侧连续建筑所形成的相对密闭、类似自然峡谷的人造都市环境。它是城市表面的基本单元，并随着城市化的发展越来越随处可见。一般来讲，街道峡谷的通风性
@@ -67,9 +67,6 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Group1.jpeg" width="600"/>
-</p>
-
-<p align="right">
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Group2.jpeg" width="600"/>
 </p>
 
@@ -82,7 +79,7 @@ More information will be added smoothly, and some sections will be revised. Plea
  - To predict the potential impact of future shipping emissions along the Northwest Passage (likely to be completely open in the summer by 2050) and changing climate on aerosol, CCN, IN and clouds.
  - To understand the impact of high latitude dust deposition on ocean nutrient pool and on phytoplankton growth.
 
-**Note that this is an unofficial [log](pages/Arctic.md) of the cruise, for details of the research please visit [Clean-Air](https://clean-air-research.org.uk/projects/seana/)**
+**Note that this is an unofficial [LOG](pages/Arctic.md) of the cruise, for details of the research please visit [Clean-Air](https://clean-air-research.org.uk/projects/seana/)**
 
  SEANA项目旨在减少模拟气溶胶、云凝结核和冰核的来源和过程对人为和自然排放变化的反应中的不确定性，进而使得我们更好地模拟云和预测北极的未来气候变化。
  这次巡航的重点是大气，主要目标包括：
