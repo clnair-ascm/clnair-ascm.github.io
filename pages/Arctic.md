@@ -2,7 +2,7 @@
 
 ---
 
-> ### Royal Research Ship (RRS) Discovery
+> ### Royal Research Ship (RRS) Discovery 皇家科考船-探索号
 
 RRS Discovery is a multidisciplinary ship, specifically designed for the challenges of 21st century oceanography.
 
@@ -21,15 +21,24 @@ RRS发现号有能力前往偏远和极端的海洋环境，它具有高度的�
 她的起重机和侧边门架，以及相关的绞车和电线，将使许多不同类型的设备可以从船上部署。这些设施有助于支持海洋科学界进行具有国家和全球重要性的研究。
 
 <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_1.jpg" width="400"/>
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_2.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_1.jpg" width="400"/>
 	  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_3.jpg" width="400"/>
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_4.jpg" width="400"/>
-	  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_5.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_8.jpg" width="400"/>
+	  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_4.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_5.jpg" width="400"/>
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_6.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_7.jpg" width="400"/>
 </p>
 
 #**虚拟参观 [Virtual Tour!!](https://noc.ac.uk/facilities/ships/rrs-discovery/rrs-discovery-virtual-tour)**
+
+船体结构：
+
+> ### Royal Research Ship (RRS) Discovery
+
+
+
 
 
 实际企业级开发和项目部署，大部分情况下基本都是基于Linux环境进行的，所以掌握常用的命令、配置、网络和系统管理、基本的Shell编程等尽量还是要熟练一些，对后续项目实践都大有裨益。
