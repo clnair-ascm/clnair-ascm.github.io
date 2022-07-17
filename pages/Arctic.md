@@ -30,7 +30,7 @@ RRS发现号有能力前往偏远和极端的海洋环境，它具有高度的�
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_6.jpg" width="400"/>
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_7.jpg" width="400"/>
 </p>
-Plate 1. An overview of the RRS Discovery, including the ship at sea, scientists before boarding, the steering system and the engine room.
+Plate 1. An Overview of the RRS Discovery, including the ship at sea, scientists before boarding, the steering system and the engine room.
 
 #**虚拟参观 [Virtual Tour!!](https://noc.ac.uk/facilities/ships/rrs-discovery/rrs-discovery-virtual-tour)**
 
@@ -41,6 +41,29 @@ etc
 
 > ### Iceland 冰岛之行（雷克雅未克）5.13-5.16
 
+<p align="left">
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_2.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_3.jpg" width="400"/>
+	  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_4.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_1.jpg" width="400"/>
+	  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_5.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_8.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_6.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_7.jpg" width="400"/>
+</p>
+Plate 2. Road Trips in Iceland v1.
+
+<p align="left">
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_9.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_10.jpg" width="400"/>
+	  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_11.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_12.jpg" width="400"/>
+	  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_13.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_14.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_15.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_16.jpg" width="400"/>
+</p>
+Plate 3. Road Trips in Iceland v2.
 
 
 > ### 行前准备（船上）5.16-5.20

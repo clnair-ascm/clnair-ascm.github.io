@@ -90,7 +90,7 @@ More information will be added smoothly, and some sections will be revised. Plea
  - 预测未来沿西北通道（到2050年夏季可能完全开放）的航运排放和变化的气候对气溶胶、CCN、IN和云的潜在影响。
  - 了解高纬度尘埃沉积对海洋营养库和浮游植物生长的影响。
 
-**请参见DY151非正式[航行记录](pages/Arctic.md)，详细项目相关内容见 [Clean-Air](https://clean-air-research.org.uk/projects/seana/)**
+**本项目为DY151非正式[航行记录](pages/Arctic.md)，项目详细内容请参见 [Clean-Air](https://clean-air-research.org.uk/projects/seana/)**
 
 ---
 
