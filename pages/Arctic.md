@@ -4,7 +4,32 @@
 
 > ### Royal Research Ship (RRS) Discovery
 
+RRS Discovery is a multidisciplinary ship, specifically designed for the challenges of 21st century oceanography.
 
+RRS Discovery was designed by A.S. Skipsteknisk and was delivered to the National Oceanography Centre on the 8 July 2013. Fitted with the most up-to-date and high-tech instruments and equipment, it is ideal for oceanic exploration.
+
+With the ability to travel to remote and extreme oceanic environments, RRS Discovery is highly sophisticated and has the ability to operate in high sea states (up to sea-state 6). 
+The ship comes with sub-bottom profiling and multi-beam equipment for mapping the seabed, while her dynamic positioning capability means that Remotely Operated Vehicles can be used. 
+Her wide range of cranes and over-side gantries, with associated winches and wires, will allow many different types of equipment to be deployed from the ship. 
+These facilities and the many more listed below help support the marine science community as it undertakes research of national and global importance.
+
+RRS发现号是一艘多学科的船，专门为21世纪的海洋学挑战而设计。
+
+RRS发现号由A.S. Skipsteknisk设计，于2013年7月8日交付给英国国家海洋中心。它配备了最先进的高科技仪器和设备，是海洋探索的理想选择。
+
+RRS发现号有能力前往偏远和极端的海洋环境，它具有高度的复杂性，并有能力在复杂海况（高达6级海况）下运行。该船配备了海底剖面测量和多波束设备，用于绘制海底地图，而她的动态定位能力意味着可以使用遥控操作的车辆。
+她的起重机和侧边门架，以及相关的绞车和电线，将使许多不同类型的设备可以从船上部署。这些设施有助于支持海洋科学界进行具有国家和全球重要性的研究。
+
+<p align="left">
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_1.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_2.jpg" width="400"/>
+	  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_3.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_4.jpg" width="400"/>
+	  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_5.jpg" width="400"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_6.jpg" width="400"/>
+</p>
+
+#**虚拟参观 [Virtual Tour!!](https://noc.ac.uk/facilities/ships/rrs-discovery/rrs-discovery-virtual-tour)**
 
 
 实际企业级开发和项目部署，大部分情况下基本都是基于Linux环境进行的，所以掌握常用的命令、配置、网络和系统管理、基本的Shell编程等尽量还是要熟练一些，对后续项目实践都大有裨益。
