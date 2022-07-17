@@ -63,7 +63,7 @@ More information will be added smoothly, and some sections will be revised. Plea
 
 <!-- tabs:end -->
 
- ### [2022] DY(Discovery)151 SEANA/M-Phase joint cruise
+ ### [2022] DY151 SEANA/M-Phase joint cruise
 
  SEANA project aims to reduce the uncertianties in modelling the response of sources and processes of aerosol, cloud condensation nuclei, and ice nuclei to anthropogenic and natural emission changes, 
  so that we can better simulate clouds and predict future climate in Arctic. The cruise is atmospheric focused and the main objectives include:
