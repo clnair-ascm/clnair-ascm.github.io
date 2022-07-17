@@ -66,8 +66,8 @@ More information will be added smoothly, and some sections will be revised. Plea
  ### [2022] DY151 SEANA/M-Phase joint cruise
 
 <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Group1.jpeg" width="600"/>
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Group2.jpeg" width="600"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Group1.jpeg" width="450"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Group2.jpeg" width="450"/>
 </p>
 
  SEANA project aims to reduce the uncertianties in modelling the response of sources and processes of aerosol, cloud condensation nuclei, and ice nuclei to anthropogenic and natural emission changes, 
