@@ -1,7 +1,6 @@
-﻿# **DY(Discovery)151 SEANA/M-Phase joint cruise**
+﻿# **DY151 SEANA/M-Phase joint cruise**
 
 ---
-
 
 实际企业级开发和项目部署，大部分情况下基本都是基于Linux环境进行的，所以掌握常用的命令、配置、网络和系统管理、基本的Shell编程等尽量还是要熟练一些，对后续项目实践都大有裨益。
 

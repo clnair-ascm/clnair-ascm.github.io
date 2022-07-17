@@ -25,7 +25,7 @@ More information will be added smoothly, and some sections will be revised. Plea
   #### ****2D MBM-FleX****
 
  <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/StreetCanyon_v1.gif" width="600"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/StreetCanyon_v1.gif" width="600"/>
  </p>
 
    Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side,
@@ -41,7 +41,7 @@ More information will be added smoothly, and some sections will be revised. Plea
   #### ****NO2 Hotspot and Regulatory Wiggle Room****
 
    <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/wiggleroom.png" width="600"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/wiggleroom.png" width="600"/>
  </p>
 
    城市大气化学和物理传输过程对街道峡谷中二氧化氮（NO2）浓度的影响还不完全清楚。我们采用挥发性有机污染物（VOCs）化学机理和多箱模型模拟街道峡谷“热点区域”的NO2浓度变化。通过改变氮氧化物（NOx）、
@@ -52,13 +52,13 @@ More information will be added smoothly, and some sections will be revised. Plea
   #### ****The Shading Effects****
 
   <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/shading.png" width="600"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/shading.png" width="600"/>
  </p>
 
   #### ****A Case Study in Naples****
  
   <p align="left">
-      <img src=" https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/dcinital.png" width="600"/>
+      <img src=" https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/dcinital.png" width="600"/>
  </p>
 
 <!-- tabs:end -->
@@ -451,7 +451,7 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 - [围观Linus大佬吐槽桌面版Linux](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
 - [Dotdot](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
   <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/Mycat.jpg" width="200"/>
+      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/common/Mycat.jpg" width="200"/>
  </p>
 
  ### 游记见闻
@@ -483,7 +483,7 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
 
   > Name: Yuqing Dai / 代宇晴, Title: Mr.
 
-  <img align="left" src="/pics/bio.jpg" width="300" height="350">
+  <img align="left" src="/pics/common/bio.jpg" width="300" height="350">
   <br clear="left"/>
 
   > Address
