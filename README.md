@@ -65,6 +65,10 @@ More information will be added smoothly, and some sections will be revised. Plea
 
  ### [2022] DY151 SEANA/M-Phase joint cruise
 
+  <p align="left">
+      <img src=" https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Cmemo.png" width="600"/>
+ </p>
+
  SEANA project aims to reduce the uncertianties in modelling the response of sources and processes of aerosol, cloud condensation nuclei, and ice nuclei to anthropogenic and natural emission changes, 
  so that we can better simulate clouds and predict future climate in Arctic. The cruise is atmospheric focused and the main objectives include:
  - To understand the sources and processes of aerosol particles (such as black carbon and dust), cloud condensation nuclei and ice nuclei (coarse particles are key).
@@ -73,7 +77,8 @@ More information will be added smoothly, and some sections will be revised. Plea
  - To evaluate the new model against pan-Arctic observations.
  - To predict the potential impact of future shipping emissions along the Northwest Passage (likely to be completely open in the summer by 2050) and changing climate on aerosol, CCN, IN and clouds.
  - To understand the impact of high latitude dust deposition on ocean nutrient pool and on phytoplankton growth.
-** Note that this is an unofficial [log](pages/Arctic.md) of the cruise, for details of the research please visit [Clean-Air](https://clean-air-research.org.uk/projects/seana/) **
+
+**Note that this is an unofficial [log](pages/Arctic.md) of the cruise, for details of the research please visit [Clean-Air](https://clean-air-research.org.uk/projects/seana/)**
 
  SEANA项目旨在减少模拟气溶胶、云凝结核和冰核的来源和过程对人为和自然排放变化的反应中的不确定性，进而使得我们更好地模拟云和预测北极的未来气候变化。
  这次巡航的重点是大气，主要目标包括：
@@ -84,7 +89,7 @@ More information will be added smoothly, and some sections will be revised. Plea
  - 预测未来沿西北通道（到2050年夏季可能完全开放）的航运排放和变化的气候对气溶胶、CCN、IN和云的潜在影响。
  - 了解高纬度尘埃沉积对海洋营养库和浮游植物生长的影响。
 
-  ** 请参见DY151非正式[航行记录](pages/Arctic.md)，项目相关内容见 [Clean-Air](https://clean-air-research.org.uk/projects/seana/) **
+**请参见DY151非正式[航行记录](pages/Arctic.md)，详细项目相关内容见 [Clean-Air](https://clean-air-research.org.uk/projects/seana/)**
 
 ---
 
