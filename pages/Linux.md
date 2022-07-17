@@ -4,7 +4,7 @@
 
 <p align="left">
     <a href="https://linuxjourney.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/hello-world.png" width="400"/>
+        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/mod/hello-world.png" width="400"/>
     </a>
 </p>
 
