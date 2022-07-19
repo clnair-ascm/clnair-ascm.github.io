@@ -46,9 +46,9 @@ Figure 8   RRS engine room
 药物
 etc
 
-> ### Iceland 冰岛之行（雷克雅未克）5.13-5.16
+> ### Iceland 冰岛（雷克雅未克）5.13-5.16
 
-经过漫长的前期准备，Scientists finally got all prepared! 
+Scientists finally got all prepared! 
 
 <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_2.JPG" height="150"/>
@@ -78,34 +78,15 @@ Figure 2-3 Accomodation in Rekjavik
 Figure 6   
 Figure 8   
 
-> ### 行前准备（船上）5.16-5.20
-
-
-
-> ### 行前准备（船上）5.16-5.20
-
-
 
 > ### Cov-Day！
 
-即便在出发前已做好充分的个人防护，COV19病毒依旧无孔不入。登船首周周日，四个船员身体感觉不适，经核查他们的核酸检测呈阳性，需要在船舱内进行自我隔离直至转阴。同时继续实施戴口罩、保持社交距离和错峰就餐措施以保障其他成员的健康。
-
-
-
-
-
+Even with adequate personal protection in place prior to departure, COV19 virus was still pervasive. On the Sunday of the first week on board, four crew members felt unwell and were verified 
+to have tested positive, requiring self-quarantee in their cabins until turned negative. Meanwhile, masking, social distancing and staggered meals continue to be implemented to protect the health of 
+the rest of people. 
 
 
 - [常用Linux操作系统大盘点](https://mp.weixin.qq.com/s/x8rwsIOzYEPXmEVXmWJ4Tg)
-- [人手一套Linux环境之：macOS版教程](https://mp.weixin.qq.com/s/WeZLtfrMdnISpX3v5WpJfA)
-
-
-
-
-
-
-
-
 
 
 
