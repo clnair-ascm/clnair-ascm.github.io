@@ -79,6 +79,19 @@ Figure 6
 Figure 8   
 
 
+
+> ### Greenland South-east coast
+
+From 16th May to 23th May, the RRS Discovery was on the South East coast of Greenland near melting seaice. We stayed in order to avoid the risk of the storm. 
+
+
+> ### Nuuk - Greenland's captial city
+
+On 30th May, the RRS Discovery was close to Nuuk at 9:00 am, the city was covered in fog, with only a few edges of buildings appearing from time to time. Fog disappeared quickly after 
+half hour later and gave us a clear view of the city.
+
+
+
 > ### Cov-Day！
 
 Even with adequate personal protection in place prior to departure, COV19 virus was still pervasive. On the Sunday of the first week on board, four crew members felt unwell and were verified 
