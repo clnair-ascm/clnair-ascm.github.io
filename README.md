@@ -100,6 +100,17 @@ More information will be added smoothly, and some sections will be revised. Plea
 
   #### ****EN****
 
+> [**2022-08-13:** Six tips for better spreadsheets](https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/static/readingfile/better_spreadsheets.pdf)
+  - Keep raw data raw.
+  - Make sure the data is in the right format (readable by machine).
+  - Be consistent.
+  - Document your work, write readme file in time. 
+  - Cross check your data. 
+  - Think ahead. 
+
+
+> [**2022-08-05:** Step by Step guide to reviewing a manuscript](https://authorservices.wiley.com/Reviewers/journal-reviewers/how-to-perform-a-peer-review/step-by-step-guide-to-reviewing-a-manuscript.html)
+
 > [**2022-03-03:** Ending the use of obsolete Data analysis Methods: e.g., EF and PCA](https://aaqr.org/articles/aaqr-20-01-le-0001.pdf)
 
 > [**2022-03-03:** PCA helps you interpret your data, but it will not always find the important patterns](https://www.nature.com/articles/nmeth.4346#:~:text=PCA%20is%20an%20unsupervised%20learning,groups%20or%20have%20phenotypic%20differences.)
@@ -240,6 +251,7 @@ Craftmen must first sharpen their tools before they can do a good job, and fishe
 - [Compresfiles_CN](https://docsmall.com/)
 - [Office-converter](https://www.office-converter.com/)
 - [WordRec](https://ocr.wdku.net/)
+- [BioRender](https://biorender.com/)
 
 ### **Online_Visualisation**
 
@@ -514,6 +526,7 @@ Science is a marathon, not a sprint. A workaholoic behavior is not glorified. St
    - [Congbo](https://congbo.site/)
    - [Anduin2017](https://github.com/Anduin2017/HowToCook)
    - [SleepyOcean](https://sleepyocean.github.io/)
+   - [Xiaoyu](https://www.cs.bham.ac.uk/~xxq896/)
 ---
 
 Continue to be updated...

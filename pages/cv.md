@@ -10,11 +10,10 @@ Update: 2022/01/19
 
 Yuqing currently is a <span style="color:blue">**[PhD student](https://www.researchgate.net/profile/Yuqing-Dai)**</span> (2019.10-) in Atmospheric Science, School of Geography, Earth and Environment Sciences, University of Birmingham. He is now supervised by Prof. **[Rob MacKenzie](https://www.birmingham.ac.uk/staff/profiles/gees/mackenzie-rob.aspx)** after Dr.**[Xiaoming Cai](https://www.researchgate.net/profile/Xiaoming-Cai)**'s retirement. Yuqing is working on street canyon studies, with a focus on the coupled chemical and physical processes within urban street canyons. His research interestes include:
 
-- The dispersion of air pollution inside urban canyons.
-- The impact of VOC free-radical reactions on chemical species within street canyons with different geometries.
-- Shading effects on NO2 and O3 within urban canyons.  
-- The impact of green infrastructures (e.g., trees) on air pollutants in urban areas.
-- Air quality modelling across multi-scales (e.g., regional and street scales).
+- Disperson of air pollution in urban street canyons
+- Emission, chemical, and physical effects of VOC free-radical reactions on air quality
+- Urban air quality modelling
+- Air quality interventions Policy efficacy evaluation
 
 > ### Employment
 
@@ -32,7 +31,9 @@ NTBF.
 * Street canyon modelling, developer of StreetX CTM for air quality simulations in urban canyons.
 * Frequent Linux user. 
 * Model evaluations for NWP.
+* CMAQ certification.
 * Programming languages, such as Fortran, Python, and R, etc.
+* Xact, Fidas, VOC sampler, Wind selector, Picarro, etc
 
 > ### Conferences
 
