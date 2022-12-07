@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html  lang="en" >
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, maximum-scale=5, viewport-fit=cover">
+    <title>Document | Hexo</title>
+    <meta name="description" content="Basic concept Hexo is a static Blog Framework. Assuming you have installed Hexo under the guidance of offical Document. You can find a file named_config.yml. Let’s call it site config file. At the sam">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Document">
+<meta property="og:url" content="http://example.com/2020/03/14/document/index.html">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="Basic concept Hexo is a static Blog Framework. Assuming you have installed Hexo under the guidance of offical Document. You can find a file named_config.yml. Let’s call it site config file. At the sam">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://i.loli.net/2020/03/14/ihvBKmdjrLxHwVO.png">
+<meta property="og:image" content="https://i.loli.net/2020/03/14/4lmxLaybI5VSjGO.png">
+<meta property="article:published_time" content="2020-03-14T22:59:19.000Z">
+<meta property="article:modified_time" content="2022-12-03T12:40:50.056Z">
+<meta property="article:author" content="John Doe">
+<meta property="article:tag" content="Doc">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://i.loli.net/2020/03/14/ihvBKmdjrLxHwVO.png">
+
+    
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+
+    
+<link rel="stylesheet" href="/css/common.min.css">
+
+
+
+    
+    
+    
+    
+        <link href="//cdn.jsdelivr.net/npm/lightgallery.js@1.1.3/dist/css/lightgallery.min.css" rel="stylesheet">
+    
+    
+    
+<link rel="stylesheet" href="/css/iconfont.min.css">
+
+    
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+    <body>
+        <header class="header header-fixture">
+    <div class="profile-search-wrap flex sm:block">
+        
+        
+        <div class="profile sm:text-center md:px-1 lg:px-3 sm:pb-4 sm:pt-6">
+            <a id="avatar" role="link" href="https://github.com/clnair-ascm" class="inline-block lg:w-16 lg:h-16 w-8 h-8 m-2" target="_blank" rel="noopener" rel="noreferrer" >
+                <img src="https://www.gravatar.com/avatar/0bc83cb571cd1c50ba6f3e8a78ef1346?s=128" class="rounded-full" alt="avatar">
+            </a>
+            <h2 id="name" class="hidden lg:block">Yuqing Dai</h2>
+            <h3 id="title" class="hidden lg:block">PhD student in Atmospheric Science</h3>
+            
+            <small id="location" class="hidden lg:block">
+                <i class="iconfont icon-map-icon"></i>
+                Birmingham, UK
+            </small>
+            
+        </div>
+        
+        
+<div class="search flex-1 flex lg:inline-block sm:hidden lg:px-4 lg:mt-2 lg:mb-4 lg:w-full">
+    <form id="search-form" class="my-auto flex-1 lg:border lg:border-solid lg:border-gray-200">
+        <div class="input-group table bg-gray-100 lg:bg-white w-full">
+            <input id="search-input" type="text" placeholder="Search" class="inline-block w-full bg-gray-100 lg:bg-white p-1">
+            <span class="table-cell">
+                <button name="search tigger button" disabled>
+                    <i class="iconfont icon-search m-2"></i>
+                </button>
+            </span>
+        </div>
+    </form>
+        
+<div id="content-json" data-placeholder="Search" class="invisible hidden">/content.json</div>
+<script id="search-teamplate" type="text/html" data-path="/content.json">
+    <div>
+        <div class="search-header bg-gray-400">
+            <input id="actual-search-input" model="keyword" ref="input" class="inline-block w-full h-10 px-2 py-1" placeholder="Search" type="text">
+        </div>
+        <div class="search-result bg-gray-200">
+            {{#each searchPosts}}
+            <a href="/{{ path }}" class="result-item block px-2 pb-3 mb-1 pt-1 hover:bg-indigo-100">
+                <i class="iconfont icon-file"></i>
+                <h1 class="result-title inline font-medium text-lg">{{ title }}</h1>
+                <p class="result-content text-gray-600 text-sm">{{{ text }}}</p>
+            </a>
+            {{/each}}
+        </div>
+    </div>
+</script>
+
+</div>
+
+
+        <button name="menu toogle button" id="menu-toggle-btn" class="block sm:hidden p-3" role="button" aria-expanded="false">
+            <i class="iconfont icon-hamburger"></i>
+        </button>
+    </div>
+    <nav id="menu-nav" class="hidden sm:flex flex-col">
+        
+        
+            <div class="menu-item menu-home" role="menuitem">
+                <a href="/.">
+                    <i class="iconfont icon-home" aria-hidden="true"></i>
+                    <span class="menu-title">Home</span>
+                </a>
+            </div>
+        
+        
+            <div class="menu-item menu-archives" role="menuitem">
+                <a href="/archives">
+                    <i class="iconfont icon-archive" aria-hidden="true"></i>
+                    <span class="menu-title">Archives</span>
+                </a>
+            </div>
+        
+        
+            <div class="menu-item menu-categories" role="menuitem">
+                <a href="/categories">
+                    <i class="iconfont icon-folder" aria-hidden="true"></i>
+                    <span class="menu-title">Categories</span>
+                </a>
+            </div>
+        
+        
+            <div class="menu-item menu-tags" role="menuitem">
+                <a href="/tags">
+                    <i class="iconfont icon-tag" aria-hidden="true"></i>
+                    <span class="menu-title">Tags</span>
+                </a>
+            </div>
+        
+        
+            <div class="menu-item menu-repository" role="menuitem">
+                <a href="/repository">
+                    <i class="iconfont icon-project" aria-hidden="true"></i>
+                    <span class="menu-title">Repository</span>
+                </a>
+            </div>
+        
+        
+            <div class="menu-item menu-links" role="menuitem">
+                <a href="/links">
+                    <i class="iconfont icon-friend" aria-hidden="true"></i>
+                    <span class="menu-title">Links</span>
+                </a>
+            </div>
+        
+        
+            <div class="menu-item menu-about" role="menuitem">
+                <a href="/about">
+                    <i class="iconfont icon-cup" aria-hidden="true"></i>
+                    <span class="menu-title">About</span>
+                </a>
+            </div>
+        
+        
+<div class="social-links flex sm:flex-col lg:hidden mt-5">
+    
+        <span class="social-item text-center">
+            <a target="_blank" rel="noopener" href="https://github.com/clnair-ascm">
+                <i class="iconfont social-icon icon-github"></i>
+                <span class="menu-title hidden lg:inline">menu.github</span>
+            </a>
+        </span>
+    
+        <span class="social-item text-center">
+            <a target="_blank" rel="noopener" href="https://t.me/fengkx">
+                <i class="iconfont social-icon icon-telegram"></i>
+                <span class="menu-title hidden lg:inline">menu.telegram</span>
+            </a>
+        </span>
+    
+        <span class="social-item text-center">
+            <a target="_blank" rel="noopener" href="https://twitter.com/example">
+                <i class="iconfont social-icon icon-twitter"></i>
+                <span class="menu-title hidden lg:inline">menu.twitter</span>
+            </a>
+        </span>
+    
+        <span class="social-item text-center">
+            <a href="/atom.xml">
+                <i class="iconfont social-icon icon-rss"></i>
+                <span class="menu-title hidden lg:inline">menu.rss</span>
+            </a>
+        </span>
+    
+</div>
+
+
+    </nav>
+</header>
+
+        <section class="main-section">
+            
+    <main class="flex-1 px-4 py-14 md:px-5 lg:px-8 lg:py-4 relative min-h-screen">
+    
+
+    <article class="content article article-archives article-type-list" itemscope="">
+        <header class="article-header">
+            
+    
+        <h1 class="article-title text-lg" itemprop="name">
+            Document
+        </h1>
+    
+
+
+
+            <p class="article-meta mb-3 text-xs">
+                <span class="article-date">
+    <i class="iconfont icon-calendar-check"></i>
+	<a href="/2020/03/14/document/" class="article-date">
+	  <time datetime="2020-03-14T22:59:19.000Z" itemprop="datePublished">Mar 14</time>
+	</a>
+</span>
+
+                
+
+                
+    <span class="article-tags">
+    <i class="iconfont icon-tag"></i>
+    <a class="article-tag-none-link" href="/tags/Doc/" rel="tag">Doc</a>
+  </span>
+
+
+                <span class="_partial/post-comment"><i class="icon icon-comment"></i>
+                    <a href="/2020/03/14/document/#comments" class="article-comment-link">
+                        Comments
+                    </a>
+                </span>
+                
+    
+        <span class="post-wordcount" itemprop="wordCount">Word Count: 1.3k(words)</span>
+    
+    
+        <span class="post-readcount" itemprop="timeRequired">Read Count: 7(minutes)</span>
+    
+
+
+            </p>
+        </header>
+        <div class="marked-body article-body">
+            <h1>Basic concept</h1>
+<p><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a> is a static Blog Framework. Assuming you have installed Hexo under the guidance of <a target="_blank" rel="noopener" href="https://hexo.io/docs/">offical Document</a>.</p>
+<p>You can find a file named<code>_config.yml</code>. Let’s call it <strong>site config file</strong>. At the same time, You should find a folder named <code>themes</code>, which is used to store Hexo theme. Every folder in <code>themes</code> is<br>
+a Hexo theme. Every theme should also have a <code>_config.yml</code>. Let’s call it <strong>theme config file</strong>.</p>
+<p>Hexo theme is set through the <code>theme</code> property in site config file. It should be the name of a folder in <code>themes</code> folder.</p>
+<p>Both the site config file and theme config file are using <a target="_blank" rel="noopener" href="https://yaml.org/">YAML(YAML Ain’t Markup Language)</a>. There are some points we should pay attention to.</p>
+<ol>
+<li>The format is mainly about key-value pair，It is divided by a<code>: </code>. <strong>There should be at least one space between colon and value</strong></li>
+<li>The hierarchical relationship is indicated by <strong>indent</strong></li>
+<li>We can optionally add quotation marks to a string value</li>
+<li>A line beginning with <code>-</code> is a list item</li>
+<li>A line beginning with <code>#</code> is a comment</li>
+</ol>
+<p>For example</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">site:</span></span><br><span class="line">  <span class="attr">favicon:</span> <span class="string">/images/favicon.ico</span></span><br><span class="line">  <span class="attr">site_verification:</span></span><br><span class="line">    <span class="attr">google:</span> <span class="string">&#x27;ABC&#x27;</span></span><br><span class="line"><span class="comment">#   baidu:</span></span><br></pre></td></tr></table></figure>
+<p>We can say the propery with value of <code>ABC</code> as <code>site.site_verfication.google</code></p>
+<h1>Installation</h1>
+<p>There are three things to do</p>
+<ol>
+<li>Download the theme to <code>themes</code> folder and name it correctly</li>
+<li>rewrite the theme config file and install the dependencies</li>
+<li>set the <code>theme</code> property in site config file</li>
+</ol>
+<p>If you use Git to maintain the source file of your blog，<code>Git submodule</code> is recommended to install the theme。</p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git submodule add https://github.com/fengkx/hexo-theme-purer themes/purer</span><br></pre></td></tr></table></figure>
+<p>After running the command above, <code>purer</code> theme is cloned under <code>themes/purer</code>. And a <code>.gitmodules</code> is generated.<br>
+<img src="https://i.loli.net/2020/03/14/ihvBKmdjrLxHwVO.png" alt="gitmodules.png"><br>
+You should check out this file in Git too.</p>
+<p>To avoid conflict, <code>purer</code> theme add <code>_config.yml</code> into <code>.gitignore</code>. For the same reason, I suggest you never change the file inside the theme directly.<br>
+We can put the real theme config file into the site root directory.</p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cp</span> themes/purer/_config.example.yml _config.theme.yml</span><br></pre></td></tr></table></figure>
+<p>Then we can copy this file into the theme’s root directory when building. We can do this by <code>npm script</code>. Rewrite the <code>scripts</code> part of the <code>package.json</code> in the site root directory.</p>
+<figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;scripts&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">      <span class="attr">&quot;theme&quot;</span><span class="punctuation">:</span> <span class="string">&quot;cat ./_config.theme.yml &gt; ./themes/purer/_config.yml &quot;</span><span class="punctuation">,</span></span><br><span class="line">      <span class="attr">&quot;build&quot;</span><span class="punctuation">:</span> <span class="string">&quot;npm run theme &amp;&amp; hexo generate&quot;</span><span class="punctuation">,</span></span><br><span class="line">      <span class="attr">&quot;clean&quot;</span><span class="punctuation">:</span> <span class="string">&quot;hexo clean&quot;</span><span class="punctuation">,</span></span><br><span class="line">      <span class="attr">&quot;deploy&quot;</span><span class="punctuation">:</span> <span class="string">&quot;npm run theme &amp;&amp; hexo deploy&quot;</span><span class="punctuation">,</span></span><br><span class="line">      <span class="attr">&quot;server&quot;</span><span class="punctuation">:</span> <span class="string">&quot;npm run theme &amp;&amp; hexo server&quot;</span></span><br><span class="line">    <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure>
+<p>After that, every time we run a <code>npm scripts</code> such as <code>npm run build</code>. The theme config file get updated. It can also achive by a static site host platform with building process support(such as<br>
+Netlify) or a CI.</p>
+<p>Then we just set the <code>theme</code> property to <code>purer</code> in the site config file.</p>
+<p>Try <code>npm run server</code>, You should get a site like this.</p>
+<p><img src="https://i.loli.net/2020/03/14/4lmxLaybI5VSjGO.png" alt="new_init.png"></p>
+<h2 id="Updating-theme">Updating theme</h2>
+<p>Just run <code>git pull origin master</code> in the theme root directory.</p>
+<h2 id="Install-dependencies">Install dependencies</h2>
+<p>Uninstall the dependencies we don’t use.</p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm uninstall hexo-renderer-stylus</span><br><span class="line">npm uninstall hexo-renderer-marked</span><br></pre></td></tr></table></figure>
+<p>Use markdown-it instead of marked</p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i -S hexo-renderer-markdown-it</span><br></pre></td></tr></table></figure>
+<p><code>hexo-renderer-markdown-it</code> do not generate the anchor of <code>h1</code>, So we need to add some configurations in site config file.</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">markdown:</span></span><br><span class="line">  <span class="attr">html:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">xhtmlOut:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">breaks:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">langPrefix:</span></span><br><span class="line">  <span class="attr">linkify:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">typographer:</span></span><br><span class="line">  <span class="attr">quotes:</span> <span class="string">“”‘’</span></span><br><span class="line">  <span class="attr">anchors:</span></span><br><span class="line">    <span class="attr">level:</span> <span class="number">1</span></span><br><span class="line">    <span class="attr">permalink:</span> <span class="literal">false</span></span><br><span class="line">    <span class="attr">separator:</span> <span class="string">&#x27;-&#x27;</span></span><br></pre></td></tr></table></figure>
+<p>For add image using markdown from <code>post_assert_folder</code></p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i -S hexo-asset-image</span><br></pre></td></tr></table></figure>
+<p>For emoji and mathematical formula</p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm i -S markdown-it-emoji</span><br><span class="line">npm i -S @iktakahiro/markdown-it-katex</span><br></pre></td></tr></table></figure>
+<p>We need to load some plugins. End up we got thing like this.</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">markdown:</span></span><br><span class="line">  <span class="attr">html:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">xhtmlOut:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">breaks:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">langPrefix:</span></span><br><span class="line">  <span class="attr">linkify:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">typographer:</span></span><br><span class="line">  <span class="attr">quotes:</span> <span class="string">“”‘’</span></span><br><span class="line">  <span class="attr">anchors:</span></span><br><span class="line">    <span class="attr">level:</span> <span class="number">1</span></span><br><span class="line">    <span class="attr">permalink:</span> <span class="literal">false</span></span><br><span class="line">    <span class="attr">separator:</span> <span class="string">&#x27;-&#x27;</span></span><br><span class="line">  <span class="attr">plugins:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&#x27;@iktakahiro/markdown-it-katex&#x27;</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">markdown-it-emoji</span></span><br></pre></td></tr></table></figure>
+<h1>Page creation</h1>
+<p>The page of  <code>[categories, tags,  repository, links, about]</code> does not create by default. You need to create a folder inside the <code>source</code> directory with a corresponding name and create an <code>index.md</code><br>
+in it. Then set <code>layout</code> in <code>front-matter</code>.<br>
+Directory structure like this</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">source</span><br><span class="line">├── about</span><br><span class="line">│   └── index.md</span><br><span class="line">├── categories</span><br><span class="line">│   └── index.md</span><br><span class="line">├── links</span><br><span class="line">│   └── index.md</span><br><span class="line">├── repository</span><br><span class="line">│   └── index.md</span><br><span class="line">└── tags</span><br><span class="line">    └── index.md</span><br></pre></td></tr></table></figure>
+<p>For example, the <code>index.md</code> under <code>repository</code> folder has content like this.</p>
+<figure class="highlight md"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: Repositories</span><br><span class="line">layout: repository</span><br><span class="line">comments: false</span><br><span class="line"><span class="section">sidebar: none</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></table></figure>
+<p>你可以通过<code>front-matter</code>控制是否显示右侧的 sidebar</p>
+<p>You can also customize <code>404</code> page like this. Example directory structure</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">404</span><br><span class="line">├── cover.jpg</span><br><span class="line">├── happy-time.mp3</span><br><span class="line">├── index.md</span><br><span class="line">└── lrc.txt</span><br></pre></td></tr></table></figure>
+<h1>Links</h1>
+<p>Links data is sperated with theme，It is stored in 的<code>links.yml</code> under <a target="_blank" rel="noopener" href="https://hexo.io/docs/data-files">data folder</a>.<br>
+For example:</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># links</span></span><br><span class="line"><span class="attr">fengkx0:</span></span><br><span class="line">  <span class="attr">link:</span> <span class="string">https://www.fengkx.top</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">https://www.fengkx.top/images/avatar.jpg</span></span><br><span class="line">  <span class="attr">desc:</span> <span class="string">测试测试</span></span><br><span class="line"></span><br><span class="line"><span class="attr">fengkx1:</span></span><br><span class="line">  <span class="attr">link:</span> <span class="string">https://www.fengkx.top</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">https://www.fengkx.top/images/avatar.jpg</span></span><br><span class="line">  <span class="attr">desc:</span> <span class="string">测试测试</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>We can see the result in <a target="_blank" rel="noopener" href="https://www.fengkx.top/links/">Demo</a></p>
+<h1>Local search</h1>
+<p><code>hexo-generator-json-content</code> is needed.</p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i -S hexo-generator-json-content</span><br></pre></td></tr></table></figure>
+<h1>Theme configuration</h1>
+<h2 id="menu">menu</h2>
+<p>Whether show menu in the header on the left-hand side, Comment out if you don’t need it.</p>
+<h2 id="menu-icons">menu_icons</h2>
+<p><code>enable</code> Wether show icon on the left-hand side menu，set to <code>false</code> if you don’t need it.<br>
+others part is the <code>class</code> of <code>iconfont</code>. Generally, we don’t need to change it. If you want to add new icons, Welcome to post an <a target="_blank" rel="noopener" href="https://github.com/fengkx/hexo-theme-purer/issues">Issue</a> or change<br>
+the <code>src/css/iconfont.css</code> file. Icon is provided by Alibaba’s <a target="_blank" rel="noopener" href="https://iconfont.cn">iconfont.cn</a>.</p>
+<h2 id="site">site</h2>
+<h3 id="favicon">favicon</h3>
+<p>site favicon path，relateive to <code>source</code> or <code>source</code> under the theme root directory.<br>
+For example <code>/images.fvicon.ico</code> is treated as<code>source/images/favicon.ico</code>.</p>
+<h3 id="site-verification">site_verification</h3>
+<p>HTML meta verification provided by Google or Baidu such as</p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">&quot;google-site-verification&quot;</span> <span class="attr">content</span>=<span class="string">&quot;your verification string&quot;</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>Paset the string in content into the corresponding property.</p>
+<h3 id="google-analytics">google_analytics</h3>
+<p>Set a track ID provided by Google Analytics. Disabled when empty.</p>
+<h2 id="pagination">pagination</h2>
+<p>prev， next whether always show the button，<code>true</code> by default. Only work when there is more than one page.</p>
+<h2 id="comment">comment</h2>
+<h3 id="type">type</h3>
+<p>Choose which comment system to use. Disabled by leave it blanks<br>
+You can control whether enable comment on a certain post by setting <code>comment: boolean</code> in <code>front-matter</code>. The default value is true.</p>
+<h2 id="github">github</h2>
+<h3 id="username">username</h3>
+<p>GitHub username</p>
+<h2 id="postCount">postCount</h2>
+<h3 id="enable">enable</h3>
+<p>Whether enable. Extra dependency is needed.</p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i --save hexo-wordcount</span><br></pre></td></tr></table></figure>
+<h3 id="wordocunt">wordocunt</h3>
+<p>Whether show word count</p>
+<h3 id="min2read">min2read</h3>
+<p>Whether show minutes to read.</p>
+<h2 id="toc">toc</h2>
+<p>TOC global switch<br>
+You can controll whether enable toc on a certain post by setting <code>toc: boolean</code> in <code>front-matter</code>. The default value is true.</p>
+<h2 id="fancybox">fancybox</h2>
+<p>Whether enable Fancybox image effects based on<a target="_blank" rel="noopener" href="https://sachinchoolur.github.io/lightgallery.js/">LightGallery</a>. Enabled by default.</p>
+<h2 id="license">license</h2>
+<p>Copyright HTML fragment. Comment out if you don’t want to show Copyright.</p>
+<h2 id="footer">footer</h2>
+<h3 id="custom">custom</h3>
+<p>Customize Footer HTML fragment. Comment out if you don’t want to show extra footer.</p>
+<p>A <a target="_blank" rel="noopener" href="https://purer.netlify.com">Live Demo</a><br>
+Demo source file <a target="_blank" rel="noopener" href="https://github.com/fengkx/purer-theme-demo">Source</a></p>
+<h2 id="profile">profile</h2>
+<h3 id="enable-2">enable</h3>
+<p>Whether display profile<br>
+You can see the effect on <a target="_blank" rel="noopener" href="https://purer.netlify.com">Demo</a><br>
+Demo 源文件 <a target="_blank" rel="noopener" href="https://github.com/fengkx/purer-theme-demo">Source</a></p>
+<h3 id="social">social</h3>
+<h4 id="links">links</h4>
+<p>links and icons in footer。If you want to add new icon, Welcome to post an <a target="_blank" rel="noopener" href="https://github.com/fengkx/hexo-theme-purer/issues">Issue</a>.</p>
+<h3 id="links-2">links</h3>
+<p>Links shown in the sidebar of about page</p>
+<h3 id="labels">labels</h3>
+<p>Labels shown in the sidebar of about page</p>
+<h3 id="skills">skills</h3>
+<p>Skills shown in the sidebar of about page</p>
+<h3 id="works">works</h3>
+<p>Wroks shown in the sidebar of about page</p>
+<h2 id="widgets">widgets</h2>
+<p>widget shown in the sidebar. Comment out to disable</p>
+<h3 id="show-count">show_count</h3>
+<p>Whether show post count at tag， archive，category widget in the sidebar</p>
+<h2 id="cdn">cdn</h2>
+<p>CDN uri，don’t change it if you don’t know what it is.</p>
+
+        </div>
+        
+<blockquote class="copyright">
+    <p><strong>Link to this article : </strong><a class="permalink" href="http://example.com/2020/03/14/document/">http://example.com/2020/03/14/document/</a></p>
+    <p><strong>This article is available under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> License</strong></p>
+</blockquote>
+
+
+    </article>
+    
+    <section id="comments">
+        
+    </section>
+
+
+    
+
+</main>
+
+
+<aside style="" id="sidebar" class="aside aside-fixture">
+    <div class="toc-sidebar">
+        <nav id="toc" class="article-toc">
+            <h3 class="toc-title">Catalogue</h3>
+            <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">1.</span> <span class="toc-text">Basic concept</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">2.</span> <span class="toc-text">Installation</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#Updating-theme"><span class="toc-number">2.1.</span> <span class="toc-text">Updating theme</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Install-dependencies"><span class="toc-number">2.2.</span> <span class="toc-text">Install dependencies</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">3.</span> <span class="toc-text">Page creation</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">4.</span> <span class="toc-text">Links</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">5.</span> <span class="toc-text">Local search</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">6.</span> <span class="toc-text">Theme configuration</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#menu"><span class="toc-number">6.1.</span> <span class="toc-text">menu</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#menu-icons"><span class="toc-number">6.2.</span> <span class="toc-text">menu_icons</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#site"><span class="toc-number">6.3.</span> <span class="toc-text">site</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#favicon"><span class="toc-number">6.3.1.</span> <span class="toc-text">favicon</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#site-verification"><span class="toc-number">6.3.2.</span> <span class="toc-text">site_verification</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#google-analytics"><span class="toc-number">6.3.3.</span> <span class="toc-text">google_analytics</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#pagination"><span class="toc-number">6.4.</span> <span class="toc-text">pagination</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#comment"><span class="toc-number">6.5.</span> <span class="toc-text">comment</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#type"><span class="toc-number">6.5.1.</span> <span class="toc-text">type</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#github"><span class="toc-number">6.6.</span> <span class="toc-text">github</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#username"><span class="toc-number">6.6.1.</span> <span class="toc-text">username</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#postCount"><span class="toc-number">6.7.</span> <span class="toc-text">postCount</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#enable"><span class="toc-number">6.7.1.</span> <span class="toc-text">enable</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#wordocunt"><span class="toc-number">6.7.2.</span> <span class="toc-text">wordocunt</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#min2read"><span class="toc-number">6.7.3.</span> <span class="toc-text">min2read</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#toc"><span class="toc-number">6.8.</span> <span class="toc-text">toc</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#fancybox"><span class="toc-number">6.9.</span> <span class="toc-text">fancybox</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#license"><span class="toc-number">6.10.</span> <span class="toc-text">license</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#footer"><span class="toc-number">6.11.</span> <span class="toc-text">footer</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#custom"><span class="toc-number">6.11.1.</span> <span class="toc-text">custom</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#profile"><span class="toc-number">6.12.</span> <span class="toc-text">profile</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#enable-2"><span class="toc-number">6.12.1.</span> <span class="toc-text">enable</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#social"><span class="toc-number">6.12.2.</span> <span class="toc-text">social</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#links"><span class="toc-number">6.12.2.1.</span> <span class="toc-text">links</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#links-2"><span class="toc-number">6.12.3.</span> <span class="toc-text">links</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#labels"><span class="toc-number">6.12.4.</span> <span class="toc-text">labels</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#skills"><span class="toc-number">6.12.5.</span> <span class="toc-text">skills</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#works"><span class="toc-number">6.12.6.</span> <span class="toc-text">works</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#widgets"><span class="toc-number">6.13.</span> <span class="toc-text">widgets</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#show-count"><span class="toc-number">6.13.1.</span> <span class="toc-text">show_count</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#cdn"><span class="toc-number">6.14.</span> <span class="toc-text">cdn</span></a></li></ol></li></ol>
+        </nav>
+    </div>
+</aside>
+
+
+
+
+
+        </section>
+        <footer class="hidden lg:block fixed bottom-0 left-0 sm:w-1/12 lg:w-1/6 bg-gray-100 z-40">
+    
+    <div class="footer-social-links">
+        
+            <a target="_blank" rel="noopener" href="https://github.com/clnair-ascm">
+                <i class="iconfont icon-github"></i>
+            </a>
+        
+            <a target="_blank" rel="noopener" href="https://t.me/fengkx">
+                <i class="iconfont icon-telegram"></i>
+            </a>
+        
+            <a target="_blank" rel="noopener" href="https://twitter.com/example">
+                <i class="iconfont icon-twitter"></i>
+            </a>
+        
+            <a href="/atom.xml">
+                <i class="iconfont icon-rss"></i>
+            </a>
+        
+    </div>
+    
+    
+</footer>
+
+        <div id="mask" class="hidden mask fixed inset-0 bg-gray-900 opacity-75 z-40"></div>
+        <div id="search-view-container" class="hidden shadow-xl"></div>
+        
+<script src="/js/dom-event.min.js"></script>
+
+
+
+<script src="/js/local-search.min.js"></script>
+
+
+
+    <script src="//cdn.jsdelivr.net/npm/lightgallery.js@1.1.3/dist/js/lightgallery.min.js"></script>
+    
+<script src="/js/light-gallery.min.js"></script>
+
+
+
+
+
+
+    </body>
+</html>
