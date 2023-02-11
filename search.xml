@@ -4,35 +4,6 @@
   
     
     <entry>
-      <title>Linux Learning</title>
-      <link href="/2023/02/11/2023_01_14_Linux/"/>
-      <url>/2023/02/11/2023_01_14_Linux/</url>
-      
-        <content type="html"><![CDATA[<p><strong>“My name is Linus, and I am your God.” - Linus Torvalds.</strong></p><p>– updated on 19/02/2022 –</p><h1 id="Linux操作系统"><strong>Linux操作系统</strong></h1><hr><p align="left">    <a href="https://linuxjourney.com/" target="_blank">        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/mod/hello-world.png" width="400"/>    </a></p><p>实际企业级开发和项目部署，大部分情况下基本都是基于Linux环境进行的，所以掌握常用的命令、配置、网络和系统管理、基本的Shell编程等尽量还是要熟练一些，对后续项目实践都大有裨益。</p><p>[!Note]</p><ul><li><a href="https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q"><strong>本章节置顶资源1：《Linux命令速查备忘手册.pdf》下载</strong></a></li><li><a href="https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g"><strong>本章节置顶资源2：《Linux命令行大全.pdf》下载</strong></a></li><li><a href="https://mp.weixin.qq.com/s/x8rwsIOzYEPXmEVXmWJ4Tg">常用Linux操作系统大盘点</a></li><li><a href="https://mp.weixin.qq.com/s/WeZLtfrMdnISpX3v5WpJfA">人手一套Linux环境之：macOS版教程</a></li><li><a href="https://mp.weixin.qq.com/s/onVwwEQ1DAwbvK7qS2YNxg">人手一套Linux环境之：Windows版教程</a></li><li><a href="https://mp.weixin.qq.com/s/vkLZ_3Jp4HdQ8PDIMYsGEw">69张图：详细记录Ubuntu 20.04安装配置过程</a></li><li><a href="https://mp.weixin.qq.com/s/YpWp-b3vcAtb_jBwCM7wtg">废柴电脑拯救计划：借助Debian搭建个人专属云服务器</a></li><li><a href="https://mp.weixin.qq.com/s/Kog6AfXYINIDwKMpJMkGFQ">常用Linux命令大整理</a></li><li><a href="https://mp.weixin.qq.com/s/3NI4FWuOfYMJBiKqqnpqMA">面试常问的20个Linux命令</a></li><li><a href="https://mp.weixin.qq.com/s/jQAJQo28UsY3YIxC5ci1sA">Linux 桌面进化史</a></li><li><a href="https://mp.weixin.qq.com/s/6-yb1N-SwHr4EaQ-fvU4Ow">Linux迎来29岁：从个人爱好到统治世界的操作系统内核！</a></li><li><a href="https://mp.weixin.qq.com/s/4G6re30hxAacxmCLjP8KpQ">漫画：Linux 内核到底长啥样？</a></li><li><a href="https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q">资源下载 → 《Linux命令速查备忘手册.pdf》</a></li><li><a href="https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g">资源下载 → 《Linux命令行大全.pdf》</a></li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> Academic </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> toolkit </tag>
-            
-            <tag> data analysis </tag>
-            
-            <tag> learning materials </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>R-Learning</title>
       <link href="/2023/02/11/2023_01_14_R4data/"/>
       <url>/2023/02/11/2023_01_14_R4data/</url>
@@ -145,27 +116,27 @@
     
     
     <entry>
-      <title>Driving Lience in the UK</title>
-      <link href="/2022/12/26/2022_09_30_drvinglicence/"/>
-      <url>/2022/12/26/2022_09_30_drvinglicence/</url>
+      <title>Linux Learning</title>
+      <link href="/2023/01/14/2023_01_14_Linux/"/>
+      <url>/2023/01/14/2023_01_14_Linux/</url>
       
-        <content type="html"><![CDATA[<blockquote><h3 id="Driven-Lience-in-the-UK"><strong>Driven Lience in the UK</strong></h3></blockquote><p>– updated on 28/08/2022 –</p><hr><h3 id="1-Check-your-allowance-to-drive-on-the-UK’s-website-https-www-gov-uk-learn-to-drive-a-car">1. Check your allowance to drive on the UK’s website (<a href="https://www.gov.uk/learn-to-drive-a-car">https://www.gov.uk/learn-to-drive-a-car</a>).</h3><p>– Check what age you can drive (above 17) 年龄大于17岁<br>– Requirements for driving legally<br>– Driving eyesight rules 视力没有缺陷</p><h3 id="2-Get-a-provisional-driving-licence-https-apply-provisional-driving-licence-service-gov-uk">2. Get a provisional driving licence (<a href="https://apply-provisional-driving-licence.service.gov.uk/">https://apply-provisional-driving-licence.service.gov.uk/</a>).</h3><p>– Follow the steps to get a provisional licence<br>– You need to provide passport number, National Insurance number (If you know), and address where you’ve lived for the last 3 years<br>– 34-43 pounds for a provisional licence</p><h3 id="3-Wait-for-one-or-two-weeks-to-receive-the-application-form-and-send-it-back-to-the-DVLA-with-the-passport-BRP-and-a-photo-within-six-monthes">3. Wait for one or two weeks to receive the application form, and send it back to the DVLA with the passport, BRP, and a photo within six monthes.</h3><p>– Note make sure that you will not use your passport and BRP in the next four weeks, because you need to send them back to the DVLA</p><h3 id="4-Wait-for-one-or-two-weeks-to-receive-the-provisional-licence">4. Wait for one or two weeks to receive the provisional licence</h3><h3 id="5-Book-your-theory-test-online-https-www-gov-uk-book-theory-test">5. Book your theory test online (<a href="https://www.gov.uk/book-theory-test">https://www.gov.uk/book-theory-test</a>)</h3><p>– You need to pay 23 pounds for the theory test<br>– Remember to bring your provisional licence to the test<br>– You can practice the theory test online (<a href="https://www.gov.uk/theory-test">https://www.gov.uk/theory-test</a>)<br>– Part1 is 50 multiple choice questions, and you need to get 43 of 50 correct to pass<br>– Part2 is 14 hazard perception questions, and you need to get 44 of 75 correct to pass<br>– Recommandation: An app is helpful: [LDrivingTEST Theory 4in1 Kit], make sure you go through every question within the app.</p><h3 id="6-Take-the-theory-test">6. Take the theory test</h3><p>– Make sure that you attend to the right place 15 min before the test time [important]<br>– 50 min for the test<br>– Get a letter whether you pass or not<br>– If you pass, use your certificate number to book a practical test<br>– Pass the practical test within 2 years, otherwise you will need to retake the theory test</p><h3 id="7-Book-a-practical-test-https-www-gov-uk-book-practical-test">7. Book a practical test (<a href="https://www.gov.uk/book-practical-test">https://www.gov.uk/book-practical-test</a>)</h3><p>– You need to pay 60-80 pounds for the practical test<br>– Use Testi and DrivingCancellation to change the test time<br>– Make an appointment with you coach to practice (around 35 pounds per hour)</p><h3 id="8-Take-the-practical-test">8. Take the practical test</h3><p>– Make sure that you attend to the right place 15 min before the test time [important]<br>– 40 min for the test<br>– Get a letter when you pass and that letter can be used to drive legally<br>– 15 hours trainning for me to pass the test.</p>]]></content>
+        <content type="html"><![CDATA[<p><strong>“My name is Linus, and I am your God.” - Linus Torvalds.</strong></p><p>– updated on 19/02/2022 –</p><h1 id="Linux操作系统"><strong>Linux操作系统</strong></h1><hr><p align="left">    <a href="https://linuxjourney.com/" target="_blank">        <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/mod/hello-world.png" width="400"/>    </a></p><p>实际企业级开发和项目部署，大部分情况下基本都是基于Linux环境进行的，所以掌握常用的命令、配置、网络和系统管理、基本的Shell编程等尽量还是要熟练一些，对后续项目实践都大有裨益。</p><p>[!Note]</p><ul><li><a href="https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q"><strong>本章节置顶资源1：《Linux命令速查备忘手册.pdf》下载</strong></a></li><li><a href="https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g"><strong>本章节置顶资源2：《Linux命令行大全.pdf》下载</strong></a></li><li><a href="https://mp.weixin.qq.com/s/x8rwsIOzYEPXmEVXmWJ4Tg">常用Linux操作系统大盘点</a></li><li><a href="https://mp.weixin.qq.com/s/WeZLtfrMdnISpX3v5WpJfA">人手一套Linux环境之：macOS版教程</a></li><li><a href="https://mp.weixin.qq.com/s/onVwwEQ1DAwbvK7qS2YNxg">人手一套Linux环境之：Windows版教程</a></li><li><a href="https://mp.weixin.qq.com/s/vkLZ_3Jp4HdQ8PDIMYsGEw">69张图：详细记录Ubuntu 20.04安装配置过程</a></li><li><a href="https://mp.weixin.qq.com/s/YpWp-b3vcAtb_jBwCM7wtg">废柴电脑拯救计划：借助Debian搭建个人专属云服务器</a></li><li><a href="https://mp.weixin.qq.com/s/Kog6AfXYINIDwKMpJMkGFQ">常用Linux命令大整理</a></li><li><a href="https://mp.weixin.qq.com/s/3NI4FWuOfYMJBiKqqnpqMA">面试常问的20个Linux命令</a></li><li><a href="https://mp.weixin.qq.com/s/jQAJQo28UsY3YIxC5ci1sA">Linux 桌面进化史</a></li><li><a href="https://mp.weixin.qq.com/s/6-yb1N-SwHr4EaQ-fvU4Ow">Linux迎来29岁：从个人爱好到统治世界的操作系统内核！</a></li><li><a href="https://mp.weixin.qq.com/s/4G6re30hxAacxmCLjP8KpQ">漫画：Linux 内核到底长啥样？</a></li><li><a href="https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q">资源下载 → 《Linux命令速查备忘手册.pdf》</a></li><li><a href="https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g">资源下载 → 《Linux命令行大全.pdf》</a></li></ul>]]></content>
       
       
       <categories>
           
-          <category> Life </category>
+          <category> Academic </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> news </tag>
+            <tag> toolkit </tag>
             
-            <tag> driving tests </tag>
+            <tag> data analysis </tag>
             
-            <tag> entertainment </tag>
+            <tag> learning materials </tag>
             
         </tags>
       
@@ -181,35 +152,6 @@
         <content type="html"><![CDATA[<h1 id="DY151-SEANA-M-Phase-joint-cruise"><strong>DY151 SEANA/M-Phase joint cruise</strong></h1><hr><blockquote><h3 id="Royal-Research-Ship-RRS-Discovery-皇家科考船-探索号">Royal Research Ship (RRS) Discovery 皇家科考船-探索号</h3></blockquote><p>RRS Discovery is a multidisciplinary ship, specifically designed for the challenges of 21st century oceanography.</p><p>RRS发现号是一艘多学科的船，专门为21世纪的海洋学挑战而设计。</p><p>RRS Discovery was designed by A.S. Skipsteknisk and was delivered to the National Oceanography Centre on the 8 July 2013. Fitted with the most up-to-date and high-tech instruments and equipment, it is ideal for oceanic exploration.</p><p>RRS发现号由A.S. Skipsteknisk设计，于2013年7月8日交付给英国国家海洋中心。它配备了最先进的高科技仪器和设备，是探索海洋环境的理想选择。</p><p>With the ability to travel to remote and extreme oceanic environments, RRS Discovery is highly sophisticated and has the ability to operate in high sea states (up to sea-state 6).<br>The ship comes with sub-bottom profiling and multi-beam equipment for mapping the seabed, while her dynamic positioning capability means that Remotely Operated Vehicles can be used.<br>Her wide range of cranes and over-side gantries, with associated winches and wires, will allow many different types of equipment to be deployed from the ship.<br>These facilities and the many more listed below help support the marine science community as it undertakes research of national and global importance.</p><p>RRS发现号有能力前往偏远和极端的海洋环境，它具有高度的复杂性，并有能力在复杂海况（高达6级海况）下运行。该船配备了海底剖面测量和多波束设备，用于绘制海底地图，而她的动态定位能力意味着可以使用遥控操作的车辆。<br>她的起重机和侧边门架，以及相关的绞车和电线，将使许多不同类型的设备可以从船上部署。这些设施有助于支持海洋科学界进行具有国家和全球重要性的研究。</p><p align="left">      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_2.jpg" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_1.jpg" height="150"/>  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_3.jpg" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_8.jpg" height="150"/>  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_4.jpg" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_5.jpg" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_6.jpg" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/DY151/DY151_7.jpg" height="150"/></p>Plate 1. An Overview of the RRS Discovery, including the ship at sea, scientists before boarding, the steering system and the engine room.Figure 1   Scientists before boarding the RRS DiscoveryFigure 2-3 RRS Discovery on Arctic sea, with melting seaice surrounding byFigure 5   RRS Discovery sterring on an open seaFigure 7   RRS sterring systemFigure 8   RRS engine room<p>#<strong>虚拟参观 <a href="https://noc.ac.uk/facilities/ships/rrs-discovery/rrs-discovery-virtual-tour">Virtual Tour!!</a></strong></p><blockquote><h3 id="Preparation-行前准备">Preparation 行前准备</h3></blockquote><p>签证<br>药物<br>etc</p><blockquote><h3 id="Iceland-冰岛（雷克雅未克）5-13-5-16">Iceland 冰岛（雷克雅未克）5.13-5.16</h3></blockquote><p>Scientists finally got all prepared!</p><p align="left">      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_2.JPG" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_3.JPG" height="150"/>  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_4.JPG" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_1.JPG" height="150"/>  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_5.JPG" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_8.JPG" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_6.JPG" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_7.JPG" height="150"/></p>Plate 2. Road Trips in Iceland v1.<p align="left">      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_9.jpg"  height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_10.jpg" height="150"/>  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_11.jpg" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_12.jpg" height="150"/>  <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_13.jpg" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_14.jpg" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_15.jpg" height="150"/>      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/arctic/Iceland/ICE_16.jpg" height="150"/></p>Plate 3. Road Trips in Iceland v2.Figure 1   Scientists arrived Rekjavik AirportFigure 2-3 Accomodation in RekjavikFigure 6   Figure 8   <blockquote><h3 id="Greenland-South-east-coast">Greenland South-east coast</h3></blockquote><p>From 16th May to 23th May, the RRS Discovery was on the South East coast of Greenland near melting seaice. We stayed in order to avoid the risk of the storm.</p><blockquote><h3 id="Nuuk-Greenland’s-captial-city">Nuuk - Greenland’s captial city</h3></blockquote><p>On 30th May, the RRS Discovery was close to Nuuk at 9:00 am, the city was covered in fog, with only a few edges of buildings appearing from time to time. Fog disappeared quickly after<br>half hour later and gave us a clear view of the city.</p><blockquote><h3 id="Cov-Day！">Cov-Day！</h3></blockquote><p>Even with adequate personal protection in place prior to departure, COV19 virus was still pervasive. On the Sunday of the first week on board, four crew members felt unwell and were verified<br>to have tested positive, requiring self-quarantee in their cabins until turned negative. Meanwhile, masking, social distancing and staggered meals continue to be implemented to protect the health of<br>the rest of people.</p><ul><li><a href="https://mp.weixin.qq.com/s/x8rwsIOzYEPXmEVXmWJ4Tg">常用Linux操作系统大盘点</a></li></ul><hr><p><a href="https://yuqingdai.xyz/#/README">◄◄ BACK</a></p>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Urban Canyon Studies</title>
-      <link href="/2022/12/03/2021_03_12_streetcanyon/"/>
-      <url>/2022/12/03/2021_03_12_streetcanyon/</url>
-      
-        <content type="html"><![CDATA[<p>Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side, leading to persistent higher exposure risk for pedestrians near the roadside. Using CFD approaches is, in general, very computational expensive for the study of practical scenarios, expecially when explicit VOC chemical reactions are included. Here, a multi-box model with a flexible number of boxes and flexible chemical schemes (MBM-FleX) has been developed for air pollution simulations in street canyons.</p><p><strong>“All models are wrong, but some are useful” - George Box.</strong></p><blockquote><h3 id="A-2D-multi-box-Model-MBM-FleX-for-air-quality-simulations-in-urban-canyons"><strong>A 2D multi-box Model (MBM-FleX) for air quality simulations in urban canyons</strong></h3></blockquote><p>Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of v pollutants traped in side, leading to persistent higher exposure risk for pedestrians near the roadside. Using CFD approachesis, in general, very computational expensive for the study of practical scenarios, expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes (MBM-FleX) has been developed for air pollution simulations in street canyons. Click<a href="https://doi.org/10.1016/j.atmosenv.2021.118709">here</a> for more information.</p><p>城市街道峡谷通常指由街道和其两侧连续建筑所形成的相对密闭、类似自然峡谷的人造都市环境。它是城市表面的基本单元，并随着城市的发展越来越随处可见。一般来讲，街道峡谷的通风性较差，当背景风向垂直于街道中轴线时，大气污染物容易在其中累积，使得行人的健康风险上升。流体力学模型能够提供相对准确的气流扩散信息，但当需要纳入化学方案时，此类模型需要的计算资源较高。因此，VOC自由基化学反应在此前的模拟研究中被较少考虑。基于该背景，我们设计了分辨率可控的二维多箱模型用来模拟街道峡谷中气态污染物的物理化学过程。该模型性能与大涡模拟的一致性较好，能够反映主要气态污染物如NO2和O3在常规和深街道峡谷中的时间演化和空间变化规律，点击<a href="https://doi.org/10.1016/j.atmosenv.2021.118709">信息</a>了解详情。</p>  <p align="left">    <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/StreetCanyon_v1.gif" width="500"/>  </p><p><strong>2D MBM-FleX Animation</strong></p><p>The principle of the multi-box model is to split the volume of urban canyons into several boxes, where each box ideally reflects a resolved airflow arising from the aspect ratio or physical obstructions in urban street canyons. In the two-dimensional framework, boxes inside the model are indexed based on their locations in Cartesian coordinates. Pollutant transfer between adjecent boxes is determined by the mean wind advection and by turbulent diffusion across the mesh interface.</p><blockquote><h3 id="NO2-Hotspot-and-Regulatory-Wiggle-Room"><strong>NO2 Hotspot and Regulatory Wiggle Room</strong></h3></blockquote>  <p align="left">    <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/wiggleroom.png" width="500"/>  </p><p>城市大气化学和物理传输过程对街道峡谷中二氧化氮（NO2）浓度的影响还不完全清楚。我们采用挥发性有机污染物（VOCs）化学机理和多箱模型模拟街道峡谷“热点区域”的NO2浓度变化。通过改变氮氧化物（NOx）、VOCs的排放强度及一次NO2的占比（fNO2）（共计42,000项敏感性测试），使用“回旋空间”作为参数证明了VOCs化学在城市街道峡谷模拟中的必要性。以伦敦市中心为例，使用VOCs化学机理使得峡谷内1小时NO2浓度由达标转为不达标。因而，忽略挥发性有机物化学可能会低估常规街道峡谷中5.9%-22.1%的NO2，导致空气质量模拟结果出现假达标现象。该影响在深峡谷中较低fNO2的情景下更为显著（-51.3%-30.9%）。“回旋空间”的波动性说明对主要排放参数进行协同管控能够达到更加显著的减排效果。</p><blockquote><h3 id="The-Shading-Effects"><strong>The Shading Effects</strong></h3></blockquote>  <p align="left">      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/shading.png" width="500"/> </p><blockquote><h3 id="A-Case-Study-in-Naples"><strong>A Case Study in Naples</strong></h3></blockquote>  <p align="left">      <img src=" https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/dcinital.png" width="500"/>  </p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Research </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> air pollution </tag>
-            
-            <tag> street canyon </tag>
-            
-            <tag> VOC radical chemistry </tag>
-            
-        </tags>
       
     </entry>
     
@@ -245,6 +187,35 @@
     
     
     <entry>
+      <title>Driving Lience in the UK</title>
+      <link href="/2022/09/30/2022_09_30_drvinglicence/"/>
+      <url>/2022/09/30/2022_09_30_drvinglicence/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h3 id="Driven-Lience-in-the-UK"><strong>Driven Lience in the UK</strong></h3></blockquote><p>– updated on 28/08/2022 –</p><hr><h3 id="1-Check-your-allowance-to-drive-on-the-UK’s-website-https-www-gov-uk-learn-to-drive-a-car">1. Check your allowance to drive on the UK’s website (<a href="https://www.gov.uk/learn-to-drive-a-car">https://www.gov.uk/learn-to-drive-a-car</a>).</h3><p>– Check what age you can drive (above 17) 年龄大于17岁<br>– Requirements for driving legally<br>– Driving eyesight rules 视力没有缺陷</p><h3 id="2-Get-a-provisional-driving-licence-https-apply-provisional-driving-licence-service-gov-uk">2. Get a provisional driving licence (<a href="https://apply-provisional-driving-licence.service.gov.uk/">https://apply-provisional-driving-licence.service.gov.uk/</a>).</h3><p>– Follow the steps to get a provisional licence<br>– You need to provide passport number, National Insurance number (If you know), and address where you’ve lived for the last 3 years<br>– 34-43 pounds for a provisional licence</p><h3 id="3-Wait-for-one-or-two-weeks-to-receive-the-application-form-and-send-it-back-to-the-DVLA-with-the-passport-BRP-and-a-photo-within-six-monthes">3. Wait for one or two weeks to receive the application form, and send it back to the DVLA with the passport, BRP, and a photo within six monthes.</h3><p>– Note make sure that you will not use your passport and BRP in the next four weeks, because you need to send them back to the DVLA</p><h3 id="4-Wait-for-one-or-two-weeks-to-receive-the-provisional-licence">4. Wait for one or two weeks to receive the provisional licence</h3><h3 id="5-Book-your-theory-test-online-https-www-gov-uk-book-theory-test">5. Book your theory test online (<a href="https://www.gov.uk/book-theory-test">https://www.gov.uk/book-theory-test</a>)</h3><p>– You need to pay 23 pounds for the theory test<br>– Remember to bring your provisional licence to the test<br>– You can practice the theory test online (<a href="https://www.gov.uk/theory-test">https://www.gov.uk/theory-test</a>)<br>– Part1 is 50 multiple choice questions, and you need to get 43 of 50 correct to pass<br>– Part2 is 14 hazard perception questions, and you need to get 44 of 75 correct to pass<br>– Recommandation: An app is helpful: [LDrivingTEST Theory 4in1 Kit], make sure you go through every question within the app.</p><h3 id="6-Take-the-theory-test">6. Take the theory test</h3><p>– Make sure that you attend to the right place 15 min before the test time [important]<br>– 50 min for the test<br>– Get a letter whether you pass or not<br>– If you pass, use your certificate number to book a practical test<br>– Pass the practical test within 2 years, otherwise you will need to retake the theory test</p><h3 id="7-Book-a-practical-test-https-www-gov-uk-book-practical-test">7. Book a practical test (<a href="https://www.gov.uk/book-practical-test">https://www.gov.uk/book-practical-test</a>)</h3><p>– You need to pay 60-80 pounds for the practical test<br>– Use Testi and DrivingCancellation to change the test time<br>– Make an appointment with you coach to practice (around 35 pounds per hour)</p><h3 id="8-Take-the-practical-test">8. Take the practical test</h3><p>– Make sure that you attend to the right place 15 min before the test time [important]<br>– 40 min for the test<br>– Get a letter when you pass and that letter can be used to drive legally<br>– 15 hours trainning for me to pass the test.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Life </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> news </tag>
+            
+            <tag> driving tests </tag>
+            
+            <tag> entertainment </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Aplayer Custom element</title>
       <link href="/2021/04/01/music_aplayer/"/>
       <url>/2021/04/01/music_aplayer/</url>
@@ -256,6 +227,35 @@
         <tags>
             
             <tag> Music </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Urban Canyon Studies</title>
+      <link href="/2021/03/12/2021_03_12_streetcanyon/"/>
+      <url>/2021/03/12/2021_03_12_streetcanyon/</url>
+      
+        <content type="html"><![CDATA[<p>Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of anthropogenic pollutants traaped in side, leading to persistent higher exposure risk for pedestrians near the roadside. Using CFD approaches is, in general, very computational expensive for the study of practical scenarios, expecially when explicit VOC chemical reactions are included. Here, a multi-box model with a flexible number of boxes and flexible chemical schemes (MBM-FleX) has been developed for air pollution simulations in street canyons.</p><p><strong>“All models are wrong, but some are useful” - George Box.</strong></p><blockquote><h3 id="A-2D-multi-box-Model-MBM-FleX-for-air-quality-simulations-in-urban-canyons"><strong>A 2D multi-box Model (MBM-FleX) for air quality simulations in urban canyons</strong></h3></blockquote><p>Street canyons typically combine to build up a semi-enclosed urban environment with high concentrations of v pollutants traped in side, leading to persistent higher exposure risk for pedestrians near the roadside. Using CFD approachesis, in general, very computational expensive for the study of practical scenarios, expecially when explicit VOC chemical reactions are included. In this work, a multi-box model with a flexible number of boxes and flexible chemical schemes (MBM-FleX) has been developed for air pollution simulations in street canyons. Click<a href="https://doi.org/10.1016/j.atmosenv.2021.118709">here</a> for more information.</p><p>城市街道峡谷通常指由街道和其两侧连续建筑所形成的相对密闭、类似自然峡谷的人造都市环境。它是城市表面的基本单元，并随着城市的发展越来越随处可见。一般来讲，街道峡谷的通风性较差，当背景风向垂直于街道中轴线时，大气污染物容易在其中累积，使得行人的健康风险上升。流体力学模型能够提供相对准确的气流扩散信息，但当需要纳入化学方案时，此类模型需要的计算资源较高。因此，VOC自由基化学反应在此前的模拟研究中被较少考虑。基于该背景，我们设计了分辨率可控的二维多箱模型用来模拟街道峡谷中气态污染物的物理化学过程。该模型性能与大涡模拟的一致性较好，能够反映主要气态污染物如NO2和O3在常规和深街道峡谷中的时间演化和空间变化规律，点击<a href="https://doi.org/10.1016/j.atmosenv.2021.118709">信息</a>了解详情。</p>  <p align="left">    <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/StreetCanyon_v1.gif" width="500"/>  </p><p><strong>2D MBM-FleX Animation</strong></p><p>The principle of the multi-box model is to split the volume of urban canyons into several boxes, where each box ideally reflects a resolved airflow arising from the aspect ratio or physical obstructions in urban street canyons. In the two-dimensional framework, boxes inside the model are indexed based on their locations in Cartesian coordinates. Pollutant transfer between adjecent boxes is determined by the mean wind advection and by turbulent diffusion across the mesh interface.</p><blockquote><h3 id="NO2-Hotspot-and-Regulatory-Wiggle-Room"><strong>NO2 Hotspot and Regulatory Wiggle Room</strong></h3></blockquote>  <p align="left">    <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/wiggleroom.png" width="500"/>  </p><p>城市大气化学和物理传输过程对街道峡谷中二氧化氮（NO2）浓度的影响还不完全清楚。我们采用挥发性有机污染物（VOCs）化学机理和多箱模型模拟街道峡谷“热点区域”的NO2浓度变化。通过改变氮氧化物（NOx）、VOCs的排放强度及一次NO2的占比（fNO2）（共计42,000项敏感性测试），使用“回旋空间”作为参数证明了VOCs化学在城市街道峡谷模拟中的必要性。以伦敦市中心为例，使用VOCs化学机理使得峡谷内1小时NO2浓度由达标转为不达标。因而，忽略挥发性有机物化学可能会低估常规街道峡谷中5.9%-22.1%的NO2，导致空气质量模拟结果出现假达标现象。该影响在深峡谷中较低fNO2的情景下更为显著（-51.3%-30.9%）。“回旋空间”的波动性说明对主要排放参数进行协同管控能够达到更加显著的减排效果。</p><blockquote><h3 id="The-Shading-Effects"><strong>The Shading Effects</strong></h3></blockquote>  <p align="left">      <img src="https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/shading.png" width="500"/> </p><blockquote><h3 id="A-Case-Study-in-Naples"><strong>A Case Study in Naples</strong></h3></blockquote>  <p align="left">      <img src=" https://cdn.jsdelivr.net/gh/ddyyqq112233/yuqingd.github.io@master/pics/doc/dcinital.png" width="500"/>  </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Research </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> air pollution </tag>
+            
+            <tag> street canyon </tag>
+            
+            <tag> VOC radical chemistry </tag>
             
         </tags>
       
