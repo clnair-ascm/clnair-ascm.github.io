@@ -121,7 +121,7 @@ More information will be added smoothly, and some sections will be revised. Plea
   - Stay focused, providing benefits and evidence.
   - Monitoring and evaluation. 
 
-> [**2022-02-15:** How to construct a Nature summary paragraph?](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
+> [**2022-02-15:** How to construct a Nature summary paragraph?](https://www.nature.com/documents/nature-summary-paragraph.pdf)
   - Using one or two sentences providing a basic background to the field, comprehensible to a scientist in any displine;
   - Two or three sentences of more detailed background, comprehensible to scientists in related displine;
   - Using one or two sentences claiming the general problem being addressed by your research;
