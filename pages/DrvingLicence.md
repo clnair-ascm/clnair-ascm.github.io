@@ -9,21 +9,21 @@
 1. Eligibility Check
 
 Visit the UK Government's website for driving (https://www.gov.uk/learn-to-drive-a-car) to:
--- verify age eligibility (must be above 17 years old) 年龄大于17岁.
--- understand legal driving requirements.
--- familiarize with driving eyesight standards 视力没有缺陷.
+-- Verify age eligibility (must be above 17 years old) 年龄大于17岁.
+-- Understand legal driving requirements.
+-- Familiarize with driving eyesight standards 视力没有缺陷.
 
 2. Provisional Driving Licence Application
 
 Apply online (https://apply-provisional-driving-licence.service.gov.uk/) by:
 following the application steps.
--- providing your passport number, National Insurance number (if available), and residential addresses for the past 3 years.
--- paying the application fee (between £34-£43).
+-- Provide your passport number, National Insurance number (if available), and residential addresses for the past 3 years.
+-- Paying the application fee (between £34-£43).
 
 3. Application Processing
 
--- expect to receive an application form within 1-2 weeks.
--- send it back to the DVLA with your passport, Biometric Residence Permit (BRP), and a photo within six months.
+-- Expect to receive an application form within 1-2 weeks.
+-- Send it back to the DVLA with your passport, Biometric Residence Permit (BRP), and a photo within six months.
 -- note: Ensure your passport and BRP won't be needed for at least four weeks.
 -- provisional license typically arrives within 1-2 weeks after processing.
 
